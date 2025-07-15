@@ -13,7 +13,7 @@
       "type": "sp-image-standalone",
       "name": "🚀SP - Image Standalone",
       "settings": {
-        "background_color": "linear-gradient(307deg, rgba(207, 180, 145, 1), rgba(249, 208, 163, 1) 99%)",
+        "background_color": "linear-gradient(360deg, rgba(207, 180, 145, 1), rgba(249, 208, 163, 1) 99%)",
         "max_width": 1000,
         "padding_top": 25,
         "padding_bottom": 25,
