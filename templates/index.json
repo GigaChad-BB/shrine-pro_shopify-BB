@@ -151,6 +151,150 @@
         "custom_section_gradient_background": ""
       }
     },
+    "image_slider_WJxybd": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_xwqtwx": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Preuve sociale tiktok 5.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_3BdULR": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Preuve sociale tiktok 3.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_XiwbNA": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Preuve sociale tiktok 2.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_EBD7d7": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Preuve sociale tiktok 1.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_R3nXPV": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Preuve sociale tiktok 4.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_xwqtwx",
+        "video_slide_3BdULR",
+        "video_slide_XiwbNA",
+        "video_slide_EBD7d7",
+        "video_slide_R3nXPV"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "<strong>Le sérum viral aux millions de vues</strong>",
+        "title_highlight_color": "#121212",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "type": "loop",
+        "drag": "enabled",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 16,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 16,
+        "slides_mobile": 2,
+        "per_move_mobile": 2,
+        "mobile_spacing": 16,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 40,
+        "padding_bottom": 24,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
       "type": "comparison-table",
       "blocks": {
@@ -184,6 +328,7 @@
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2",
         "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -236,96 +381,6 @@
         "custom_colors_others_text": "#2e2a39"
       }
     },
-    "6aa09428-a417-429d-9159-a4e8afd49590": {
-      "type": "icon-bar",
-      "blocks": {
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Icon bar",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "",
-        "color_scheme": "background-1",
-        "icon_layout": "vertical",
-        "icon_size": "medium",
-        "icon_color": "accent-1",
-        "cards_color_scheme": "background-1",
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 4,
-        "slider_desktop": false,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_cards_colors_background": "#f3f3f3",
-        "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2e2a39"
-      }
-    },
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
       "type": "results",
       "blocks": {
@@ -356,6 +411,7 @@
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -390,6 +446,7 @@
     },
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -415,8 +472,8 @@
     "custom_liquid_YJmaPJ",
     "rich_text_PrKEKt",
     "image_with_text_L3R6fK",
+    "image_slider_WJxybd",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
-    "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9"
   ]
