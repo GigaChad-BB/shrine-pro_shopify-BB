@@ -140,7 +140,7 @@
         "mobile_image_quanlity": "1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 4,
+        "padding_bottom": 56,
         "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff",
@@ -157,12 +157,13 @@
         "slide_UTM4fC": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/10.jpg",
+            "image": "shopify://shop_images/10_81fd5302-44a4-4c1d-8840-45a69f4b0c89.jpg",
+            "mobile_image": "shopify://shop_images/10_81fd5302-44a4-4c1d-8840-45a69f4b0c89.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Un vrai coup de cœur !",
+            "heading": "Melanie B.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Ampoule de riz exfoliante, douce et sans odeur, parfaite pour tous les types de peau, même les plus sensibles. Sa texture est agréable, elle pénètre bien sans piquer. Résultat : peau lisse, lumineuse, régénérée dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le format dure longtemps. À 32 ans, c’est le moment idéal pour booster sa peau. Emballage pratique, excellente qualité… et des avis TikTok qui ne mentent pas. Un essentiel à avoir !",
+            "subheading": "Ampoule de riz exfoliante, douce et sans odeur, parfaite pour tous les types de peau, même les plus sensibles. Sa texture est agréable, elle pénètre bien sans piquer. Résultat : peau lisse, lumineuse, régénérée dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le format dure longtemps. À 32 ans, c’est le moment idéal pour booster sa peau. Emballage pratique, excellente qualité… et des avis TikTok qui ne mentent pas. Un coup de coeur et essentiel à avoir !",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -187,6 +188,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/6.jpg",
+            "mobile_image": "shopify://shop_images/6.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -216,6 +218,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/9.jpg",
+            "mobile_image": "shopify://shop_images/9.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -245,6 +248,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/7.jpg",
+            "mobile_image": "shopify://shop_images/7.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -274,6 +278,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/8.jpg",
+            "mobile_image": "shopify://shop_images/8.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
