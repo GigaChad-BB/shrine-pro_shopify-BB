@@ -9,30 +9,17 @@
  */
 {
   "sections": {
-    "custom_liquid_gVEUVp": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "custom_liquid": "<slideshow-component class=\"slider-mobile-gutter page-width mobile-text-below\" role=\"region\" aria-roledescription=\"Carrousel\" aria-label=\"Diaporama sur notre marque\"><div class=\"slidshow-template--25025789591896__8501c1ae-8c44-4ae6-9462-f5b4f385fe40 slideshow banner banner--small grid grid--1-col slider slider--everywhere banner--mobile-bottom\" id=\"Slider-template--25025789591896__8501c1ae-8c44-4ae6-9462-f5b4f385fe40\" aria-live=\"polite\" aria-atomic=\"true\" data-autoplay=\"true\" data-speed=\"5\" style=\"border-radius:10px;\"><style>\n        #Slide-template--25025789591896__8501c1ae-8c44-4ae6-9462-f5b4f385fe40-1 .banner__media::after {\n          opacity: 0.0;\n        }\n      </style>\n      <div class=\"slideshow__slide grid__item grid--1-col slider__slide\" id=\"Slide-template--25025789591896__8501c1ae-8c44-4ae6-9462-f5b4f385fe40-1\" role=\"group\" aria-roledescription=\"Diapositive\" aria-label=\"1 de 1\" tabindex=\"-1\">\n        <div class=\"small-hide\">\n          <div class=\"slideshow__media banner__media media\"><img id=\"Image-65769341387096-\" class=\"blur-up responsive-image__image image lazyautosizes ls-is-cached lazyloaded\" src=\"//soeliabeauty.com/cdn/shop/files/header_11zon_3600x.webp?v=1747729717\" data-src=\"//soeliabeauty.com/cdn/shop/files/header_11zon_3600x.webp?v=1747729717\" data-widths=\"[]\" data-aspectratio=\"1.5015060240963856\" data-sizes=\"auto\" tabindex=\"-1\" alt=\"\" sizes=\"1500px\">\n\n            \n          </div>\n        </div>\n        <div class=\"large-up-hide\">\n          <div class=\"slideshow__media banner__media media\"><img src=\"//soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=3840\" alt=\"\" srcset=\"//soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=375 375w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=550 550w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=750 750w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=1100 1100w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=1500 1500w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=1780 1780w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=2000 2000w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=3000 3000w, //soeliabeauty.com/cdn/shop/files/header_11zon.webp?v=1747729717&amp;width=3840 3840w\" height=\"1328\" loading=\"lazy\" sizes=\"100vw\">\n</div>\n        </div>\n        <div class=\"slideshow__text-wrapper banner--content-align-mobile-bottom banner__content banner__content--center banner__content--middle-center page-width\">\n          <div class=\"slideshow__text banner__box banner__box-slide_yy8jKK  content-container content-container--full-width-mobile color-scheme-64a2b88c-c634-4339-8359-e0e748086a7e gradient slideshow__text--center slideshow__text-mobile--center\"><style>\n                .lm-slide-head-slide_yy8jKK {\n                    font-size:25px !important;\n                    line-height:1.4;\n                    margin-bottom:10px;\n                }\n                  @media screen and (max-width: 600px){\n                    .lm-slide-head-slide_yy8jKK {\n                    font-size:20px !important;\n                }\n                  }\n                          @media only screen and (max-width: 749px) {\n                   .banner__content--flex-start>.banner__box-slide_yy8jKK {\n                    margin: 32px 0;\n                  }\n                          }\n              </style>\n              <h2 class=\"banner__heading inline-richtext lm-slide-head-slide_yy8jKK \">\n                Fini les impuretés ! \nUne peau nette, douce et lumineuse en 60 secondes.\n              </h2><div class=\"banner__text\">\n                <span>★★★★★ Noté 4.9/5 par plus de 13'000 clientes satisfaites.</span>\n              </div></div>\n        </div>\n      </div></div></slideshow-component>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "cfca4268-6358-426c-98ab-d292aeef11e5": {
       "type": "slideshow",
       "blocks": {
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/header.jpg",
-            "mobile_image": "shopify://shop_images/Chatgpt2_5a871811-f133-454c-8d7b-ba34bcce0028.png",
+            "mobile_image": "shopify://shop_images/header.jpg",
             "image_overlay_opacity": 0,
-            "heading": "",
-            "title_highlight_color": "#6d388b",
+            "heading": "ggggggg",
+            "title_highlight_color": "#d9b7b9",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -330,7 +317,6 @@
     }
   },
   "order": [
-    "custom_liquid_gVEUVp",
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
