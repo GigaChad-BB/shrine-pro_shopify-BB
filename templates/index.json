@@ -476,11 +476,11 @@
         "title_m4HRiT": {
           "type": "title",
           "settings": {
-            "text_size": "h1",
-            "title_alignment": "left",
+            "text_size": "h2",
+            "title_alignment": "center",
             "uppercase_title": false,
             "margin_top": 0,
-            "margin_bottom": 15
+            "margin_bottom": 9
           }
         },
         "price_Qh86ni": {
@@ -612,20 +612,20 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "product": "",
-        "color_scheme": "background-1",
+        "product": "noeva-peelshot",
+        "color_scheme": "background-2",
         "secondary_background": false,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "left",
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "mobile_media_corner_radius": 12,
+        "mobile_media_corner_radius": 8,
         "full_media_width": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 24
       }
     },
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
