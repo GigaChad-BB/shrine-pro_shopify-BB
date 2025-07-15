@@ -42,6 +42,19 @@
         "padding_bottom": 52
       }
     },
+    "custom_liquid_YJmaPJ": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 20px;\">\n  <img \n    src=\"{{ 'nom-du-fichier.gif' | asset_url }}\" \n    alt=\"Nom de la vidéo GIF\" \n    style=\"max-width: 100%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
       "type": "comparison-table",
       "blocks": {
@@ -302,6 +315,7 @@
   "order": [
     "sp_image_standalone_9jcqVg",
     "custom_liquid_6NC7WN",
+    "custom_liquid_YJmaPJ",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
