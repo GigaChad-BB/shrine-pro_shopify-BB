@@ -16,7 +16,7 @@
     "logo_width": 200,
     "mobile_logo_width": 120,
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#d9b7b9",
+    "colors_accent_1": "#cfb491ff",
     "gradient_accent_1": "",
     "colors_accent_2": "#cbbba0",
     "gradient_accent_2": "linear-gradient(146deg, rgba(203, 187, 160, 1) 14%, rgba(105, 14, 14, 1) 85%)",
