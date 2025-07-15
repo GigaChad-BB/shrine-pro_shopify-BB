@@ -9,18 +9,40 @@
  */
 {
   "sections": {
+    "sp_image_standalone_9jcqVg": {
+      "type": "sp-image-standalone",
+      "name": "🚀SP - Image Standalone",
+      "settings": {
+        "background_color": "linear-gradient(158deg, rgba(207, 180, 145, 1), rgba(249, 208, 163, 1) 99%)",
+        "max_width": 1000,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10,
+        "image": "shopify://shop_images/Page_accueil.png",
+        "media_aspect_ratio": "4 / 3",
+        "desktop_image_width": 1100,
+        "mobile_image": "shopify://shop_images/Page_accueil.png",
+        "mobile_media_aspect_ratio": "auto",
+        "mobile_image_width": 800,
+        "link": "",
+        "media_radius": 5,
+        "media_shadow": true
+      }
+    },
     "cfca4268-6358-426c-98ab-d292aeef11e5": {
       "type": "slideshow",
       "blocks": {
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/header.jpg",
             "mobile_image": "shopify://shop_images/header.jpg",
             "image_overlay_opacity": 0,
-            "heading": "ggggggg",
-            "title_highlight_color": "#d9b7b9",
-            "heading_size": "h1",
+            "heading": "<strong>Fini les impuretés ! Une peau nette, douce et lumineuse en 60 secondes</strong>",
+            "title_highlight_color": "#121212",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -317,6 +339,7 @@
     }
   },
   "order": [
+    "sp_image_standalone_9jcqVg",
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
