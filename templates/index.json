@@ -67,9 +67,9 @@
         "color_scheme": "background-1",
         "padding_top": 32,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -112,9 +112,9 @@
         "color_scheme": "background-1",
         "padding_top": 32,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -141,13 +141,13 @@
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 4,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -157,12 +157,13 @@
         "slide_UTM4fC": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/10.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "Un vrai coup de cœur !",
             "title_highlight_color": "#6d388b",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "heading_size": "h2",
+            "subheading": "Ampoule de riz exfoliante, douce et sans odeur, parfaite pour tous les types de peau, même les plus sensibles. Sa texture est agréable, elle pénètre bien sans piquer. Résultat : peau lisse, lumineuse, régénérée dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le format dure longtemps. À 32 ans, c’est le moment idéal pour booster sa peau. Emballage pratique, excellente qualité… et des avis TikTok qui ne mentent pas. Un essentiel à avoir !",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "atc_button_label": "",
@@ -185,6 +186,7 @@
         "slide_DhVKUe": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/6.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -213,6 +215,7 @@
         "slide_bEXgNd": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/9.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -241,6 +244,7 @@
         "slide_AU3KAz": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/7.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -269,6 +273,7 @@
         "slide_WedXYn": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/8.jpg",
             "image_overlay_opacity": 0,
             "heading": "Image slide",
             "title_highlight_color": "#6d388b",
@@ -455,7 +460,7 @@
         "mobile_arrows_position": "sides",
         "padding_top": 40,
         "padding_bottom": 24,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
