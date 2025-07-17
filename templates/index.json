@@ -728,22 +728,38 @@
         "text_fw3zVR": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext</p>"
+            "question": "Est-ce que ça pique ou ça brûle pendant l’application ?",
+            "answer": "<p><strong>Pas du tout.</strong> La texture est douce et le pH est respectueux de la peau. Pas de picotements ni de rougeurs à prévoir, même pour les peaux sensibles.</p>"
           }
         },
         "text_APhzKD": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext</p>"
+            "question": "Combien de fois par semaine puis-je l’utiliser ?",
+            "answer": "<p>2 à 3 fois par semaine suffisent pour des résultats visibles, sans sur-solliciter ta peau. Si ta peau est très sensible, commence par 1 fois/semaine.</p>"
+          }
+        },
+        "text_3j8nj4": {
+          "type": "text",
+          "settings": {
+            "question": "Je peux l’utiliser ailleurs que sur le visage ?",
+            "answer": "<p><strong>Oui</strong>, tu peux l’appliquer sur des zones ciblées comme le dos, les épaules ou le décolleté si ta peau y présente des imperfections mais applique le avec douceur 💛<br/><br/></p>"
+          }
+        },
+        "text_JURCBN": {
+          "type": "text",
+          "settings": {
+            "question": "Quel est l’intérêt de mélanger Riz Blanc et Riz Noir ?",
+            "answer": "<p><strong>Riz Blanc</strong> : naturellement riche en enzymes illuminatrices, il révèle instantanément l’éclat du teint et laisse une peau ultra douce, comme celle d’un bébé.</p><p><strong>Riz Noir</strong> : concentré en polyphénols, il purifie, resserre les pores et aide à éliminer les points noirs en douceur.</p><p><strong>Leur duo agit comme un peeling express</strong>, alliant éclat et nettoyage en profondeur sans agresser la peau.</p>"
           }
         }
       },
       "block_order": [
         "text_qt7cyb",
         "text_fw3zVR",
-        "text_APhzKD"
+        "text_APhzKD",
+        "text_3j8nj4",
+        "text_JURCBN"
       ],
       "name": "Faq",
       "settings": {
