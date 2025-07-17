@@ -42,6 +42,29 @@
         "padding_bottom": 52
       }
     },
+    "ss_wave_2_qhHDDC": {
+      "type": "ss-wave-2",
+      "name": "SS - Wave #2",
+      "settings": {
+        "wave_height": 48,
+        "wave_height_mobile": 62,
+        "wave_animation": true,
+        "wave_rotate": true,
+        "wave_color": "#cfb491",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
+    },
     "rich_text_x9TGpp": {
       "type": "rich-text",
       "blocks": {
@@ -764,12 +787,12 @@
       "name": "Faq",
       "settings": {
         "heading": "FAQ",
-        "icon_color": "#fff",
-        "hover_color": "#EFEFEF",
-        "question_color": "#fff",
+        "icon_color": "#ffffff",
+        "hover_color": "#efefef",
+        "question_color": "#ffffff",
         "background_color": "#cfb491",
-        "answer_color": "#000",
-        "answer_bg_color": "#fff",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
         "questions-font-size": 1.5
       }
     }
@@ -777,6 +800,7 @@
   "order": [
     "sp_image_standalone_9jcqVg",
     "custom_liquid_6NC7WN",
+    "ss_wave_2_qhHDDC",
     "rich_text_x9TGpp",
     "custom_liquid_YJmaPJ",
     "rich_text_PrKEKt",
