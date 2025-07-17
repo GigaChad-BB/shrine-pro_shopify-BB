@@ -17,9 +17,9 @@
         "fc645871-d789-4cfa-8584-4f8a29b6ce92": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Noeva_logo1.png",
-            "image_width": 230,
-            "alignment": "right",
+            "image": "shopify://shop_images/NoevaBeauty.png",
+            "image_width": 250,
+            "alignment": "",
             "url": "",
             "width_desktop": 4,
             "width_mobile": "1"
