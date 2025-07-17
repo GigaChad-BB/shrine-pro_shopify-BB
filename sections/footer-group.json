@@ -33,11 +33,24 @@
             "width_desktop": 6,
             "width_mobile": "1"
           }
+        },
+        "email_signup_YeCTCi": {
+          "type": "email_signup",
+          "settings": {
+            "heading": "Inscrivez-vous à notre newsletter",
+            "subtext": "<p>Inscrivez-vous avec votre adresse email pour recevoir des actualités et des offres exclusives.</p>",
+            "button_type": "solid",
+            "button_label": "S'inscrire",
+            "button_style_secondary": false,
+            "width_desktop": 1,
+            "width_mobile": "2"
+          }
         }
       },
       "block_order": [
         "fc645871-d789-4cfa-8584-4f8a29b6ce92",
-        "1c647602-cc00-4009-a058-976435c8ee9e"
+        "1c647602-cc00-4009-a058-976435c8ee9e",
+        "email_signup_YeCTCi"
       ],
       "settings": {
         "color_scheme": "accent-1",
