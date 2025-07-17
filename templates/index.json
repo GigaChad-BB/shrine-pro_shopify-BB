@@ -506,7 +506,7 @@
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "visibility": "always-display",
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "medium",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
