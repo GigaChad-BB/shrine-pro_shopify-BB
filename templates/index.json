@@ -319,7 +319,7 @@
         "desktop_border_radius": 0,
         "slides_desktop": 3,
         "per_move_desktop": 1,
-        "desktop_spacing": 16,
+        "desktop_spacing": 0,
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
