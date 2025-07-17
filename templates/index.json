@@ -680,23 +680,12 @@
             "row_content": "<p>Dépose <strong>une noisette</strong> de PeelShot sur ton visage (évite le contour des yeux et des lèvres).<br/><br/>Masse doucement en mouvements circulaires pour bien faire pénétrer les actifs ✨<br/><br/>Rince soigneusement à l’eau tiède pour une peau nette et douce.<br/><br/></p>",
             "page": ""
           }
-        },
-        "collapsible_row_cwqKXN": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "collapsible_row_z64RaN",
         "collapsible_row_9NanXh",
-        "collapsible_row_dMFccG",
-        "collapsible_row_cwqKXN"
+        "collapsible_row_dMFccG"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -704,7 +693,7 @@
         "visibility": "always-display",
         "caption": "",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -718,12 +707,54 @@
         "display_top_border": true,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2E2A39"
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "ss_simple_faq_VxDYBb": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_qt7cyb": {
+          "type": "text",
+          "settings": {
+            "question": "Ce sérum convient-il à mon type de peau (sèche, grasse, sensible) ?",
+            "answer": "<p><strong>Oui.</strong> Sa formule douce et équilibrée convient à tous les types de peau, même les plus sensibles. Il hydrate sans graisser, purifie sans agresser, et respecte l’équilibre naturel de la peau.</p>"
+          }
+        },
+        "text_fw3zVR": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        },
+        "text_APhzKD": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_qt7cyb",
+        "text_fw3zVR",
+        "text_APhzKD"
+      ],
+      "name": "Faq",
+      "settings": {
+        "heading": "FAQ",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
       }
     }
   },
@@ -738,6 +769,7 @@
     "slideshow_mD6MmY",
     "featured_product_7FQhzn",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
-    "collapsible_content_qzwLtY"
+    "collapsible_content_qzwLtY",
+    "ss_simple_faq_VxDYBb"
   ]
 }
