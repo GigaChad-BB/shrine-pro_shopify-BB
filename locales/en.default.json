@@ -474,7 +474,8 @@
       },
       "general": {
         "continue_to_payment_method": "Confirm Shipping Selection",
-        "pay_now_button_label": "Complete Purchase"
+        "pay_now_button_label": "Complete Purchase",
+        "autocomplete_powered_by_google": " "
       },
       "shipping": {
         "shipping_method_title": "Shipping method"
@@ -486,6 +487,9 @@
       "delivery_options": {
         "shipping_address": "Shipping Address"
       }
+    },
+    "links": {
+      "powered_by_shopify": " "
     }
   },
   "pagefly": {
