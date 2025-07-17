@@ -702,7 +702,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Attention aux contrefaçons",
-            "icon": "Warning",
+            "icon": "",
             "filled_icon": false,
             "row_content": "<p>Nos produits sont disponibles <strong>uniquement sur notre site officiel</strong>. Toute vente via des plateformes tierces concerne des copies non autorisées, souvent de qualité inférieure.<br/><br/>Pour garantir <strong>l’authenticité, la sécurité et l’efficacité</strong> de votre soin, veillez à commander exclusivement sur notre site.<br/><br/>Nous ne pourrons être tenus responsables des produits achetés ailleurs.</p>",
             "page": ""
@@ -712,7 +712,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Qualité des ingredients",
-            "icon": "diamond",
+            "icon": "",
             "filled_icon": false,
             "row_content": "<p><strong>Eau de Riz Blanc & Noir</strong> : exfolie tout en douceur 🌾 et redonne de l’éclat naturellement.<br/><strong>Pentavitin®</strong> : un super hydratant 💧 qui garde ta peau souple pendant 72k. Fini la sensation de peau sèche après un soin.<br/><strong>Niacinamide (Vitamine B3)</strong> : réduit visiblement les pores, équilibre le sébum et révèle l’éclat de ta peau.<br/><strong>AHA + BHA + PHA</strong> : trio magique pour lisser, désincruster les points noirs et affiner le grain de peau, sans irritation ✨.<br/><strong>Acide Hyaluronique</strong> : hydrate en profondeur et repulpe, pour une peau rebondie sans tiraillement.<br/><strong>Arbutine</strong> : agit en douceur sur les taches et les marques pour un teint plus uniforme.<br/><strong>Charbon & Argile de Riz Noir</strong> : purifient les pores, absorbent l’excès de sébum et préviennent les imperfections🖤.<br/><strong>Gluconolactone (PHA)</strong> : exfolie tout en respectant les peaux sensibles et en renforçant la barrière cutanée.<br/><strong>Extrait de Son de Riz</strong> : antioxydant puissant qui protège ta peau du teint terne.<br/><strong>Bétaïne végétale</strong> : apaise les sensations d’inconfort et rend la peau plus douce 🤍.</p><p>✅ Sans parabènes • Sans alcool desséchant • Sans huiles minérales<br/>✅ Sans grains abrasifs • 100 % végan • Jamais testé sur les animaux 🐰<br/>✅ pH respectueux • Idéal pour peaux sensibles & mixtes à grasses • Flacon recyclable ♻️</p>",
             "page": ""
@@ -722,7 +722,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Utilisation",
-            "icon": "face 3",
+            "icon": "",
             "filled_icon": false,
             "row_content": "<p>Dépose <strong>une noisette</strong> de PeelShot sur ton visage (évite le contour des yeux et des lèvres).<br/>Masse doucement en mouvements circulaires pour bien faire pénétrer les actifs ✨<br/>Rince soigneusement à l’eau tiède pour une peau nette et douce.<br/><br/></p>",
             "page": ""
