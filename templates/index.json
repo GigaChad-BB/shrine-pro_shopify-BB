@@ -630,6 +630,7 @@
     },
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "display_id": false,
         "visibility": "always-display",
@@ -646,6 +647,84 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
+    },
+    "collapsible_content_qzwLtY": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_9NanXh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qualité des ingredients",
+            "icon": "diamond",
+            "filled_icon": false,
+            "row_content": "<p><strong>Eau de Riz Blanc & Noir</strong> : exfolie tout en douceur 🌾 et redonne de l’éclat naturellement.<br/><strong>Pentavitin®</strong> : un super hydratant 💧 qui garde ta peau souple pendant 72k. Fini la sensation de peau sèche après un soin.<br/><strong>Niacinamide (Vitamine B3)</strong> : réduit visiblement les pores, équilibre le sébum et révèle l’éclat de ta peau.<br/><strong>AHA + BHA + PHA</strong> : trio magique pour lisser, désincruster les points noirs et affiner le grain de peau, sans irritation ✨.<br/><strong>Acide Hyaluronique</strong> : hydrate en profondeur et repulpe, pour une peau rebondie sans tiraillement.<br/><strong>Arbutine</strong> : agit en douceur sur les taches et les marques pour un teint plus uniforme.<br/><strong>Charbon & Argile de Riz Noir</strong> : purifient les pores, absorbent l’excès de sébum et préviennent les imperfections🖤.<br/><strong>Gluconolactone (PHA)</strong> : exfolie tout en respectant les peaux sensibles et en renforçant la barrière cutanée.<br/><strong>Extrait de Son de Riz</strong> : antioxydant puissant qui protège ta peau du teint terne.<br/><strong>Bétaïne végétale</strong> : apaise les sensations d’inconfort et rend la peau plus douce 🤍.</p><p>✅ Sans parabènes • Sans alcool desséchant • Sans huiles minérales<br/>✅ Sans grains abrasifs • 100 % végan • Jamais testé sur les animaux 🐰<br/>✅ pH respectueux • Idéal pour peaux sensibles & mixtes à grasses • Flacon recyclable ♻️</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_z64RaN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_637xKw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_cwqKXN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_9NanXh",
+        "collapsible_row_z64RaN",
+        "collapsible_row_637xKw",
+        "collapsible_row_cwqKXN"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
     }
   },
   "order": [
@@ -658,6 +737,7 @@
     "image_slider_WJxybd",
     "slideshow_mD6MmY",
     "featured_product_7FQhzn",
-    "ee8d9ca6-4a41-401f-83a3-37e138a112b9"
+    "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
+    "collapsible_content_qzwLtY"
   ]
 }
