@@ -671,13 +671,13 @@
             "page": ""
           }
         },
-        "collapsible_row_637xKw": {
+        "collapsible_row_dMFccG": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Utilisation",
+            "icon": "face 3",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Dépose <strong>une noisette</strong> de PeelShot sur ton visage (évite le contour des yeux et des lèvres).<br/><br/>Masse doucement en mouvements circulaires pour bien faire pénétrer les actifs ✨<br/><br/>Rince soigneusement à l’eau tiède pour une peau nette et douce.<br/><br/></p>",
             "page": ""
           }
         },
@@ -695,7 +695,7 @@
       "block_order": [
         "collapsible_row_z64RaN",
         "collapsible_row_9NanXh",
-        "collapsible_row_637xKw",
+        "collapsible_row_dMFccG",
         "collapsible_row_cwqKXN"
       ],
       "name": "t:sections.collapsible_content.presets.name",
