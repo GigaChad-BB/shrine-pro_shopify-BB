@@ -32,6 +32,7 @@
     },
     "ss_wave_2_Bwr3Ga": {
       "type": "ss-wave-2",
+      "disabled": true,
       "name": "SS - Wave #2",
       "settings": {
         "wave_height": 48,
