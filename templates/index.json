@@ -525,10 +525,44 @@
           "settings": {
             "product": "{{section.settings.product}}"
           }
+        },
+        "shipping_checkpoints_aQdbHV": {
+          "type": "shipping_checkpoints",
+          "settings": {
+            "icon_1": "add_shopping_cart",
+            "filled_icon_1": false,
+            "top_text_1": "<strong>[start_date]</strong>",
+            "bottom_text_1": "Commandé",
+            "min_days_1": 0,
+            "max_days_1": 0,
+            "icon_2": "local_shipping",
+            "filled_icon_2": false,
+            "top_text_2": "<strong>[start_date] - [end_date]</strong>",
+            "bottom_text_2": "Commande prête",
+            "min_days_2": 2,
+            "max_days_2": 3,
+            "icon_3": "redeem",
+            "filled_icon_3": false,
+            "top_text_3": "<strong>[start_date] - [end_date]</strong>",
+            "bottom_text_3": "Délivrée",
+            "min_days_3": 5,
+            "max_days_3": 9,
+            "icon_4": "",
+            "filled_icon_4": false,
+            "top_text_4": "",
+            "bottom_text_4": "",
+            "date_format": "dd_mm_no_dot",
+            "days_labels": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+            "months_labels": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+            "color_scheme": "accent-1",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
         }
       },
       "block_order": [
-        "kaching_bundles_app_block_EDxjdb"
+        "kaching_bundles_app_block_EDxjdb",
+        "shipping_checkpoints_aQdbHV"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
@@ -539,12 +573,12 @@
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": false,
-        "enable_video_looping": false,
-        "mobile_media_corner_radius": 0,
+        "enable_video_looping": true,
+        "mobile_media_corner_radius": 6,
         "full_media_width": false,
         "padding_top": 16,
         "padding_bottom": 24
