@@ -519,12 +519,23 @@
     },
     "featured_product_7FQhzn": {
       "type": "featured-product",
+      "blocks": {
+        "kaching_bundles_app_block_EDxjdb": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        }
+      },
+      "block_order": [
+        "kaching_bundles_app_block_EDxjdb"
+      ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
         "product": "noeva-peelshot",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": true,
@@ -537,24 +548,6 @@
         "full_media_width": false,
         "padding_top": 16,
         "padding_bottom": 24
-      }
-    },
-    "17528589469700d248": {
-      "type": "apps",
-      "blocks": {
-        "kaching_bundles_app_block_w4FTyW": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "noeva-peelshot"
-          }
-        }
-      },
-      "block_order": [
-        "kaching_bundles_app_block_w4FTyW"
-      ],
-      "settings": {
-        "display_id": false,
-        "include_margins": true
       }
     },
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
@@ -833,7 +826,6 @@
     "image_slider_WJxybd",
     "slideshow_mD6MmY",
     "featured_product_7FQhzn",
-    "17528589469700d248",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
     "collapsible_content_qzwLtY",
     "ss_feature_1_wz4ctg",
