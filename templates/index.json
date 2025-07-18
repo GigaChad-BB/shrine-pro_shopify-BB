@@ -520,6 +520,16 @@
     "featured_product_7FQhzn": {
       "type": "featured-product",
       "blocks": {
+        "title_Wh3ikj": {
+          "type": "title",
+          "settings": {
+            "text_size": "h1",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 15
+          }
+        },
         "trustpilot_stars_kgPxfq": {
           "type": "trustpilot_stars",
           "settings": {
@@ -531,8 +541,8 @@
             "size": 13,
             "alignment": "center",
             "scroll_id": "",
-            "margin_top": 15,
-            "margin_bottom": 15
+            "margin_top": 0,
+            "margin_bottom": 0
           }
         },
         "kaching_bundles_app_block_EDxjdb": {
@@ -577,6 +587,7 @@
         }
       },
       "block_order": [
+        "title_Wh3ikj",
         "trustpilot_stars_kgPxfq",
         "kaching_bundles_app_block_EDxjdb",
         "shipping_checkpoints_aQdbHV"
