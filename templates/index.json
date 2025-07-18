@@ -520,6 +520,21 @@
     "featured_product_7FQhzn": {
       "type": "featured-product",
       "blocks": {
+        "trustpilot_stars_kgPxfq": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 4.7,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "<strong>4.8/5 Excellent 1300+ Avis</strong>",
+            "size": 13,
+            "alignment": "center",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "kaching_bundles_app_block_EDxjdb": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -528,6 +543,7 @@
         },
         "shipping_checkpoints_aQdbHV": {
           "type": "shipping_checkpoints",
+          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -561,6 +577,7 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_kgPxfq",
         "kaching_bundles_app_block_EDxjdb",
         "shipping_checkpoints_aQdbHV"
       ],
