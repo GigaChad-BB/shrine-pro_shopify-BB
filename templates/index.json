@@ -517,9 +517,28 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "custom_liquid_yqxXAT": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge</title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 30px;\n    margin: 2px 0; /* Üst ve alt 2px margin ekler */\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https://www.svgrepo.com/show/473806/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Plus de 9M de vues sur Tiktok</span>\n</div>\n\n</body>\n</html>",
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
     "featured_product_7FQhzn": {
       "type": "featured-product",
       "blocks": {
+        "custom_liquid_mGcHE9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge</title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 30px;\n    margin: 2px 0; /* Üst ve alt 2px margin ekler */\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https://www.svgrepo.com/show/473806/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Plus de 9M de vues sur Tiktok</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "title_Wh3ikj": {
           "type": "title",
           "settings": {
@@ -563,6 +582,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "custom_liquid_7pdMWx": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            \n<style>\n  #people-viewing {\n    position: relative;\n    padding-left: 25px; /* Add padding to make space for the glow */\n    font-size: 16px;\n    font-weight: bold;\n  }\n\n  #people-viewing::before {\n    content: '';\n    position: absolute;\n    left: 0;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #f4af29;\n    box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n    animation: glowing 2.5s infinite; /* Apply animation */\n  }\n\n  /* Keyframes for glowing animation */\n  @keyframes glowing {\n    0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n    100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n  }\n</style><div id=\"people-viewing\">Encore <span id=\"stock-count\">4</span> en stock</div>\n\n<script>\n  // Function to change the stock number after 2 seconds\n  function changeStockNumber() {\n    setTimeout(() => {\n      document.getElementById(\"stock-count\").textContent = \"3\";\n    }, 10000);\n  }\n\n  // Using Intersection Observer API to detect when element is in viewport\n  const observer = new IntersectionObserver((entries, observer) => {\n    entries.forEach(entry => {\n      if (entry.isIntersecting) { \n        changeStockNumber(); // Trigger stock change when visible\n        observer.disconnect(); // Stop observing after first trigger\n      }\n    });\n  }, { threshold: 0.5 }); // Trigger when at least 50% of the element is visible\n\n  observer.observe(document.getElementById(\"people-viewing\"));\n</script>\n          </div>"
+          }
+        },
         "shipping_checkpoints_aQdbHV": {
           "type": "shipping_checkpoints",
           "disabled": true,
@@ -599,10 +624,12 @@
         }
       },
       "block_order": [
+        "custom_liquid_mGcHE9",
         "title_Wh3ikj",
         "trustpilot_stars_kgPxfq",
         "image_bWVRm4",
         "kaching_bundles_app_block_EDxjdb",
+        "custom_liquid_7pdMWx",
         "shipping_checkpoints_aQdbHV"
       ],
       "name": "t:sections.featured-product.presets.name",
@@ -900,6 +927,7 @@
     "image_with_text_L3R6fK",
     "image_slider_WJxybd",
     "slideshow_mD6MmY",
+    "custom_liquid_yqxXAT",
     "featured_product_7FQhzn",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
     "collapsible_content_qzwLtY",
