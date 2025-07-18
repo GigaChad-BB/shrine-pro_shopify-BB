@@ -666,6 +666,7 @@
         "custom_liquid_j9MeR8",
         "shipping_checkpoints_aQdbHV"
       ],
+      "custom_css": [],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "display_id": false,
