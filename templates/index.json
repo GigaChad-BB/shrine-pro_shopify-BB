@@ -544,7 +544,7 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "mobile_media_corner_radius": 8,
+        "mobile_media_corner_radius": 0,
         "full_media_width": false,
         "padding_top": 16,
         "padding_bottom": 24
