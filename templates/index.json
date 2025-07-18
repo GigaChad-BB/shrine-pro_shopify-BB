@@ -533,7 +533,7 @@
         "trustpilot_stars_kgPxfq": {
           "type": "trustpilot_stars",
           "settings": {
-            "rating": 4.7,
+            "rating": 5,
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
@@ -543,6 +543,18 @@
             "scroll_id": "",
             "margin_top": 0,
             "margin_bottom": 0
+          }
+        },
+        "image_bWVRm4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROMO.jpg",
+            "width": 100,
+            "Full_mobile_width": false,
+            "alignment": "center",
+            "border_radius": 0,
+            "margin_top": 9,
+            "margin_bottom": 15
           }
         },
         "kaching_bundles_app_block_EDxjdb": {
@@ -589,6 +601,7 @@
       "block_order": [
         "title_Wh3ikj",
         "trustpilot_stars_kgPxfq",
+        "image_bWVRm4",
         "kaching_bundles_app_block_EDxjdb",
         "shipping_checkpoints_aQdbHV"
       ],
