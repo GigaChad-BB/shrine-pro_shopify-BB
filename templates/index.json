@@ -519,7 +519,6 @@
     },
     "custom_liquid_yqxXAT": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "display_id": false,
@@ -983,9 +982,9 @@
     "custom_liquid_YJmaPJ",
     "rich_text_PrKEKt",
     "image_with_text_L3R6fK",
+    "custom_liquid_yqxXAT",
     "image_slider_WJxybd",
     "slideshow_mD6MmY",
-    "custom_liquid_yqxXAT",
     "featured_product_7FQhzn",
     "collapsible_content_qzwLtY",
     "ss_feature_1_wz4ctg",
