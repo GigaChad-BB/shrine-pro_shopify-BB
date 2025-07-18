@@ -519,142 +519,6 @@
     },
     "featured_product_7FQhzn": {
       "type": "featured-product",
-      "blocks": {
-        "title_m4HRiT": {
-          "type": "title",
-          "settings": {
-            "text_size": "h2",
-            "title_alignment": "center",
-            "uppercase_title": false,
-            "margin_top": 0,
-            "margin_bottom": 9
-          }
-        },
-        "price_Qh86ni": {
-          "type": "price",
-          "settings": {
-            "layout": "price_first",
-            "price_color": "accent-1",
-            "compare_price_color": "text",
-            "hide_sale_badge": false,
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
-        "variant_picker_hxwXV9": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_types": "pills, pills, pills",
-            "custom_labels": "",
-            "disable_prepend": false,
-            "swatches_size": "medium",
-            "swatches_border_radius": 100,
-            "swatches_custom_colors": "disabled",
-            "swatches_custom_colors_list": "#000000, #FFFFFF",
-            "breaks_style": "normal",
-            "breaks_headline": "BUNDLE & SAVE",
-            "breaks_color_scheme": "accent-1",
-            "breaks_badges": "[empty], Most popular, [empty]",
-            "breaks_displayed_images": "variant_images",
-            "breaks_custom_images": "",
-            "breaks_image_width": 70,
-            "breaks_space_images": true,
-            "breaks_labels": "[name], [name], [name]",
-            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
-            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
-            "breaks_price_texts": "[price], [price], [price]",
-            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
-        "quantity_selector_gALDRG": {
-          "type": "quantity_selector",
-          "settings": {
-            "full_width_classic": false,
-            "enable_quantity_discounts": false,
-            "style": "normal",
-            "headline": "BUNDLE & SAVE",
-            "preselected": "option_1",
-            "update_prices": false,
-            "enable_variant_selectors": true,
-            "enable_variant_selectors_on_quantity_of_1": false,
-            "hide_pickers_overlay": true,
-            "pickers_label": "",
-            "image_width": 70,
-            "space_images": true,
-            "color_scheme": "accent-1",
-            "option_1_quantity": 1,
-            "option_1_badge": "",
-            "option_1_label": "Buy [quantity]",
-            "option_1_benefit": "",
-            "option_1_caption": "You save [amount_saved]",
-            "option_1_percentage_off_text": "0",
-            "option_1_fixed_amount_off": "0",
-            "option_1_price_text": "[price]",
-            "option_1_compare_price": "compare_price",
-            "option_1_compare_price_text": "[compare_price]",
-            "option_2_quantity": 2,
-            "option_2_badge": "",
-            "option_2_label": "Buy [quantity]",
-            "option_2_benefit": "",
-            "option_2_caption": "You save [amount_saved]",
-            "option_2_percentage_off_text": "0",
-            "option_2_fixed_amount_off": "0",
-            "option_2_price_text": "[price]",
-            "option_2_compare_price": "compare_price",
-            "option_2_compare_price_text": "[compare_price]",
-            "option_3_quantity": 3,
-            "option_3_badge": "",
-            "option_3_label": "Buy [quantity]",
-            "option_3_benefit": "",
-            "option_3_caption": "You save [amount_saved]",
-            "option_3_percentage_off_text": "0",
-            "option_3_fixed_amount_off": "0",
-            "option_3_price_text": "[price]",
-            "option_3_compare_price": "compare_price",
-            "option_3_compare_price_text": "[compare_price]",
-            "option_4_quantity": 4,
-            "option_4_badge": "",
-            "option_4_label": "Buy [quantity]",
-            "option_4_benefit": "",
-            "option_4_caption": "You save [amount_saved]",
-            "option_4_percentage_off_text": "0",
-            "option_4_fixed_amount_off": "0",
-            "option_4_price_text": "[price]",
-            "option_4_compare_price": "compare_price",
-            "option_4_compare_price_text": "[compare_price]",
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
-        "buy_buttons_F8w9fB": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "skip_cart": true,
-            "uppercase_text": true,
-            "icon_scale": 120,
-            "icon_spacing": 10,
-            "display_price": false,
-            "enable_custom_color": true,
-            "custom_color": "#f4b400",
-            "enable_secondary_btn": false,
-            "secondary_btn_label": "Buy It Now",
-            "secondary_btn_enable_custom_color": false,
-            "secondary_btn_custom_color": "#dd1d1d",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        }
-      },
-      "block_order": [
-        "title_m4HRiT",
-        "price_Qh86ni",
-        "variant_picker_hxwXV9",
-        "quantity_selector_gALDRG",
-        "buy_buttons_F8w9fB"
-      ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "display_id": false,
@@ -673,6 +537,24 @@
         "full_media_width": false,
         "padding_top": 16,
         "padding_bottom": 24
+      }
+    },
+    "17528589469700d248": {
+      "type": "apps",
+      "blocks": {
+        "kaching_bundles_app_block_w4FTyW": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "noeva-peelshot"
+          }
+        }
+      },
+      "block_order": [
+        "kaching_bundles_app_block_w4FTyW"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
       }
     },
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9": {
@@ -951,6 +833,7 @@
     "image_slider_WJxybd",
     "slideshow_mD6MmY",
     "featured_product_7FQhzn",
+    "17528589469700d248",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
     "collapsible_content_qzwLtY",
     "ss_feature_1_wz4ctg",
