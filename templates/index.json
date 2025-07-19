@@ -753,6 +753,67 @@
         "custom_contaner_colors_text": "#2e2a39"
       }
     },
+    "sp_image_icon_grid_WwhBAV": {
+      "type": "sp-image-icon-grid",
+      "blocks": {
+        "icon_pQyj6n": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/Paiement_securise_canva.png",
+            "headline": "Paiement sécurisé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_zgifr4": {
+          "type": "icon",
+          "settings": {
+            "headline": "Headline",
+            "text": "Some followup text to build on the feature",
+            "link": ""
+          }
+        },
+        "icon_xzxYxD": {
+          "type": "icon",
+          "settings": {
+            "headline": "Headline",
+            "text": "Some followup text to build on the feature",
+            "link": ""
+          }
+        },
+        "icon_e3K6eQ": {
+          "type": "icon",
+          "settings": {
+            "headline": "Headline",
+            "text": "Some followup text to build on the feature",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_pQyj6n",
+        "icon_zgifr4",
+        "icon_xzxYxD",
+        "icon_e3K6eQ"
+      ],
+      "name": "🚀SP - Image Icon Grid",
+      "settings": {
+        "text_font": "sans-serif",
+        "text_size": 15,
+        "headline_font": "sans-serif",
+        "headline_size": 25,
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1))",
+        "text_color": "#111",
+        "highlight_color": "#111",
+        "mobile_columns": "1fr 1fr",
+        "max_width": 1000,
+        "grid_gap": 20,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10
+      }
+    },
     "ss_feature_1_wz4ctg": {
       "type": "ss-feature-1",
       "blocks": {
@@ -987,6 +1048,7 @@
     "slideshow_mD6MmY",
     "featured_product_7FQhzn",
     "collapsible_content_qzwLtY",
+    "sp_image_icon_grid_WwhBAV",
     "ss_feature_1_wz4ctg",
     "17528674430064a097",
     "ss_simple_faq_VxDYBb",
