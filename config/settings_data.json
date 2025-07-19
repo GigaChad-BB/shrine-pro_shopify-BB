@@ -486,6 +486,11 @@
         "settings": {
           "allowed_templates": ""
         }
+      },
+      "9241046253743163954": {
+        "type": "shopify://apps/square-sticky-add-to-cart-bar/blocks/app-embed/e98261d9-7a53-483b-8aaa-054afd5be639",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
