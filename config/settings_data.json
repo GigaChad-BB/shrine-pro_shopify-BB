@@ -270,7 +270,7 @@
               "timer_text": "Dépêchez-vous, panier encore valable <strong>[timer]</strong>",
               "timer_duration": 300,
               "font_size": "1.4",
-              "color_scheme": "background-2",
+              "color_scheme": "accent-1",
               "margin_top": 0,
               "margin_bottom": 15
             }
