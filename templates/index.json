@@ -801,7 +801,7 @@
         "text_font": "playfair_display_n4",
         "text_size": 13,
         "headline_font": "playfair_display_n4",
-        "headline_size": 16,
+        "headline_size": 13,
         "background_color": "linear-gradient(164deg, rgba(243, 243, 243, 1), rgba(255, 255, 255, 1))",
         "text_color": "#111",
         "highlight_color": "#111",
@@ -863,6 +863,7 @@
         "image_xKMn3w",
         "image_4GrAc9"
       ],
+      "disabled": true,
       "name": "SS - Feature #1",
       "settings": {
         "feature_row": 2,
