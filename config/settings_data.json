@@ -433,8 +433,8 @@
           "header_bg_color": "#f3f3f3",
           "enable_body_bg": false,
           "body_bg_color": "#f3f3f3",
-          "enable_footer_bg": true,
-          "footer_bg_color": "#cfb491"
+          "enable_footer_bg": false,
+          "footer_bg_color": "#f3f3f3"
         }
       },
       "header": {
