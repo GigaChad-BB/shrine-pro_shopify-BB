@@ -759,7 +759,7 @@
         "icon_pQyj6n": {
           "type": "icon",
           "settings": {
-            "image": "shopify://shop_images/Paiement_securise_canva.png",
+            "image": "shopify://shop_images/15.png",
             "headline": "Paiement sécurisé",
             "text": "",
             "link": ""
@@ -768,25 +768,27 @@
         "icon_zgifr4": {
           "type": "icon",
           "settings": {
-            "image": "shopify://shop_images/Envoi_gratuit_canva.png",
-            "headline": "Headline",
-            "text": "Some followup text to build on the feature",
-            "link": ""
-          }
-        },
-        "icon_xzxYxD": {
-          "type": "icon",
-          "settings": {
-            "headline": "Headline",
-            "text": "Some followup text to build on the feature",
+            "image": "shopify://shop_images/16.png",
+            "headline": "Livraison gratuite",
+            "text": "",
             "link": ""
           }
         },
         "icon_e3K6eQ": {
           "type": "icon",
           "settings": {
-            "headline": "Headline",
-            "text": "Some followup text to build on the feature",
+            "image": "shopify://shop_images/17.png",
+            "headline": "Satisfait ou remboursé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_xzxYxD": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/18.png",
+            "headline": "Service client 7/7",
+            "text": "",
             "link": ""
           }
         }
@@ -794,8 +796,8 @@
       "block_order": [
         "icon_pQyj6n",
         "icon_zgifr4",
-        "icon_xzxYxD",
-        "icon_e3K6eQ"
+        "icon_e3K6eQ",
+        "icon_xzxYxD"
       ],
       "name": "🚀SP - Image Icon Grid",
       "settings": {
@@ -813,101 +815,6 @@
         "padding_bottom": 15,
         "padding_left": 8,
         "padding_right": 10
-      }
-    },
-    "ss_feature_1_wz4ctg": {
-      "type": "ss-feature-1",
-      "blocks": {
-        "image_aPEeTc": {
-          "type": "image",
-          "settings": {
-            "feature_title": "Livraison Gratuite",
-            "feature_text": "",
-            "feature_image": "shopify://shop_images/icone_livraison.png",
-            "feature_url": "",
-            "hide_image": false
-          }
-        },
-        "image_mhHWxD": {
-          "type": "image",
-          "settings": {
-            "feature_title": "Satisfait ou Remboursé",
-            "feature_text": "",
-            "feature_image": "shopify://shop_images/icone_remboursement.png",
-            "feature_url": "",
-            "hide_image": false
-          }
-        },
-        "image_xKMn3w": {
-          "type": "image",
-          "settings": {
-            "feature_title": "Paiement Sécurisé",
-            "feature_text": "",
-            "feature_image": "shopify://shop_images/Paiement_securise_canva.png",
-            "feature_url": "",
-            "hide_image": false
-          }
-        },
-        "image_4GrAc9": {
-          "type": "image",
-          "settings": {
-            "feature_title": "Service Client 7/7 24/24h",
-            "feature_text": "",
-            "feature_url": "",
-            "hide_image": false
-          }
-        }
-      },
-      "block_order": [
-        "image_aPEeTc",
-        "image_mhHWxD",
-        "image_xKMn3w",
-        "image_4GrAc9"
-      ],
-      "name": "SS - Feature #1",
-      "settings": {
-        "feature_row": 2,
-        "feature_row_mobile": 2,
-        "feature_gap": 20,
-        "feature_gap_mobile": 20,
-        "feature_padding_vertical": 0,
-        "feature_padding_horizontal": 0,
-        "feature_radius": 16,
-        "feature_border_thickness": 0,
-        "feature_shadow": false,
-        "feature_heading_custom": false,
-        "feature_heading_font": "playfair_display_n4",
-        "feature_heading_size": 14,
-        "feature_heading_size_mobile": 12,
-        "feature_heading_height": 130,
-        "feature_heading_mt": 8,
-        "feature_text_custom": false,
-        "feature_text_font": "playfair_display_n4",
-        "feature_text_size": 12,
-        "feature_text_size_mobile": 12,
-        "feature_text_height": 130,
-        "feature_text_mt": 4,
-        "feature_icon_size": 42,
-        "feature_icon_size_mobile": 42,
-        "feature_bg": "#faf8f6",
-        "feature_border_color": "#000000",
-        "feature_shadow_color": "#000000",
-        "feature_heading_color": "#000000",
-        "feature_text_color": "#000000",
-        "feature_icon_color": "#000000",
-        "background_color": "#faf8f6",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
       }
     },
     "17528674430064a097": {
@@ -1050,7 +957,6 @@
     "featured_product_7FQhzn",
     "collapsible_content_qzwLtY",
     "sp_image_icon_grid_WwhBAV",
-    "ss_feature_1_wz4ctg",
     "17528674430064a097",
     "ss_simple_faq_VxDYBb",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
