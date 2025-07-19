@@ -46,6 +46,7 @@
         "title",
         "buy_buttons"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "display_id": false,
@@ -114,6 +115,7 @@
     },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
       "type": "section-divider",
+      "disabled": true,
       "settings": {
         "visibility": "always-display",
         "shape": "waves_3",
@@ -145,6 +147,7 @@
       "block_order": [
         "loox_reviews_loox_dynamic_section_Q9biGJ"
       ],
+      "disabled": true,
       "settings": {
         "display_id": false,
         "include_margins": true
