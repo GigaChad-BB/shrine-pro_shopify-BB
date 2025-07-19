@@ -198,6 +198,18 @@
         "custom_section_gradient_background": ""
       }
     },
+    "custom_liquid_yqxXAT": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge</title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 30px;\n    margin: 2px 0; /* Üst ve alt 2px margin ekler */\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https://www.svgrepo.com/show/473806/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Plus de 9M de vues sur Tiktok</span>\n</div>\n\n</body>\n</html>",
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
     "image_slider_WJxybd": {
       "type": "image-slider",
       "blocks": {
@@ -515,18 +527,6 @@
         "show_text_below": true,
         "mobile_pagination_position": "under",
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "custom_liquid_yqxXAT": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge</title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 30px;\n    margin: 2px 0; /* Üst ve alt 2px margin ekler */\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https://www.svgrepo.com/show/473806/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Plus de 9M de vues sur Tiktok</span>\n</div>\n\n</body>\n</html>",
-        "color_scheme": "background-1",
-        "padding_top": 24,
-        "padding_bottom": 0
       }
     },
     "featured_product_7FQhzn": {

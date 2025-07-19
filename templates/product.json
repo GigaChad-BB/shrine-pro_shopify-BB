@@ -50,7 +50,7 @@
       "settings": {
         "display_id": false,
         "enable_sticky_info": true,
-        "display_variant_image_first": false,
+        "display_variant_image_first": true,
         "disable_prepend": false,
         "hide_variants": false,
         "variant_image_filtering": "none",
