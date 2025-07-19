@@ -425,8 +425,8 @@
         ],
         "settings": {
           "test_mode": false,
-          "heading_text": "Cart • [count] items",
-          "heading_alignment": "flex-start",
+          "heading_text": "Votre pannier",
+          "heading_alignment": "center",
           "desktop_width": "normal",
           "mobile_width": "full",
           "enable_header_bg": false,
@@ -527,11 +527,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "7924418359578431505": {
-        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
-        "disabled": false,
-        "settings": {}
-      },
       "15557474716127144420": {
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
         "disabled": false,
