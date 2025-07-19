@@ -371,7 +371,7 @@
             "link": "",
             "button_style_secondary": false,
             "atc_button_label": "",
-            "atc_product": "",
+            "atc_product": "noeva-peelshot",
             "atc_skip_cart": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -526,7 +526,7 @@
         "change_slides_speed": 3,
         "show_text_below": true,
         "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": ""
       }
     },
     "featured_product_7FQhzn": {
@@ -743,78 +743,14 @@
         "row_heading_size": "medium",
         "collapse_icon": "carret",
         "display_top_border": true,
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 0,
+        "padding_bottom": 24,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39",
         "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
-      }
-    },
-    "sp_image_icon_grid_WwhBAV": {
-      "type": "sp-image-icon-grid",
-      "blocks": {
-        "icon_pQyj6n": {
-          "type": "icon",
-          "settings": {
-            "image": "shopify://shop_images/15.png",
-            "headline": "Paiement sécurisé",
-            "text": "",
-            "link": ""
-          }
-        },
-        "icon_zgifr4": {
-          "type": "icon",
-          "settings": {
-            "image": "shopify://shop_images/16.png",
-            "headline": "Livraison gratuite",
-            "text": "",
-            "link": ""
-          }
-        },
-        "icon_e3K6eQ": {
-          "type": "icon",
-          "settings": {
-            "image": "shopify://shop_images/17.png",
-            "headline": "Satisfait ou remboursé",
-            "text": "",
-            "link": ""
-          }
-        },
-        "icon_xzxYxD": {
-          "type": "icon",
-          "settings": {
-            "image": "shopify://shop_images/18.png",
-            "headline": "Service client 7/7",
-            "text": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "icon_pQyj6n",
-        "icon_zgifr4",
-        "icon_e3K6eQ",
-        "icon_xzxYxD"
-      ],
-      "name": "🚀SP - Image Icon Grid",
-      "settings": {
-        "text_font": "playfair_display_n4",
-        "text_size": 13,
-        "headline_font": "playfair_display_n4",
-        "headline_size": 13,
-        "background_color": "linear-gradient(164deg, rgba(250, 248, 246, 1), rgba(255, 255, 255, 1) 100%)",
-        "text_color": "#111",
-        "highlight_color": "#111",
-        "mobile_columns": "1fr 1fr",
-        "max_width": 400,
-        "grid_gap": 10,
-        "padding_top": 15,
-        "padding_bottom": 15,
-        "padding_left": 8,
-        "padding_right": 10
       }
     },
     "17528674430064a097": {
@@ -918,6 +854,70 @@
         "custom_colors_solid_button_text": "#ffffff"
       }
     },
+    "sp_image_icon_grid_WwhBAV": {
+      "type": "sp-image-icon-grid",
+      "blocks": {
+        "icon_pQyj6n": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/15.png",
+            "headline": "Paiement sécurisé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_zgifr4": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/16.png",
+            "headline": "Livraison gratuite",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_e3K6eQ": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/17.png",
+            "headline": "Satisfait ou remboursé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_xzxYxD": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/18.png",
+            "headline": "Service client 7/7",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_pQyj6n",
+        "icon_zgifr4",
+        "icon_e3K6eQ",
+        "icon_xzxYxD"
+      ],
+      "name": "🚀SP - Image Icon Grid",
+      "settings": {
+        "text_font": "playfair_display_n4",
+        "text_size": 13,
+        "headline_font": "playfair_display_n4",
+        "headline_size": 13,
+        "background_color": "linear-gradient(164deg, rgba(250, 248, 246, 1), rgba(255, 255, 255, 1) 100%)",
+        "text_color": "#111",
+        "highlight_color": "#111",
+        "mobile_columns": "1fr 1fr",
+        "max_width": 400,
+        "grid_gap": 10,
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_left": 8,
+        "padding_right": 10
+      }
+    },
     "ss_wave_2_pz7bk3": {
       "type": "ss-wave-2",
       "name": "SS - Wave #2",
@@ -956,10 +956,10 @@
     "slideshow_mD6MmY",
     "featured_product_7FQhzn",
     "collapsible_content_qzwLtY",
-    "sp_image_icon_grid_WwhBAV",
     "17528674430064a097",
     "ss_simple_faq_VxDYBb",
     "ee8d9ca6-4a41-401f-83a3-37e138a112b9",
+    "sp_image_icon_grid_WwhBAV",
     "ss_wave_2_pz7bk3"
   ]
 }
