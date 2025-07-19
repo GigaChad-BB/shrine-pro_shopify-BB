@@ -768,6 +768,7 @@
         "icon_zgifr4": {
           "type": "icon",
           "settings": {
+            "image": "shopify://shop_images/Envoi_gratuit_canva.png",
             "headline": "Headline",
             "text": "Some followup text to build on the feature",
             "link": ""
@@ -802,7 +803,7 @@
         "text_size": 13,
         "headline_font": "playfair_display_n4",
         "headline_size": 13,
-        "background_color": "linear-gradient(164deg, rgba(243, 243, 243, 1), rgba(255, 255, 255, 1))",
+        "background_color": "linear-gradient(164deg, rgba(243, 243, 243, 1), rgba(255, 255, 255, 1) 100%)",
         "text_color": "#111",
         "highlight_color": "#111",
         "mobile_columns": "1fr 1fr",
@@ -863,7 +864,6 @@
         "image_xKMn3w",
         "image_4GrAc9"
       ],
-      "disabled": true,
       "name": "SS - Feature #1",
       "settings": {
         "feature_row": 2,
