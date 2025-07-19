@@ -221,6 +221,7 @@
             "verified": true,
             "profile_picture": "shopify://shop_images/Modele_insta_1.jpg",
             "close_friends": false,
+            "story_1_video": "shopify://files/videos/Insta model 1.mp4",
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
             "story_1_bg": "#282828",
