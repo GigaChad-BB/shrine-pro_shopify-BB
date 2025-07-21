@@ -133,7 +133,7 @@
         "secondary_menu": "",
         "menu_color_scheme": "background-1",
         "mobile_logo_position": "center",
-        "display_search": true,
+        "display_search": false,
         "margin_bottom": 0,
         "padding_top": 20,
         "padding_bottom": 20
