@@ -522,6 +522,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "general": {
+        "autocomplete_powered_by_google": " "
+      }
     }
   }
 }
