@@ -577,7 +577,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "product": "",
+        "product": "noeva-peelshot",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
