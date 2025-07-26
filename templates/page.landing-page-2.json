@@ -531,13 +531,47 @@
             "margin_top": 9,
             "margin_bottom": 15
           }
+        },
+        "kaching_bundles_app_block_UprkC4": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "noeva-peelshot"
+          }
+        },
+        "custom_liquid_bVDQxp": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            \n<style>\n  #people-viewing {\n    position: relative;\n    padding-left: 25px; /* Add padding to make space for the glow */\n    font-size: 16px;\n    font-weight: bold;\n  }\n\n  #people-viewing::before {\n    content: '';\n    position: absolute;\n    left: 0;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #f4af29;\n    box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n    animation: glowing 2.5s infinite; /* Apply animation */\n  }\n\n  /* Keyframes for glowing animation */\n  @keyframes glowing {\n    0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n    100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n  }\n</style><div id=\"people-viewing\">Encore <span id=\"stock-count\">4</span> en stock</div>\n\n<script>\n  // Function to change the stock number after 2 seconds\n  function changeStockNumber() {\n    setTimeout(() => {\n      document.getElementById(\"stock-count\").textContent = \"3\";\n    }, 5000);\n  }\n\n  // Using Intersection Observer API to detect when element is in viewport\n  const observer = new IntersectionObserver((entries, observer) => {\n    entries.forEach(entry => {\n      if (entry.isIntersecting) { \n        changeStockNumber(); // Trigger stock change when visible\n        observer.disconnect(); // Stop observing after first trigger\n      }\n    });\n  }, { threshold: 0.5 }); // Trigger when at least 50% of the element is visible\n\n  observer.observe(document.getElementById(\"people-viewing\"));\n</script>\n          </div>"
+          }
+        },
+        "buy_buttons_e3wHkt": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": false,
+            "uppercase_text": true,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": true,
+            "custom_color": "#f4b400",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#dd1d1d",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
         }
       },
       "block_order": [
         "custom_liquid_heUgnR",
         "title_Rje6Ap",
         "trustpilot_stars_zKDmEr",
-        "image_aEknFP"
+        "image_aEknFP",
+        "kaching_bundles_app_block_UprkC4",
+        "custom_liquid_bVDQxp",
+        "buy_buttons_e3wHkt"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
