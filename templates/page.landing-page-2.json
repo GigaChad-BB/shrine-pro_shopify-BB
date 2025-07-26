@@ -878,10 +878,40 @@
             "text": "",
             "link": ""
           }
+        },
+        "icon_TaW8U3": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/16.png",
+            "headline": "Livraison gratuite",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_49NyLe": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/17.png",
+            "headline": "Satisfait ou remboursé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_DMWx6i": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/15.png",
+            "headline": "Paiement sécurisé",
+            "text": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "icon_K8xacQ"
+        "icon_K8xacQ",
+        "icon_TaW8U3",
+        "icon_49NyLe",
+        "icon_DMWx6i"
       ],
       "name": "🚀SP - Image Icon Grid",
       "settings": {
