@@ -11,46 +11,186 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "newsletter": {
-      "type": "newsletter",
+    "sp_image_standalone_8AaQAd": {
+      "type": "sp-image-standalone",
+      "name": "🚀SP - Image Standalone",
+      "settings": {
+        "background_color": "linear-gradient(301deg, rgba(207, 180, 145, 1), rgba(212, 183, 142, 1) 100%)",
+        "max_width": 1000,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10,
+        "image": "shopify://shop_images/Page_accueil_3a0565cc-de62-49d1-8a3c-3ed4963aa4ce.png",
+        "media_aspect_ratio": "4 / 3",
+        "desktop_image_width": 1100,
+        "mobile_image": "shopify://shop_images/Page_accueil_3a0565cc-de62-49d1-8a3c-3ed4963aa4ce.png",
+        "mobile_media_aspect_ratio": "auto",
+        "mobile_image_width": 800,
+        "link": "",
+        "media_radius": 5,
+        "media_shadow": true
+      }
+    },
+    "custom_liquid_taNHiA": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div id=\"shopify-section-template--25025789591896__brands_gaVHGJ\" class=\"shopify-section\"><style data-shopify=\"\">.section-template--25025789591896__brands_gaVHGJ-padding {\n    padding-top: 0px;\n    padding-bottom: 0px;\n    \n      }\n\n  @media screen and (min-width: 750px) {\n    .section-template--25025789591896__brands_gaVHGJ-padding {\n      padding-top: 0px;\n      padding-bottom: 0px;\n    }\n  }</style><div class=\"section-template--25025789591896__brands_gaVHGJ-padding\">\n<div class=\"annonce-bar--inner-template--25025789591896__brands_gaVHGJ direction-left t\" style=\"--marquee-speed: 150s\">\n     <div style=\"display: flex;\">\n       <div style=\"display: flex;\">\n          \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n      </div>\n     </div>\n    \n  \n\n        \n</div>\n    </div>\n        <style data-shopify=\"\">\n       .annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n  max-width:1440px;\n  margin-left:auto;\n  margin-right:auto\n}\n@media only screen and (min-width: 768px){\n  .annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n    padding: 4px 20px;\n  }\n}\n          @media only screen and (max-width: 767px){\n  .annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n    padding: 0px 20px;\n  }\n}\n.annonce-bar-section{\n  position:relative;\n  z-index:52\n}\n.annonce-bar--wrap{\n  line-height:1;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n  height:100%;\n  display:flex;\n  align-items:center;\n  max-width:none;\n  white-space:nowrap;\n  overflow:hidden;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ.direction-left>div{\n  animation:marquee-left var(--marquee-speed) linear infinite;\n}\n.annonce-bar--inner.direction-right>div{\n  animation:marquee-right var(--marquee-speed) linear infinite;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ>div{\n  display:flex;\n  align-items:center;\n  flex-shrink:0;\n  will-change:transform;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ:hover>div{\n  animation-play-state:paused;\n}\n.annonce-bar-template--25025789591896__brands_gaVHGJ{\n  display:inline-flex;\n  align-items:center;\n  padding:0 36px;\n  letter-spacing:.03em;\n}\n           @media only screen and (max-width: 767px){\n  .annonce-bar{\n  padding:0 24px;\n}\n           }\n.annonce-bar-template--25025789591896__brands_gaVHGJ svg{\n  margin-right:12px;\n  height:14px;\n }\n  \n.annonce-bar-template--25025789591896__brands_gaVHGJ .annonce-bar__link;\n  display: flex;\n  padding: 0;\n}\n\n.icon-text-wrapper {\n  display: flex;\n  align-items: center;\n}\n.annonce-bar-template--25025789591896__brands_gaVHGJ--item:empty{\n  display:none\n}\n@keyframes marquee-left{\n  0%{\n    transform:translate(0)\n  }\n  to{\n    transform:translate(-100%)\n  }\n}\n@keyframes marquee-right{\n  0%{\n    transform:translate(-100%)\n  }\n  to{\n    transform:translate(0)\n  }\n}\n\n.annonce-bar-static{\n  display: block;\n}\n.annonce-bar-static>div{\n  flex-wrap: wrap;\n  justify-content: center;\n}\n        </style>\n       \n</div>",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ss_wave_2_VAiDU9": {
+      "type": "ss-wave-2",
+      "name": "SS - Wave #2",
+      "settings": {
+        "wave_height": 48,
+        "wave_height_mobile": 62,
+        "wave_animation": true,
+        "wave_rotate": true,
+        "wave_color": "#cfb491",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
+    },
+    "rich_text_f6Y77j": {
+      "type": "rich-text",
       "blocks": {
-        "heading": {
+        "heading_F6JrQj": {
           "type": "heading",
           "settings": {
+            "title": "La magie opère dès la première goutte",
+            "title_highlight_color": "#121212",
             "heading_size": "h1"
           }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. </p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {}
         }
       },
       "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
+        "heading_F6JrQj"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "color_scheme": "background-2",
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 32,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "custom_liquid_KXwbFQ": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 20px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/Video_gif.gif?v=1752595763\"\n    alt=\"Video_gif\" \n    style=\"max-width: 60%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "rich_text_GF97Bp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_38xdf3": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>NOEVA PeelShot+ : L'Indispensable</strong>",
+            "title_highlight_color": "#121212",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_38xdf3"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
+        "color_scheme": "background-1",
+        "padding_top": 8,
+        "padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_with_text_3fYEiC": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/Benefices_serum.png",
+        "height": "medium",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "1",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 44,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
       }
     }
   },
   "order": [
     "main",
-    "newsletter"
+    "sp_image_standalone_8AaQAd",
+    "custom_liquid_taNHiA",
+    "ss_wave_2_VAiDU9",
+    "rich_text_f6Y77j",
+    "custom_liquid_KXwbFQ",
+    "rich_text_GF97Bp",
+    "image_with_text_3fYEiC"
   ]
 }
