@@ -351,10 +351,126 @@
             "custom_colors_solid_button_text": "#ffffff",
             "custom_colors_outline_button": "#dd1d1d"
           }
+        },
+        "slide_Upj8bJ": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Melanie B.",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2",
+            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_VqFqeB": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Melanie B.",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2",
+            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_YFEgDp": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Melanie B.",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2",
+            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_aNLdY7": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Melanie B.",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2",
+            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
         }
       },
       "block_order": [
-        "slide_KVMDEi"
+        "slide_KVMDEi",
+        "slide_Upj8bJ",
+        "slide_VqFqeB",
+        "slide_YFEgDp",
+        "slide_aNLdY7"
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
@@ -369,6 +485,187 @@
         "mobile_pagination_position": "under",
         "accessibility_info": ""
       }
+    },
+    "featured_product_XeKhxV": {
+      "type": "featured-product",
+      "blocks": {
+        "custom_liquid_heUgnR": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge</title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 30px;\n    margin: 2px 0; /* Üst ve alt 2px margin ekler */\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https://www.svgrepo.com/show/473806/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Plus de 9M de vues sur Tiktok</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "title_Rje6Ap": {
+          "type": "title",
+          "settings": {
+            "text_size": "h1",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 15
+          }
+        },
+        "trustpilot_stars_zKDmEr": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "<strong>4.8/5 Excellent 1300+ Avis</strong>",
+            "size": 13,
+            "alignment": "center",
+            "scroll_id": "",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "price_Jy6Cfy": {
+          "type": "price",
+          "settings": {
+            "layout": "price_first",
+            "price_color": "accent-1",
+            "compare_price_color": "text",
+            "hide_sale_badge": false,
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "variant_picker_AxGyfi": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_types": "pills, pills, pills",
+            "custom_labels": "",
+            "disable_prepend": false,
+            "swatches_size": "medium",
+            "swatches_border_radius": 100,
+            "swatches_custom_colors": "disabled",
+            "swatches_custom_colors_list": "#000000, #FFFFFF",
+            "breaks_style": "normal",
+            "breaks_headline": "BUNDLE & SAVE",
+            "breaks_color_scheme": "accent-1",
+            "breaks_badges": "[empty], Most popular, [empty]",
+            "breaks_displayed_images": "variant_images",
+            "breaks_custom_images": "",
+            "breaks_image_width": 70,
+            "breaks_space_images": true,
+            "breaks_labels": "[name], [name], [name]",
+            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+            "breaks_price_texts": "[price], [price], [price]",
+            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "quantity_selector_irekiC": {
+          "type": "quantity_selector",
+          "settings": {
+            "full_width_classic": false,
+            "enable_quantity_discounts": false,
+            "style": "normal",
+            "headline": "BUNDLE & SAVE",
+            "preselected": "option_1",
+            "update_prices": false,
+            "enable_variant_selectors": true,
+            "enable_variant_selectors_on_quantity_of_1": false,
+            "hide_pickers_overlay": true,
+            "pickers_label": "",
+            "image_width": 70,
+            "space_images": true,
+            "color_scheme": "accent-1",
+            "option_1_quantity": 1,
+            "option_1_badge": "",
+            "option_1_label": "Buy [quantity]",
+            "option_1_benefit": "",
+            "option_1_caption": "You save [amount_saved]",
+            "option_1_percentage_off_text": "0",
+            "option_1_fixed_amount_off": "0",
+            "option_1_price_text": "[price]",
+            "option_1_compare_price": "compare_price",
+            "option_1_compare_price_text": "[compare_price]",
+            "option_2_quantity": 2,
+            "option_2_badge": "",
+            "option_2_label": "Buy [quantity]",
+            "option_2_benefit": "",
+            "option_2_caption": "You save [amount_saved]",
+            "option_2_percentage_off_text": "0",
+            "option_2_fixed_amount_off": "0",
+            "option_2_price_text": "[price]",
+            "option_2_compare_price": "compare_price",
+            "option_2_compare_price_text": "[compare_price]",
+            "option_3_quantity": 3,
+            "option_3_badge": "",
+            "option_3_label": "Buy [quantity]",
+            "option_3_benefit": "",
+            "option_3_caption": "You save [amount_saved]",
+            "option_3_percentage_off_text": "0",
+            "option_3_fixed_amount_off": "0",
+            "option_3_price_text": "[price]",
+            "option_3_compare_price": "compare_price",
+            "option_3_compare_price_text": "[compare_price]",
+            "option_4_quantity": 4,
+            "option_4_badge": "",
+            "option_4_label": "Buy [quantity]",
+            "option_4_benefit": "",
+            "option_4_caption": "You save [amount_saved]",
+            "option_4_percentage_off_text": "0",
+            "option_4_fixed_amount_off": "0",
+            "option_4_price_text": "[price]",
+            "option_4_compare_price": "compare_price",
+            "option_4_compare_price_text": "[compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "buy_buttons_cjMHAY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": false,
+            "uppercase_text": true,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": false,
+            "custom_color": "#dd1d1d",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#dd1d1d",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        }
+      },
+      "block_order": [
+        "custom_liquid_heUgnR",
+        "title_Rje6Ap",
+        "trustpilot_stars_zKDmEr",
+        "price_Jy6Cfy",
+        "variant_picker_AxGyfi",
+        "quantity_selector_irekiC",
+        "buy_buttons_cjMHAY"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "product": "",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "mobile_media_corner_radius": 6,
+        "full_media_width": false,
+        "padding_top": 16,
+        "padding_bottom": 24
+      }
     }
   },
   "order": [
@@ -381,6 +678,7 @@
     "rich_text_GF97Bp",
     "image_with_text_3fYEiC",
     "image_slider_H9FUJM",
-    "slideshow_Cn3iRn"
+    "slideshow_Cn3iRn",
+    "featured_product_XeKhxV"
   ]
 }
