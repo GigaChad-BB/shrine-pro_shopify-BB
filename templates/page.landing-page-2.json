@@ -807,6 +807,20 @@
             "answer": "<p>Answer richtext</p>"
           }
         },
+        "text_wMDNFT": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        },
+        "text_T4LMQM": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        },
         "text_BXWkWn": {
           "type": "text",
           "settings": {
@@ -817,6 +831,8 @@
       },
       "block_order": [
         "text_awT9MV",
+        "text_wMDNFT",
+        "text_T4LMQM",
         "text_BXWkWn"
       ],
       "name": "Faq",
@@ -829,6 +845,26 @@
         "answer_color": "#121212",
         "answer_bg_color": "#ffffff",
         "questions-font-size": 1.5
+      }
+    },
+    "contact_form_CxWkkJ": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Une question ?",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
       }
     }
   },
@@ -847,6 +883,7 @@
     "collapsible_content_3GLrhh",
     "insta_stories_t9NzMz",
     "1753538890515f5824",
-    "ss_simple_faq_tgRCWX"
+    "ss_simple_faq_tgRCWX",
+    "contact_form_CxWkkJ"
   ]
 }
