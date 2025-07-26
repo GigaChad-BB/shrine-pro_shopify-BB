@@ -866,6 +866,26 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
+    },
+    "sp_image_icon_grid_feBB7P": {
+      "type": "sp-image-icon-grid",
+      "name": "🚀SP - Image Icon Grid",
+      "settings": {
+        "text_font": "playfair_display_n4",
+        "text_size": 13,
+        "headline_font": "playfair_display_n4",
+        "headline_size": 13,
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1))",
+        "text_color": "#111",
+        "highlight_color": "#111",
+        "mobile_columns": "1fr 1fr",
+        "max_width": 400,
+        "grid_gap": 10,
+        "padding_top": 15,
+        "padding_bottom": 15,
+        "padding_left": 8,
+        "padding_right": 10
+      }
     }
   },
   "order": [
@@ -884,6 +904,7 @@
     "insta_stories_t9NzMz",
     "1753538890515f5824",
     "ss_simple_faq_tgRCWX",
-    "contact_form_CxWkkJ"
+    "contact_form_CxWkkJ",
+    "sp_image_icon_grid_feBB7P"
   ]
 }
