@@ -901,7 +901,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/18.png",
-            "headline": "Paiement sécurisé",
+            "headline": "Service client 7/7",
             "text": "",
             "link": ""
           }
@@ -919,7 +919,7 @@
         "text_size": 13,
         "headline_font": "playfair_display_n4",
         "headline_size": 13,
-        "background_color": "linear-gradient(164deg, rgba(250, 248, 246, 1), rgba(255, 255, 255, 1))",
+        "background_color": "linear-gradient(164deg, rgba(250, 248, 246, 1), rgba(255, 255, 255, 1) 100%)",
         "text_color": "#111",
         "highlight_color": "#111",
         "mobile_columns": "1fr 1fr",
@@ -929,6 +929,29 @@
         "padding_bottom": 15,
         "padding_left": 8,
         "padding_right": 10
+      }
+    },
+    "ss_wave_2_B8cRHr": {
+      "type": "ss-wave-2",
+      "name": "SS - Wave #2",
+      "settings": {
+        "wave_height": 48,
+        "wave_height_mobile": 62,
+        "wave_animation": true,
+        "wave_rotate": false,
+        "wave_color": "#cfb491",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
       }
     }
   },
@@ -949,6 +972,7 @@
     "1753538890515f5824",
     "ss_simple_faq_tgRCWX",
     "contact_form_CxWkkJ",
-    "sp_image_icon_grid_feBB7P"
+    "sp_image_icon_grid_feBB7P",
+    "ss_wave_2_B8cRHr"
   ]
 }
