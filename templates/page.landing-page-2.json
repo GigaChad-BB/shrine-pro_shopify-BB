@@ -869,13 +869,27 @@
     },
     "sp_image_icon_grid_feBB7P": {
       "type": "sp-image-icon-grid",
+      "blocks": {
+        "icon_K8xacQ": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/15.png",
+            "headline": "Paiement sécurisé",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_K8xacQ"
+      ],
       "name": "🚀SP - Image Icon Grid",
       "settings": {
         "text_font": "playfair_display_n4",
         "text_size": 13,
         "headline_font": "playfair_display_n4",
         "headline_size": 13,
-        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1))",
+        "background_color": "linear-gradient(164deg, rgba(250, 248, 246, 1), rgba(255, 255, 255, 1))",
         "text_color": "#111",
         "highlight_color": "#111",
         "mobile_columns": "1fr 1fr",
