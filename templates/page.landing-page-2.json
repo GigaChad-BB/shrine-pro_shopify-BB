@@ -716,11 +716,11 @@
             "story_3_bg": "#282828"
           }
         },
-        "user_tQDHUL": {
+        "user_MVqLwf": {
           "type": "user",
           "settings": {
             "username": "shrinetheme",
-            "verified": false,
+            "verified": true,
             "close_friends": false,
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
@@ -733,11 +733,11 @@
             "story_3_bg": "#282828"
           }
         },
-        "user_aj9Myc": {
+        "user_PJWdnC": {
           "type": "user",
           "settings": {
             "username": "shrinetheme",
-            "verified": false,
+            "verified": true,
             "close_friends": false,
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
@@ -753,8 +753,8 @@
       },
       "block_order": [
         "user_p8EKBk",
-        "user_tQDHUL",
-        "user_aj9Myc"
+        "user_MVqLwf",
+        "user_PJWdnC"
       ],
       "name": "Instagram stories",
       "settings": {
@@ -772,6 +772,64 @@
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
+    },
+    "1753538890515f5824": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_FfGRdk": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": true,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_FfGRdk"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
+    "ss_simple_faq_tgRCWX": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_awT9MV": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        },
+        "text_BXWkWn": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_awT9MV",
+        "text_BXWkWn"
+      ],
+      "name": "Faq",
+      "settings": {
+        "heading": "FAQ",
+        "icon_color": "#ffffff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#ffffff",
+        "background_color": "#cfb491",
+        "answer_color": "#121212",
+        "answer_bg_color": "#ffffff",
+        "questions-font-size": 1.5
+      }
     }
   },
   "order": [
@@ -787,6 +845,8 @@
     "slideshow_Cn3iRn",
     "featured_product_XeKhxV",
     "collapsible_content_3GLrhh",
-    "insta_stories_t9NzMz"
+    "insta_stories_t9NzMz",
+    "1753538890515f5824",
+    "ss_simple_faq_tgRCWX"
   ]
 }
