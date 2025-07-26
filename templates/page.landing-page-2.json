@@ -620,6 +620,16 @@
             "page": ""
           }
         },
+        "collapsible_row_JYVNCm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
         "collapsible_row_dz3UTA": {
           "type": "collapsible_row",
           "settings": {
@@ -653,6 +663,7 @@
       },
       "block_order": [
         "collapsible_row_GD77rD",
+        "collapsible_row_JYVNCm",
         "collapsible_row_dz3UTA",
         "collapsible_row_wRPnYt",
         "collapsible_row_LeHWVy"
@@ -684,6 +695,83 @@
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2E2A39"
       }
+    },
+    "insta_stories_t9NzMz": {
+      "type": "insta-stories",
+      "blocks": {
+        "user_p8EKBk": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_tQDHUL": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_aj9Myc": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "user_p8EKBk",
+        "user_tQDHUL",
+        "user_aj9Myc"
+      ],
+      "name": "Instagram stories",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Viral sur Instagram",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "autoplay_speed": 10,
+        "padding_top": 8,
+        "padding_bottom": 12,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
     }
   },
   "order": [
@@ -698,6 +786,7 @@
     "image_slider_H9FUJM",
     "slideshow_Cn3iRn",
     "featured_product_XeKhxV",
-    "collapsible_content_3GLrhh"
+    "collapsible_content_3GLrhh",
+    "insta_stories_t9NzMz"
   ]
 }
