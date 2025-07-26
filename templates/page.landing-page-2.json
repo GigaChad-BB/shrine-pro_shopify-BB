@@ -181,6 +181,194 @@
         "custom_section_colors_background": "#FFFFFF",
         "custom_section_gradient_background": ""
       }
+    },
+    "image_slider_H9FUJM": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_DAMaWf": {
+          "type": "video_slide",
+          "settings": {
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_NknLrd": {
+          "type": "video_slide",
+          "settings": {
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_8Hrdn6": {
+          "type": "video_slide",
+          "settings": {
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_R7TAiA": {
+          "type": "video_slide",
+          "settings": {
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_Lf9Kgr": {
+          "type": "video_slide",
+          "settings": {
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_DAMaWf",
+        "video_slide_NknLrd",
+        "video_slide_8Hrdn6",
+        "video_slide_R7TAiA",
+        "video_slide_Lf9Kgr"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Des millions de femmes nous font déjà confiance",
+        "title_highlight_color": "#121212",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "type": "loop",
+        "drag": "enabled",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 0,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 16,
+        "slides_mobile": 2,
+        "per_move_mobile": 2,
+        "mobile_spacing": 16,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 40,
+        "padding_bottom": 60,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "slideshow_Cn3iRn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_KVMDEi": {
+          "type": "slide",
+          "settings": {
+            "image_overlay_opacity": 0,
+            "heading": "Melanie B.",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h2",
+            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_KVMDEi"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "visibility": "always-display",
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "desktop_pagination_position": "over",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": true,
+        "mobile_pagination_position": "under",
+        "accessibility_info": ""
+      }
     }
   },
   "order": [
@@ -191,6 +379,8 @@
     "rich_text_f6Y77j",
     "custom_liquid_KXwbFQ",
     "rich_text_GF97Bp",
-    "image_with_text_3fYEiC"
+    "image_with_text_3fYEiC",
+    "image_slider_H9FUJM",
+    "slideshow_Cn3iRn"
   ]
 }
