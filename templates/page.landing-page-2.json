@@ -703,7 +703,7 @@
           "type": "user",
           "settings": {
             "username": "shrinetheme",
-            "verified": false,
+            "verified": true,
             "close_friends": false,
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
