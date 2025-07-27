@@ -418,74 +418,12 @@
             "custom_colors_solid_button_text": "#ffffff",
             "custom_colors_outline_button": "#dd1d1d"
           }
-        },
-        "slide_YFEgDp": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/8_3e379c8f-acbb-4456-8fe0-d5c31268bf8b.jpg",
-            "mobile_image": "shopify://shop_images/8_3e379c8f-acbb-4456-8fe0-d5c31268bf8b.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "Melanie B.",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h2",
-            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center",
-            "custom_colors_background": "#ffffff",
-            "custom_gradient_background": "",
-            "custom_colors_text": "#2e2a39",
-            "custom_colors_solid_button_background": "#dd1d1d",
-            "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
-          }
-        },
-        "slide_aNLdY7": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/10.jpg",
-            "mobile_image": "shopify://shop_images/10.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "Melanie B.",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h2",
-            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center",
-            "custom_colors_background": "#ffffff",
-            "custom_gradient_background": "",
-            "custom_colors_text": "#2e2a39",
-            "custom_colors_solid_button_background": "#dd1d1d",
-            "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
-          }
         }
       },
       "block_order": [
         "slide_KVMDEi",
         "slide_Upj8bJ",
-        "slide_VqFqeB",
-        "slide_YFEgDp",
-        "slide_aNLdY7"
+        "slide_VqFqeB"
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
@@ -550,7 +488,7 @@
         "kaching_bundles_app_block_UprkC4": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "noeva-peelshot"
+            "product": "noeva-bio-collagen-le-masque-n-1-coreen-qui-a-conquis-la-france"
           }
         },
         "custom_liquid_bVDQxp": {
@@ -606,7 +544,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "product": "noeva-peelshot",
+        "product": "noeva-bio-collagen-le-masque-n-1-coreen-qui-a-conquis-la-france",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
