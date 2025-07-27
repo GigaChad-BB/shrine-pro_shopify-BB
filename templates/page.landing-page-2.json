@@ -158,7 +158,7 @@
         "display_id": false,
         "visibility": "always-display",
         "image": "shopify://shop_images/Benefices_masque.png",
-        "height": "medium",
+        "height": "small",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "section_color_scheme": "background-1",
