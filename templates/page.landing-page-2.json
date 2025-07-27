@@ -79,7 +79,7 @@
         "heading_F6JrQj": {
           "type": "heading",
           "settings": {
-            "title": "Dès que le collagène agit, votre peau revit.",
+            "title": "À peine posé, déjà adopté",
             "title_highlight_color": "#121212",
             "heading_size": "h2"
           }
@@ -157,7 +157,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Benefices_serum.png",
+        "image": "shopify://shop_images/Benefices_masque.png",
         "height": "medium",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
