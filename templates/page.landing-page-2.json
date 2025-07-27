@@ -79,9 +79,9 @@
         "heading_F6JrQj": {
           "type": "heading",
           "settings": {
-            "title": "La magie opère dès la première goutte",
+            "title": "Dès que le collagène agit, votre peau revit.",
             "title_highlight_color": "#121212",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -112,7 +112,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 20px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/Video_gif.gif?v=1752595763\"\n    alt=\"Video_gif\" \n    style=\"max-width: 60%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 5px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/Gif_concu.gif?v=1753614600\"\n    alt=\"Video_gif\" \n    style=\"max-width: 80%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
@@ -124,7 +124,7 @@
         "heading_38xdf3": {
           "type": "heading",
           "settings": {
-            "title": "<strong>NOEVA PeelShot+ : L'Indispensable</strong>",
+            "title": "<strong>NOEVA Bio-Collagen</strong>",
             "title_highlight_color": "#121212",
             "heading_size": "h1"
           }
