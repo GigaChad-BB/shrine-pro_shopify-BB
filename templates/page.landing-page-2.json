@@ -188,6 +188,7 @@
         "video_slide_DAMaWf": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/VideoSite7.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -205,6 +206,7 @@
         "video_slide_NknLrd": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/VideoSite6.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -222,6 +224,7 @@
         "video_slide_8Hrdn6": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/VideoSite3.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -239,6 +242,7 @@
         "video_slide_R7TAiA": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/VideoSite4.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -256,6 +260,7 @@
         "video_slide_Lf9Kgr": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/VideoSite5.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -327,11 +332,13 @@
         "slide_KVMDEi": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/6_96feaf28-60d0-4f33-9c2c-027bb5f23801.jpg",
+            "mobile_image": "shopify://shop_images/6_96feaf28-60d0-4f33-9c2c-027bb5f23801.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Melanie B.",
+            "heading": "Lucia L.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Franchement, j’adore ! Rend la peau super douce, pas d’odeur, et elle ne pique pas du tout. Ma peau est plus lisse et lumineuse dès les premières utilisations. Je l’utilise 2 à 3 fois par semaine, et le flacon dure vraiment longtemps. J’ai la peau sensible et aucun souci. En plus, j’ai vu plein d’avis positifs sur TikTok, et je confirme : c’est un vrai coup de cœur !",
+            "subheading": "J'ai remarqué une énorme amélioration de la texture et de l'hydratation de ma peau. Merci pour ce produit extraordinaire !",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -355,6 +362,8 @@
         "slide_Upj8bJ": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/7_88ffcaf3-041e-4e4e-acf8-f1a3c436c5ee.jpg",
+            "mobile_image": "shopify://shop_images/7_88ffcaf3-041e-4e4e-acf8-f1a3c436c5ee.jpg",
             "image_overlay_opacity": 0,
             "heading": "Melanie B.",
             "title_highlight_color": "#6d388b",
@@ -383,6 +392,8 @@
         "slide_VqFqeB": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/9_f67caa95-ad68-4ef6-ac18-893fc4048b33.jpg",
+            "mobile_image": "shopify://shop_images/9_f67caa95-ad68-4ef6-ac18-893fc4048b33.jpg",
             "image_overlay_opacity": 0,
             "heading": "Melanie B.",
             "title_highlight_color": "#6d388b",
@@ -411,6 +422,8 @@
         "slide_YFEgDp": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/8_3e379c8f-acbb-4456-8fe0-d5c31268bf8b.jpg",
+            "mobile_image": "shopify://shop_images/8_3e379c8f-acbb-4456-8fe0-d5c31268bf8b.jpg",
             "image_overlay_opacity": 0,
             "heading": "Melanie B.",
             "title_highlight_color": "#6d388b",
@@ -439,6 +452,8 @@
         "slide_aNLdY7": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/10.jpg",
+            "mobile_image": "shopify://shop_images/10.jpg",
             "image_overlay_opacity": 0,
             "heading": "Melanie B.",
             "title_highlight_color": "#6d388b",
