@@ -722,50 +722,6 @@
         "custom_colors_text": "#121212"
       }
     },
-    "image_with_text_Jpb6nX": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_L8arVy": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_L8arVy"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/Photo_produit_bas_payement.png",
-        "height": "adapt",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_full_media_width": false,
-        "mobile_direction": "normal",
-        "mobile_image_quanlity": "2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
-        "custom_section_gradient_background": ""
-      }
-    },
     "1753538890515f5824": {
       "type": "apps",
       "blocks": {
@@ -1002,7 +958,6 @@
     "featured_product_XeKhxV",
     "collapsible_content_3GLrhh",
     "insta_stories_t9NzMz",
-    "image_with_text_Jpb6nX",
     "1753538890515f5824",
     "ss_simple_faq_tgRCWX",
     "contact_form_CxWkkJ",
