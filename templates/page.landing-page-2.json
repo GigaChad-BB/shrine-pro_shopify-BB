@@ -570,6 +570,16 @@
     "collapsible_content_3GLrhh": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_DeiUJb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
         "collapsible_row_GD77rD": {
           "type": "collapsible_row",
           "settings": {
@@ -612,6 +622,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_DeiUJb",
         "collapsible_row_GD77rD",
         "collapsible_row_JYVNCm",
         "collapsible_row_dz3UTA",
@@ -720,6 +731,57 @@
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
+      }
+    },
+    "sp_image_masonry_gri_qBzdca": {
+      "type": "sp-image-masonry-gri",
+      "blocks": {
+        "image_rRTxCX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/14.jpg",
+            "link": ""
+          }
+        },
+        "image_HDRXHE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/15.jpg",
+            "link": ""
+          }
+        },
+        "image_7wtRX4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/14.jpg",
+            "link": ""
+          }
+        },
+        "image_LAzehr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/17.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rRTxCX",
+        "image_HDRXHE",
+        "image_7wtRX4",
+        "image_LAzehr"
+      ],
+      "name": "🚀SP - Image Masonry Gri",
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "button_background_color": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(51, 51, 51, 1) 100%)",
+        "max_width": 1000,
+        "columns": "1",
+        "grid_gap": 10,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10
       }
     },
     "1753538890515f5824": {
@@ -958,6 +1020,7 @@
     "featured_product_XeKhxV",
     "collapsible_content_3GLrhh",
     "insta_stories_t9NzMz",
+    "sp_image_masonry_gri_qBzdca",
     "1753538890515f5824",
     "ss_simple_faq_tgRCWX",
     "contact_form_CxWkkJ",
