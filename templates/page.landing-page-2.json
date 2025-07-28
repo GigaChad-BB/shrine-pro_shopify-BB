@@ -609,24 +609,13 @@
             "row_content": "<p>🗓️ <strong>Fréquence d’utilisation</strong></p><p>Pour des résultats visibles et durables, utilisez le masque <strong>1 à 2 fois par semaine</strong>, selon les besoins de votre peau (fatigue, sécheresse, perte d’éclat…).</p><p>🧼 <strong>Préparation de la peau</strong></p><p>Avant application, nettoyez soigneusement votre visage. Une peau <strong>propre et sèche</strong> favorise l’absorption optimale des actifs.</p><p>📄 <strong>Application du masque</strong></p><ol><li>Retirez délicatement le film protecteur</li><li>Appliquez les deux parties du masque sur votre visage, en épousant bien les contours pour une adhérence parfaite.</li><li>Détendez-vous… le soin commence.<br/></li></ol><p>⏳ <strong>Temps de pose recommandé</strong></p><ul><li>Soin express : Laissez poser <strong>jusqu’à 4 heures</strong> pour hydrater intensément et revitaliser la peau.</li><li>Soin en profondeur : Laissez poser <strong>toute la nuit</strong> pour une régénération maximale et un effet peau neuve au réveil.</li></ul><p>🌟 <strong>Absorption personnalisée</strong></p><p>Lors des premières utilisations, votre peau peut <strong>absorber très rapidement</strong> les actifs du masque, surtout si elle est très déshydratée. Cela signifie que votre peau profite pleinement des bienfaits hydratants et réparateurs.</p><p>⚠️ <strong>Test de tolérance conseillé</strong></p><p>Pour les peaux sensibles ou réactives, appliquez une petite quantité du produit sur le dos de la main ou derrière l’oreille. Attendez 24h pour vérifier l’absence de réaction avant usage complet.</p>",
             "page": ""
           }
-        },
-        "collapsible_row_LeHWVy": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
-            "filled_icon": false,
-            "row_content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "collapsible_row_GD77rD",
         "collapsible_row_JYVNCm",
         "collapsible_row_dz3UTA",
-        "collapsible_row_wRPnYt",
-        "collapsible_row_LeHWVy"
+        "collapsible_row_wRPnYt"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -763,8 +752,8 @@
         "text_awT9MV": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext</p>"
+            "question": "Qu’est-ce qu’un masque au collagène et comment agit-il sur votre peau ?",
+            "answer": "<p>✨ <strong>Un masque au collagène est bien plus qu’un simple soin hydratant.</strong><br/>Enrichi en collagène (protéine essentielle à la fermeté et à l’élasticité de la peau) il aide à lisser les rides, à restaurer l’hydratation en profondeur et à apaiser les peaux fatiguées ou sensibles. Résultat : un teint visiblement plus lumineux, une peau revitalisée, rebondie, et une sensation immédiate de confort.</p>"
           }
         },
         "text_wMDNFT": {
