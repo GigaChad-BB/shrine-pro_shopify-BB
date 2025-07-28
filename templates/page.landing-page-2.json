@@ -667,12 +667,14 @@
             "story_3_bg": "#282828"
           }
         },
-        "user_MVqLwf": {
+        "user_cxrAqe": {
           "type": "user",
           "settings": {
-            "username": "shrinetheme",
-            "verified": true,
+            "username": "annachristinelos",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/Mannequin2.jpg",
             "close_friends": false,
+            "story_1_video": "shopify://files/videos/Tiktok2.mp4",
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
             "story_1_bg": "#282828",
@@ -684,12 +686,14 @@
             "story_3_bg": "#282828"
           }
         },
-        "user_PJWdnC": {
+        "user_MVqLwf": {
           "type": "user",
           "settings": {
-            "username": "shrinetheme",
+            "username": "julia__hauls",
             "verified": true,
+            "profile_picture": "shopify://shop_images/Mannequin3.jpg",
             "close_friends": false,
+            "story_1_video": "shopify://files/videos/Tiktok3.mp4",
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
             "story_1_bg": "#282828",
@@ -704,8 +708,8 @@
       },
       "block_order": [
         "user_p8EKBk",
-        "user_MVqLwf",
-        "user_PJWdnC"
+        "user_cxrAqe",
+        "user_MVqLwf"
       ],
       "name": "Instagram stories",
       "settings": {
