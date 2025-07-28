@@ -488,7 +488,7 @@
         "kaching_bundles_app_block_UprkC4": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "noeva-bio-collagen-le-masque-n-1-coreen-qui-a-conquis-la-france"
+            "product": "noeva-bio-collagen"
           }
         },
         "custom_liquid_bVDQxp": {
@@ -551,7 +551,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "product": "noeva-bio-collagen-le-masque-n-1-coreen-qui-a-conquis-la-france",
+        "product": "noeva-bio-collagen",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
