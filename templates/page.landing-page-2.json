@@ -797,6 +797,13 @@
             "question": "Le masque est-il adapté en cas d’allergies ou de sensibilités ?",
             "answer": "<p><strong>Nous vous conseillons de vérifier attentivement la liste complète des ingrédients figurant sur l’emballage.</strong><br/><br/>En cas d’allergies connues ou de doutes, il est préférable de consulter un dermatologue avant utilisation pour garantir une expérience sûre et adaptée à votre peau.</p>"
           }
+        },
+        "text_i6PTNx": {
+          "type": "text",
+          "settings": {
+            "question": "Combien de temps puis-je garder mes masques avant utilisation ?",
+            "answer": "<p><strong>Les masques Bio-Collagen se conservent jusqu’à 2 ans à partir de leur date de fabrication.</strong><br/><br/>Pour une efficacité optimale des actifs, il est recommandé d’utiliser le masque <strong>immédiatement après ouverture</strong>.</p>"
+          }
         }
       },
       "block_order": [
@@ -806,7 +813,8 @@
         "text_T4LMQM",
         "text_BXWkWn",
         "text_BcdmHm",
-        "text_YRmjP8"
+        "text_YRmjP8",
+        "text_i6PTNx"
       ],
       "name": "Faq",
       "settings": {
