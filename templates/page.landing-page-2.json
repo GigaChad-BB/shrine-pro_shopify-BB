@@ -790,6 +790,13 @@
             "question": "Est-il compatible avec mes autres produits de soin ?",
             "answer": "<p><strong>Oui, le masque Bio-Collagen s’intègre parfaitement à votre routine de soins habituelle.</strong><br/><br/>Il peut être utilisé en complément de vos crèmes, sérums ou lotions.<br/><br/>Comme pour tout nouveau produit, un test préalable sur une petite zone est recommandé pour vérifier la compatibilité avec votre peau.</p>"
           }
+        },
+        "text_YRmjP8": {
+          "type": "text",
+          "settings": {
+            "question": "Le masque est-il adapté en cas d’allergies ou de sensibilités ?",
+            "answer": "<p><strong>Nous vous conseillons de vérifier attentivement la liste complète des ingrédients figurant sur l’emballage.</strong><br/><br/>En cas d’allergies connues ou de doutes, il est préférable de consulter un dermatologue avant utilisation pour garantir une expérience sûre et adaptée à votre peau.</p>"
+          }
         }
       },
       "block_order": [
@@ -798,7 +805,8 @@
         "text_wMDNFT",
         "text_T4LMQM",
         "text_BXWkWn",
-        "text_BcdmHm"
+        "text_BcdmHm",
+        "text_YRmjP8"
       ],
       "name": "Faq",
       "settings": {
