@@ -804,6 +804,13 @@
             "question": "Combien de temps puis-je garder mes masques avant utilisation ?",
             "answer": "<p><strong>Les masques Bio-Collagen se conservent jusqu’à 2 ans à partir de leur date de fabrication.</strong><br/><br/>Pour une efficacité optimale des actifs, il est recommandé d’utiliser le masque <strong>immédiatement après ouverture</strong>.</p>"
           }
+        },
+        "text_czCHQj": {
+          "type": "text",
+          "settings": {
+            "question": "Où et comment stocker les masques au collagène ?",
+            "answer": "<p><strong>Conservez vos masques dans un endroit frais et sec, à l’abri de la chaleur et de la lumière directe.</strong><br/><br/>Pour un effet encore plus rafraîchissant et apaisant lors de l’application, vous pouvez également les placer au réfrigérateur.</p>"
+          }
         }
       },
       "block_order": [
@@ -814,7 +821,8 @@
         "text_BXWkWn",
         "text_BcdmHm",
         "text_YRmjP8",
-        "text_i6PTNx"
+        "text_i6PTNx",
+        "text_czCHQj"
       ],
       "name": "Faq",
       "settings": {
