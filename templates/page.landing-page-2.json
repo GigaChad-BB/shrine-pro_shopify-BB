@@ -500,7 +500,7 @@
         "custom_liquid_fBpyqk": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin-top: 15px; text-align: center; font-family: Arial, sans-serif;\">\n    <!-- Titre -->\n    <div style=\"font-size: 14px; color: #444; font-weight: 600; margin-bottom: 5px;\">\n      Commandes en cours\n    </div>\n\n    <!-- Conteneur de la barre -->\n    <div style=\"width: 100%; max-width: 250px; margin: 0 auto; background: #E0E0E0; border-radius: 4px; height: 6px; position: relative; overflow: hidden;\">\n      <div id=\"progress-bar\" style=\"width: 83.3333%; height: 100%; background: #CFB491FF; transition: width 2s ease-in-out;\">\n      </div>\n    </div>\n    \n    <!-- Nombre de commandes -->\n    <div id=\"order-count\" style=\"font-size: 12px; color: #666; font-weight: 500; margin-top: 4px;\">5 commandes en cours</div>\n  </div>"
+            "custom_liquid": "<div style=\"margin-top: 15px; text-align: center; font-family: Arial, sans-serif;\">\n    <!-- Titre -->\n    <div style=\"font-size: 14px; color: #444; font-weight: 600; margin-bottom: 5px;\">\n      Commandes en cours\n    </div>\n\n    <!-- Conteneur de la barre -->\n    <div style=\"width: 100%; max-width: 250px; margin: 0 auto; background: #E0E0E0; border-radius: 4px; height: 6px; position: relative; overflow: hidden;\">\n      <div id=\"progress-bar\" style=\"width: 83.3333%; height: 100%; background: #CFB491FF; transition: width 2s ease-in-out;\">\n      </div>\n    </div>\n    \n    <!-- Nombre de commandes -->\n    <div id=\"order-count\" style=\"font-size: 12px; color: #666; font-weight: 500; margin-top: 4px;\">2 commandes en cours</div>\n  </div>"
           }
         },
         "buy_buttons_e3wHkt": {
