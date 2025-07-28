@@ -783,6 +783,13 @@
             "question": "Quels sont les ingrédients principaux du masque ?",
             "answer": "<p><strong>Nos masques Bio-Collagen associent du collagène hydrolysé, de l’acide hyaluronique, des extraits de plantes naturelles et des vitamines essentielles.</strong><br/>En synergie, ces actifs hydratent intensément, nourrissent la peau en profondeur et renforcent sa structure. Résultat : une peau plus souple, revitalisée, et visiblement plus jeune.</p>"
           }
+        },
+        "text_BcdmHm": {
+          "type": "text",
+          "settings": {
+            "question": "Est-il compatible avec mes autres produits de soin ?",
+            "answer": "<p><strong>Oui, le masque Bio-Collagen s’intègre parfaitement à votre routine de soins habituelle.</strong><br/><br/>Il peut être utilisé en complément de vos crèmes, sérums ou lotions.<br/><br/>Comme pour tout nouveau produit, un test préalable sur une petite zone est recommandé pour vérifier la compatibilité avec votre peau.</p>"
+          }
         }
       },
       "block_order": [
@@ -790,7 +797,8 @@
         "text_drMAc9",
         "text_wMDNFT",
         "text_T4LMQM",
-        "text_BXWkWn"
+        "text_BXWkWn",
+        "text_BcdmHm"
       ],
       "name": "Faq",
       "settings": {
