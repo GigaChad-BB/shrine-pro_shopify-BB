@@ -1,6 +1,6 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
+{% if section.settings.product != blank %}
+  <div class="loox-rating" data-product-id="{{ section.settings.product.id }}"></div>
+  <div class="loox-reviews" data-product-id="{{ section.settings.product.id }}"></div>
+{% else %}
+  <p>Veuillez sélectionner un produit dans les paramètres de la section.</p>
+{% endif %}
