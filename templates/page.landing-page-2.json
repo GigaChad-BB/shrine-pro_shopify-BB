@@ -756,11 +756,18 @@
             "answer": "<p>✨ <strong>Un masque au collagène est bien plus qu’un simple soin hydratant.</strong><br/>Enrichi en collagène (protéine essentielle à la fermeté et à l’élasticité de la peau) il aide à lisser les rides, à restaurer l’hydratation en profondeur et à apaiser les peaux fatiguées ou sensibles. Résultat : un teint visiblement plus lumineux, une peau revitalisée, rebondie, et une sensation immédiate de confort.</p>"
           }
         },
+        "text_drMAc9": {
+          "type": "text",
+          "settings": {
+            "question": "Comment bien appliquer un masque au collagène ?",
+            "answer": "<p>✨ <strong>Mode d’application du masque Bio-Collagen :</strong></p><p><strong>1. Préparez votre peau</strong><br/>Nettoyez soigneusement votre visage, puis séchez-le en douceur avec une serviette propre. Une peau propre favorise une meilleure absorption des actifs.</p><p><strong>2. Appliquez le masque</strong><br/>Sortez délicatement le masque de son emballage et placez-le sur votre visage. Ajustez-le soigneusement autour des yeux, du nez et de la bouche pour un confort optimal.</p><p><strong>3. Laissez agir</strong><br/>Laissez poser entre <strong>2 et 3 heures</strong> pour permettre au collagène et aux actifs hydratants de pénétrer en profondeur. Pour un soin intensif, utilisez-le en moment de repos.</p><p><strong>4. Finalisez le soin</strong><br/>Retirez le masque, puis massez doucement l’excédent de sérum du bout des doigts jusqu’à absorption complète. Inutile de rincer : votre peau est nourrie, repulpée et lumineuse.</p>"
+          }
+        },
         "text_wMDNFT": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext</p>"
+            "question": "À quel rythme utiliser le masque pour une peau visiblement transformée ?",
+            "answer": "<p>✨ <strong>Pour des résultats visibles et durables</strong>, utilisez le <strong>masque Bio-Collagen</strong> <strong>2 à 3 fois par semaine</strong>.<br/>Écoutez votre peau : si elle est particulièrement sèche, fatiguée ou terne, ajustez la fréquence selon ses besoins.</p>"
           }
         },
         "text_T4LMQM": {
@@ -780,6 +787,7 @@
       },
       "block_order": [
         "text_awT9MV",
+        "text_drMAc9",
         "text_wMDNFT",
         "text_T4LMQM",
         "text_BXWkWn"
