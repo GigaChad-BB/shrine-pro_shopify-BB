@@ -566,30 +566,30 @@
         "collapsible_row_GD77rD": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Attention aux contrefaçons",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Nos produits sont disponibles <strong>uniquement sur notre site officiel</strong>. Toute vente via des plateformes tierces concerne des copies non autorisées, souvent de qualité inférieure.<br/><br/>Pour garantir <strong>l’authenticité, la sécurité et l’efficacité</strong> de votre soin, veillez à commander exclusivement sur notre site.<br/><br/>Nous ne pourrons être tenus responsables des produits achetés ailleurs.</p>",
             "page": ""
           }
         },
         "collapsible_row_JYVNCm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Bénéfices",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>💧 <strong>Hydratation Profonde & Immédiate</strong><br/>Fini la peau qui tiraille. Grâce à l’acide oligo-hyaluronique, ce masque gorge votre peau d’hydratation en profondeur, repulpe instantanément et ravive l’éclat naturel de votre teint, <strong>même après une longue journée.</strong></p><p>✨ <strong>Peau Visiblement Lissée</strong><br/>Ridules, irrégularités, zones ternes… balayées. La formule experte lisse la surface de la peau et révèle une texture douce, nette et lumineuse, <strong>dès la première utilisation.</strong></p><p>🌸 <strong>Correction des Signes de l’Âge</strong><br/>Chargé en collagène de haute qualité, ce masque cible les rides, renforce la fermeté et ravive l’élasticité. Une peau plus jeune, plus tonique… et <strong>un regard plus confiant.</strong></p><p>💪 <strong>Fermeté & Élasticité Renforcées</strong><br/>Votre peau retrouve du rebondi, du maintien et une apparence visiblement plus tonique. Pores affinés, traits redessinés, v<strong>ous rayonnez naturellement.</strong></p><p>🛡️ <strong>Ultra-Doux, Même pour les Peaux Sensibles</strong><br/>Testé dermatologiquement, hypoallergénique et sans parfum agressif. Il respecte les peaux les plus réactives pour que <strong>chaque femme puisse en profiter.</strong></p>",
             "page": ""
           }
         },
         "collapsible_row_dz3UTA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Qualité des ingrédients",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>🔬 <strong>Collagène de haute qualité</strong><br/>Une protéine essentielle à l’éclat et à la jeunesse de la peau. Sa structure ultra-fine pénètre en profondeur pour renforcer l’élasticité et repulper visiblement le teint.</p><p>🍶 <strong>Galactomyces</strong><br/>Un ferment naturel précieux, reconnu pour ses vertus régénérantes. Il revitalise la peau terne, affine le grain de peau et améliore l’absorption des autres actifs.</p><p>💧 <strong>Niacinamide (Vitamine B3)</strong><br/>Un actif multi-correcteur qui calme les inflammations, unifie le teint, réduit les rougeurs et les imperfections tout en affinant la texture de la peau.</p><p>💦 <strong>Acide Oligo-Hyaluronique</strong><br/>Sa structure permet une hydratation en profondeur, durable et immédiate. Il retient l’eau dans la peau, pour un effet rebondi et une sensation de confort absolu.</p><p>🌟 <strong>Tocophérol (Vitamine E)</strong><br/>Un puissant antioxydant naturel qui protège la peau contre les agressions extérieures (pollution, UV, stress oxydatif) tout en renforçant sa barrière naturelle.</p><p><strong>Autres ingrédients essentiels</strong> : Eau, Dipropylène Glycol, Glycérine, Cetyl Ethylhexanoate, Niacinamide, Gomme Xanthane, Gomme de Caroube (<strong>Ceratonia Siliqua</strong>), <strong>Chondrus Crispus</strong>, Bétaïne, Panthénol, Hydroxyacétophénone, Olivate d'éthylhexyle, Beurre de Karité (<strong>Butyrospermum Parkii</strong>), Chlorure de Potassium, Caprylyl Glycol, Butylène Glycol, Gomme de Cellulose, 1,2-Hexanediol, Sucrose, Polyacrylate-13, Copolymère d'Acrylates de Sodium, Algine, Stéarate de Glycéryle, Extrait de <strong>Chondrus Crispus</strong>, Glucomannane, Polyglycéryl-4 Oléate, Ethylhexylglycérine, Hydrolysat de Collagène.</p>",
             "page": ""
           }
         },
