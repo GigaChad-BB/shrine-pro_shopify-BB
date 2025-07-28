@@ -773,8 +773,8 @@
         "text_T4LMQM": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext</p>"
+            "question": "Convient-il vraiment à toutes les peaux, même les plus délicates ?",
+            "answer": "<p>✅ <strong>Oui, le masque Bio-Collagen est conçu pour convenir à tous les types de peau, même les plus sensibles.</strong><br/>Sa formule douce et testée dermatologiquement respecte l’équilibre cutané tout en offrant des résultats visibles.<br/>En cas de peau très réactive, nous recommandons un petit test sur une zone discrète avant la première utilisation.<br/><br/></p>"
           }
         },
         "text_BXWkWn": {
