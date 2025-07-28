@@ -10,7 +10,6 @@
 {
   "sections": {
 
-    
     "sp_image_standalone_9jcqVg": {
       "type": "sp-image-standalone",
       "name": "🚀SP - Image Standalone",
@@ -32,6 +31,7 @@
         "media_shadow": true
       }
     },
+   
     "ss_wave_2_Bwr3Ga": {
       "type": "ss-wave-2",
       "disabled": true,
@@ -1027,6 +1027,8 @@
         "border_thickness": 0
       }
     }
+  
+  
   },
   "order": [
     "sp_image_standalone_9jcqVg",
