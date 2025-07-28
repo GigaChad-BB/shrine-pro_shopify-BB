@@ -439,6 +439,89 @@
         "accessibility_info": ""
       }
     },
+    "insta_stories_t9NzMz": {
+      "type": "insta-stories",
+      "blocks": {
+        "user_p8EKBk": {
+          "type": "user",
+          "settings": {
+            "username": "pretty.squirrelss",
+            "verified": true,
+            "profile_picture": "shopify://shop_images/Mannequin14.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/Tiktok1.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_cxrAqe": {
+          "type": "user",
+          "settings": {
+            "username": "annachristinelos",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/Mannequin2.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/Tiktok2.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_MVqLwf": {
+          "type": "user",
+          "settings": {
+            "username": "julia__hauls",
+            "verified": true,
+            "profile_picture": "shopify://shop_images/Mannequin3.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/Tiktok3.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "user_p8EKBk",
+        "user_cxrAqe",
+        "user_MVqLwf"
+      ],
+      "name": "Instagram stories",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Viral sur Instagram",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "autoplay_speed": 10,
+        "padding_top": 8,
+        "padding_bottom": 12,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "featured_product_XeKhxV": {
       "type": "featured-product",
       "blocks": {
@@ -643,89 +726,6 @@
         "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
-      }
-    },
-    "insta_stories_t9NzMz": {
-      "type": "insta-stories",
-      "blocks": {
-        "user_p8EKBk": {
-          "type": "user",
-          "settings": {
-            "username": "pretty.squirrelss",
-            "verified": true,
-            "profile_picture": "shopify://shop_images/Mannequin14.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/Tiktok1.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
-          }
-        },
-        "user_cxrAqe": {
-          "type": "user",
-          "settings": {
-            "username": "annachristinelos",
-            "verified": false,
-            "profile_picture": "shopify://shop_images/Mannequin2.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/Tiktok2.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
-          }
-        },
-        "user_MVqLwf": {
-          "type": "user",
-          "settings": {
-            "username": "julia__hauls",
-            "verified": true,
-            "profile_picture": "shopify://shop_images/Mannequin3.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/Tiktok3.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
-          }
-        }
-      },
-      "block_order": [
-        "user_p8EKBk",
-        "user_cxrAqe",
-        "user_MVqLwf"
-      ],
-      "name": "Instagram stories",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Viral sur Instagram",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "",
-        "color_scheme": "background-1",
-        "autoplay_speed": 10,
-        "padding_top": 8,
-        "padding_bottom": 12,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
       }
     },
     "image_slider_TNV4UU": {
