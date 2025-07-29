@@ -9,13 +9,6 @@
  */
 {
   "sections": {
-    "loox_product_reviews_xY4Fkj": {
-      "type": "loox-product-reviews",
-      "name": "Loox produit",
-      "settings": {
-        "product": "noeva-bio-collagen"
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -1051,7 +1044,6 @@
     }
   },
   "order": [
-    "loox_product_reviews_xY4Fkj",
     "main",
     "sp_image_standalone_8AaQAd",
     "custom_liquid_taNHiA",
