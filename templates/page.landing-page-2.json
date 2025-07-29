@@ -826,6 +826,7 @@
       "blocks": {
         "loox_reviews_loox_agg_section_FfGRdk": {
           "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
           "settings": {
             "only_photos": false,
             "hide_thumbnails": true,
@@ -839,6 +840,25 @@
       },
       "block_order": [
         "loox_reviews_loox_agg_section_FfGRdk"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
+    "17537819020fe200b6": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_4zEmQx": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "noeva-bio-collagen"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_4zEmQx"
       ],
       "settings": {
         "display_id": false,
@@ -1059,6 +1079,7 @@
     "insta_stories_t9NzMz",
     "image_slider_TNV4UU",
     "1753538890515f5824",
+    "17537819020fe200b6",
     "ss_simple_faq_tgRCWX",
     "contact_form_CxWkkJ",
     "sp_image_icon_grid_feBB7P",
