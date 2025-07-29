@@ -1,25 +1,24 @@
-{% schema %}
-{
-  "name": "Avis Loox Bio-Collagen",
-  "settings": [
-    {
-      "type": "product",
-      "id": "product",
-      "label": "Choisissez un produit"
-    }
-  ],
-  "presets": [
-    {
-      "name": "Avis Loox (produit)"
-    }
-  ]
-}
-{% endschema %}
-
-
 {% if section.settings.product != blank %}
   <div class="loox-rating" data-product-id="{{ section.settings.product.id }}"></div>
   <div class="loox-reviews" data-product-id="{{ section.settings.product.id }}"></div>
 {% else %}
   <p>Veuillez sélectionner un produit dans les paramètres de la section.</p>
 {% endif %}
+
+{% schema %}
+{
+  "name": "Avis Loox",
+  "settings": [
+    {
+      "type": "product",
+      "id": "product",
+      "label": "Produit à afficher"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Loox produit"
+    }
+  ]
+}
+{% endschema %}
