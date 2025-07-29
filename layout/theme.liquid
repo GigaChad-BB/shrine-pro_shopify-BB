@@ -428,6 +428,10 @@
       {{ 'accessibility.skip_to_text' | t }}
     </a>
 
+{{ 'loox.js' | asset_url | script_tag }}
+
+
+    
     {% sections 'header-group' %}
     
     {%- if settings.cart_type == 'drawer' -%}
