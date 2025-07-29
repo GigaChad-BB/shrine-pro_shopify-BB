@@ -9,6 +9,13 @@
  */
 {
   "sections": {
+    "loox_product_reviews_xY4Fkj": {
+      "type": "loox-product-reviews",
+      "name": "Loox produit",
+      "settings": {
+        "product": "noeva-bio-collagen"
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -821,13 +828,6 @@
         "custom_colors_text": "#121212"
       }
     },
-    "loox_product_reviews_ELNHHG": {
-      "type": "loox-product-reviews",
-      "name": "Loox produit",
-      "settings": {
-        "product": "noeva-bio-collagen"
-      }
-    },
     "1753538890515f5824": {
       "type": "apps",
       "blocks": {
@@ -1051,6 +1051,7 @@
     }
   },
   "order": [
+    "loox_product_reviews_xY4Fkj",
     "main",
     "sp_image_standalone_8AaQAd",
     "custom_liquid_taNHiA",
@@ -1065,7 +1066,6 @@
     "collapsible_content_3GLrhh",
     "insta_stories_t9NzMz",
     "image_slider_TNV4UU",
-    "loox_product_reviews_ELNHHG",
     "1753538890515f5824",
     "ss_simple_faq_tgRCWX",
     "contact_form_CxWkkJ",
