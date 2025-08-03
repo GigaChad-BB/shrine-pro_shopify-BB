@@ -588,6 +588,12 @@
             "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            \n<style>\n  #people-viewing {\n    position: relative;\n    padding-left: 25px; /* Add padding to make space for the glow */\n    font-size: 16px;\n    font-weight: bold;\n  }\n\n  #people-viewing::before {\n    content: '';\n    position: absolute;\n    left: 0;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 12px;\n    height: 12px;\n    border-radius: 50%;\n    background-color: #f4af29;\n    box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n    animation: glowing 2.5s infinite; /* Apply animation */\n  }\n\n  /* Keyframes for glowing animation */\n  @keyframes glowing {\n    0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n    100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n  }\n</style><div id=\"people-viewing\">Encore <span id=\"stock-count\">4</span> en stock</div>\n\n<script>\n  // Function to change the stock number after 2 seconds\n  function changeStockNumber() {\n    setTimeout(() => {\n      document.getElementById(\"stock-count\").textContent = \"3\";\n    }, 5000);\n  }\n\n  // Using Intersection Observer API to detect when element is in viewport\n  const observer = new IntersectionObserver((entries, observer) => {\n    entries.forEach(entry => {\n      if (entry.isIntersecting) { \n        changeStockNumber(); // Trigger stock change when visible\n        observer.disconnect(); // Stop observing after first trigger\n      }\n    });\n  }, { threshold: 0.5 }); // Trigger when at least 50% of the element is visible\n\n  observer.observe(document.getElementById(\"people-viewing\"));\n</script>\n          </div>"
           }
         },
+        "custom_liquid_F4MD4i": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"margin-top: 15px; text-align: center; font-family: Arial, sans-serif;\">\n    <!-- Titre -->\n    <div style=\"font-size: 14px; color: #444; font-weight: 600; margin-bottom: 5px;\">\n      Commandes en cours\n    </div>\n\n    <!-- Conteneur de la barre -->\n    <div style=\"width: 100%; max-width: 250px; margin: 0 auto; background: #E0E0E0; border-radius: 4px; height: 6px; position: relative; overflow: hidden;\">\n      <div id=\"progress-bar\" style=\"width: 83.3333%; height: 100%; background: #CFB491FF; transition: width 2s ease-in-out;\">\n      </div>\n    </div>\n    \n    <!-- Nombre de commandes -->\n    <div id=\"order-count\" style=\"font-size: 12px; color: #666; font-weight: 500; margin-top: 4px;\">2 commandes en cours</div>\n  </div>"
+          }
+        },
         "buy_buttons_9JrgjK": {
           "type": "buy_buttons",
           "settings": {
@@ -661,6 +667,7 @@
         "image_bWVRm4",
         "kaching_bundles_app_block_EDxjdb",
         "custom_liquid_7pdMWx",
+        "custom_liquid_F4MD4i",
         "buy_buttons_9JrgjK",
         "custom_liquid_7WbEnA",
         "custom_liquid_j9MeR8",
