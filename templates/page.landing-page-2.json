@@ -514,7 +514,7 @@
             "display_price": false,
             "enable_custom_color": true,
             "custom_color": "#f4b400",
-            "enable_secondary_btn": false,
+            "enable_secondary_btn": true,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
