@@ -95,7 +95,7 @@
         "heading_zJ3BcR": {
           "type": "heading",
           "settings": {
-            "title": "La magie opère dès la première goutte",
+            "title": "Résultat dès la première goutte",
             "title_highlight_color": "#121212",
             "heading_size": "h2"
           }
@@ -276,89 +276,6 @@
         "user_NxC6XF",
         "user_VhzfzF",
         "user_EY9ye9"
-      ],
-      "name": "Instagram stories",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Viral sur Instagram",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "",
-        "color_scheme": "background-1",
-        "autoplay_speed": 10,
-        "padding_top": 8,
-        "padding_bottom": 12,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
-      }
-    },
-    "insta_stories_cmdWG9": {
-      "type": "insta-stories",
-      "blocks": {
-        "user_pbefYY": {
-          "type": "user",
-          "settings": {
-            "username": "lonnielynn55",
-            "verified": true,
-            "profile_picture": "shopify://shop_images/Modele_insta_1.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/Insta model 1.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
-          }
-        },
-        "user_ge8Arj": {
-          "type": "user",
-          "settings": {
-            "username": "chyrkina_vl",
-            "verified": false,
-            "profile_picture": "shopify://shop_images/Modele_insta_2.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/insta model 2.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
-          }
-        },
-        "user_be4DkN": {
-          "type": "user",
-          "settings": {
-            "username": "brianna.m",
-            "verified": false,
-            "profile_picture": "shopify://shop_images/modele_3.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/Insta model 3.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
-          }
-        }
-      },
-      "block_order": [
-        "user_pbefYY",
-        "user_ge8Arj",
-        "user_be4DkN"
       ],
       "name": "Instagram stories",
       "settings": {
@@ -926,6 +843,89 @@
         "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "insta_stories_cmdWG9": {
+      "type": "insta-stories",
+      "blocks": {
+        "user_pbefYY": {
+          "type": "user",
+          "settings": {
+            "username": "lonnielynn55",
+            "verified": true,
+            "profile_picture": "shopify://shop_images/Modele_insta_1.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/Insta model 1.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_ge8Arj": {
+          "type": "user",
+          "settings": {
+            "username": "chyrkina_vl",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/Modele_insta_2.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/insta model 2.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_be4DkN": {
+          "type": "user",
+          "settings": {
+            "username": "brianna.m",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/modele_3.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/Insta model 3.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "user_pbefYY",
+        "user_ge8Arj",
+        "user_be4DkN"
+      ],
+      "name": "Instagram stories",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Viral sur Instagram",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "autoplay_speed": 10,
+        "padding_top": 8,
+        "padding_bottom": 12,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
       }
     },
     "17528674430064a097": {
