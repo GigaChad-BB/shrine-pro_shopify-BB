@@ -982,6 +982,37 @@
         "questions-font-size": 1.3
       }
     },
+    "rich_text_J7c6xd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_aaHrtd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Customer support available 7 days a week, with responses usually guaranteed within 6 hours.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_aaHrtd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -1026,6 +1057,39 @@
         "include_margins": true
       }
     },
+    "sp_image_icon_grid_LqbPAU": {
+      "type": "sp-image-icon-grid",
+      "blocks": {
+        "icon_TXigcx": {
+          "type": "icon",
+          "settings": {
+            "headline": "Secure payment",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_TXigcx"
+      ],
+      "name": "🚀SP - Image Icon Grid",
+      "settings": {
+        "text_font": "playfair_display_n4",
+        "text_size": 13,
+        "headline_font": "playfair_display_n4",
+        "headline_size": 13,
+        "background_color": "linear-gradient(164deg, rgba(250, 248, 246, 1), rgba(255, 255, 255, 1))",
+        "text_color": "#111",
+        "highlight_color": "#111",
+        "mobile_columns": "1fr 1fr",
+        "max_width": 400,
+        "grid_gap": 10,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 8,
+        "padding_right": 10
+      }
+    },
     "17537818817a6a7f72": {
       "type": "apps",
       "disabled": true,
@@ -1052,9 +1116,11 @@
     "rich_text_UaCRjL",
     "custom_liquid_gHXmbN",
     "ss_simple_faq_3K6j3e",
+    "rich_text_J7c6xd",
     "related-products",
     "b321ab88-2b59-4dba-bade-54885c874ca5",
     "1752867389a593260c",
+    "sp_image_icon_grid_LqbPAU",
     "17537818817a6a7f72"
   ]
 }
