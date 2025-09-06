@@ -615,49 +615,71 @@
         "collapsible_row_HYByze": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Ingredients",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p><strong>100% Pure & Unrefined Batana Oil (Elaeis oleifera) </strong><br/><br/>Handcrafted extraction, free from additives or preservatives, to preserve all its natural benefits.</p>",
             "page": ""
           }
         },
-        "collapsible_row_Pe8fMq": {
+        "collapsible_row_TJrLhi": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Usage and tips",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p><strong>Unleash the Power of Pure Batana Oil</strong></p><p>Discover <strong>3 essential rituals</strong> to fully experience the benefits of our <strong>100% pure, handcrafted Batana oil</strong> for stronger, shinier, and healthier hair.</p><p><strong>1. Deep Pre-Shampoo Treatment</strong></p><p>Apply a generous amount of Batana oil to <strong>dry hair</strong> before shampooing.<br/><br/>Leave on for <strong>15 to 30 minutes</strong> to deeply nourish, protect the hair fiber, and reduce breakage and dryness.<br/><br/>Rinse thoroughly, then follow with your usual shampoo and conditioner.</p><p><strong>2. Instant Shine Boost</strong></p><p>For a quick refresh, apply the oil directly to your <strong>scalp and lengths</strong>.<br/><br/>Leave on for <strong>30 minutes</strong> to hydrate, soften, and give your hair a silky, manageable shine.</p><p><strong>3. Overnight Repair Ritual</strong></p><p>Before bedtime, apply generously to <strong>clean hair and scalp</strong>.<br/><br/>Wake up to <strong>fuller, softer, and more manageable hair</strong>.</p><p><strong>For Best Results</strong></p><ul><li>Distribute evenly on <strong>clean, dry hair</strong>.<br/></li><li>Use <strong>2 to 3 times per week</strong>.<br/></li><li><strong>Consistency is key</strong> to achieving visible, long-lasting results.</li></ul>",
             "page": ""
           }
         },
-        "collapsible_row_bYHAYz": {
+        "collapsible_row_jbDqF3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Description and benefits",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p><strong>Rich in nutrients and 100% pure</strong>, this precious oil <strong>revitalizes both hair and skin</strong>, making it an essential ally for any beauty and wellness routine.</p><ul><li><strong>Deeply nourishes and revitalizes</strong> the scalp, boosting natural vitality and promoting healthy hair growth.<br/></li><li><strong>Visibly improves texture and strength</strong>, while reducing the appearance of split ends.<br/></li><li>Provides <strong>intense hydration</strong>, soothing and restoring comfort to dry or irritated skin.<br/></li><li><strong>Protects, nourishes, and enhances elasticity</strong>, leaving the skin soft, supple, and radiant.</li></ul>",
             "page": ""
           }
         },
-        "collapsible_row_qqapGb": {
+        "collapsible_row_mVd76G": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_box",
+            "heading": "Delivery times?",
+            "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>We ship all orders <strong>within 24-48 hours</strong>.<br/><br/>Standard delivery then takes <strong>5 to 8 business days</strong>, depending on your location.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nnwxMc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Beware of counterfeits",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our products are <strong>available exclusively on our official website</strong>.<br/><br/>Any sales through third-party platforms involve <strong>unauthorized copies</strong>, often of inferior quality.</p><p>To ensure <strong>authenticity, safety, and effectiveness</strong>, please order <strong>only from our official site</strong>.<br/><br/>We cannot be held responsible for products purchased elsewhere.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tGDB3t": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Secure payment",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p><strong>Accepted Payment Methods</strong></p><ul><li><strong>Credit & Debit Cards:</strong> Visa, MasterCard, American Express<br/></li><li><strong>PayPal, Apple Pay & Shop Pay:</strong> Fast, simple, and secure checkout<br/></li></ul><p><strong>Security & Reliability</strong></p><ul><li><strong>256-bit SSL Encryption:</strong> All transactions are fully protected to keep your data safe and confidential.<br/></li><li><strong>Enhanced Verification:</strong> Every payment is carefully checked to prevent fraud attempts.<br/></li></ul><p><strong>Need Help?</strong><br/><br/>Our <strong>customer support team is available 24/7</strong> to assist you.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "collapsible_row_HYByze",
-        "collapsible_row_Pe8fMq",
-        "collapsible_row_bYHAYz",
-        "collapsible_row_qqapGb"
+        "collapsible_row_TJrLhi",
+        "collapsible_row_jbDqF3",
+        "collapsible_row_mVd76G",
+        "collapsible_row_nnwxMc",
+        "collapsible_row_tGDB3t"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
