@@ -803,6 +803,70 @@
         "custom_colors_text": "#121212"
       }
     },
+    "ss_gallery_1_MzWe39": {
+      "type": "ss-gallery-1",
+      "blocks": {
+        "image_CM7GPq": {
+          "type": "image",
+          "settings": {
+            "gallery_url": ""
+          }
+        },
+        "image_bi3Etb": {
+          "type": "image",
+          "settings": {
+            "gallery_url": ""
+          }
+        },
+        "image_gYgQei": {
+          "type": "image",
+          "settings": {
+            "gallery_url": ""
+          }
+        },
+        "image_ef9tiJ": {
+          "type": "image",
+          "settings": {
+            "gallery_url": ""
+          }
+        },
+        "image_4T6Rzt": {
+          "type": "image",
+          "settings": {
+            "gallery_url": ""
+          }
+        },
+        "image_4iFFDt": {
+          "type": "image",
+          "settings": {
+            "gallery_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CM7GPq",
+        "image_bi3Etb",
+        "image_gYgQei",
+        "image_ef9tiJ",
+        "image_4T6Rzt",
+        "image_4iFFDt"
+      ],
+      "name": "SS - Image Gallery",
+      "settings": {
+        "show_all_mobile": true,
+        "gallery_title": "They’re already seeing results… why not you?",
+        "gallery_title_font_size": 26,
+        "gallery_insta_title": "",
+        "gallery_insta_url": "",
+        "gallery_url": "",
+        "section_bg_color": "#faf8f6",
+        "type_header_font": "playfair_display_n4",
+        "type_insta_font": "playfair_display_n4",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "section-width": 120
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -869,6 +933,7 @@
     "image_slider_9EqfJP",
     "collapsible_content_LneXzr",
     "insta_stories_Xid98m",
+    "ss_gallery_1_MzWe39",
     "related-products",
     "b321ab88-2b59-4dba-bade-54885c874ca5",
     "1752867389a593260c",
