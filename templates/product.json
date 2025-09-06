@@ -473,37 +473,18 @@
     "image_slider_9EqfJP": {
       "type": "image-slider",
       "blocks": {
-        "image_slide_pdcwPX": {
-          "type": "image_slide",
+        "video_slide_hNH9q9": {
+          "type": "video_slide",
           "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_i3qR7i": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_VKNJ7F": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_gwxcWz": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -511,10 +492,7 @@
         }
       },
       "block_order": [
-        "image_slide_pdcwPX",
-        "image_slide_i3qR7i",
-        "image_slide_VKNJ7F",
-        "image_slide_gwxcWz"
+        "video_slide_hNH9q9"
       ],
       "name": "Image/Video Slider",
       "settings": {
