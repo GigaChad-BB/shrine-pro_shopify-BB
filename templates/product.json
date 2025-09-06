@@ -905,7 +905,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/NewGif_3-COMP.gif?v=1755529532\"\n    alt=\"Video_gif\" \n    style=\"max-width: 80%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/GIF_2_-_US.gif?v=1757182725\"\n    alt=\"Video_gif\" \n    style=\"max-width: 80%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
