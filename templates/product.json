@@ -720,6 +720,83 @@
         "custom_contaner_colors_text": "#2E2A39"
       }
     },
+    "insta_stories_Xid98m": {
+      "type": "insta-stories",
+      "blocks": {
+        "user_DCwdJG": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_zq8MjG": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_3qcRgB": {
+          "type": "user",
+          "settings": {
+            "username": "shrinetheme",
+            "verified": false,
+            "close_friends": false,
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "user_DCwdJG",
+        "user_zq8MjG",
+        "user_3qcRgB"
+      ],
+      "name": "Instagram stories",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Viral on Instagram",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "autoplay_speed": 10,
+        "padding_top": 8,
+        "padding_bottom": 40,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -785,6 +862,7 @@
     "main",
     "image_slider_9EqfJP",
     "collapsible_content_LneXzr",
+    "insta_stories_Xid98m",
     "related-products",
     "b321ab88-2b59-4dba-bade-54885c874ca5",
     "1752867389a593260c",
