@@ -935,6 +935,27 @@
             "question": "Is it really suitable for all hair types?",
             "answer": "<p>Yes. <strong>Batana oil is suitable for all hair types : </strong>straight, wavy, curly, or coily.<br/><br/>Its <strong>lightweight texture absorbs quickly</strong>, deeply nourishing the scalp and <strong>strengthening the hair fiber</strong> without leaving a greasy residue.</p><p>A <strong>universal treatment</strong> for hair that’s <strong>stronger, softer, and visibly healthier</strong>.</p>"
           }
+        },
+        "text_GNfXkL": {
+          "type": "text",
+          "settings": {
+            "question": "Is it natural?",
+            "answer": "<p>Absolutely. <strong>Batana oil is 100% natural and free from harsh chemicals</strong>, making it perfectly safe even for <strong>the most sensitive scalps</strong>.</p><p>Thanks to its <strong>soothing properties</strong>, it helps <strong>calm irritation</strong>, <strong>reduce redness</strong>, and promote a <strong>healthy, comfortable scalp</strong>.</p>"
+          }
+        },
+        "text_A4whQg": {
+          "type": "text",
+          "settings": {
+            "question": "Does Batana oil stop hair loss?",
+            "answer": "<p>Yes, thanks to its <strong>natural nutrients</strong>, it <strong>strengthens the hair fiber</strong> and helps <strong>block DHT</strong> : he hormone responsible for hair loss effectively <strong>reducing shedding</strong>.</p>"
+          }
+        },
+        "text_zdKtBH": {
+          "type": "text",
+          "settings": {
+            "question": "Can it be used in combination with other hair products?",
+            "answer": "<p>Yes. <strong>Batana oil can be safely used</strong> alongside your shampoos, conditioners, and other hair care products.</p><p>For <strong>best results</strong>, apply it <strong>directly to the scalp</strong> as a leave-in treatment, or <strong>leave it on overnight</strong> as a nourishing mask before following your regular routine.</p>"
+          }
         }
       },
       "block_order": [
@@ -944,7 +965,10 @@
         "text_edbP3T",
         "text_TgzpwJ",
         "text_jgwFJV",
-        "text_Mj6abY"
+        "text_Mj6abY",
+        "text_GNfXkL",
+        "text_A4whQg",
+        "text_zdKtBH"
       ],
       "name": "Faq",
       "settings": {
