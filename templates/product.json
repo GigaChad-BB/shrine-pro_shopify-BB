@@ -726,9 +726,11 @@
         "user_DCwdJG": {
           "type": "user",
           "settings": {
-            "username": "shrinetheme",
+            "username": "lonnielynn55",
             "verified": false,
+            "profile_picture": "shopify://shop_images/model3.jpg",
             "close_friends": false,
+            "story_1_video": "shopify://files/videos/SITE-Insta1 comp.mp4",
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
             "story_1_bg": "#282828",
@@ -743,9 +745,11 @@
         "user_zq8MjG": {
           "type": "user",
           "settings": {
-            "username": "shrinetheme",
+            "username": "chyrkina_vl",
             "verified": false,
+            "profile_picture": "shopify://shop_images/model2.jpg",
             "close_friends": false,
+            "story_1_video": "shopify://files/videos/SITE-Insta3.mp4",
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
             "story_1_bg": "#282828",
@@ -760,9 +764,11 @@
         "user_3qcRgB": {
           "type": "user",
           "settings": {
-            "username": "shrinetheme",
+            "username": "brianna.m",
             "verified": false,
+            "profile_picture": "shopify://shop_images/model1.jpg",
             "close_friends": false,
+            "story_1_video": "shopify://files/videos/SITE-Insta2.mp4",
             "story_1_media_fit": "contain",
             "story_1_time_posted": "10m",
             "story_1_bg": "#282828",
