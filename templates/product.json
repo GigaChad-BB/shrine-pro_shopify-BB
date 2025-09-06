@@ -186,14 +186,16 @@
     "slideshow_qxrqGF": {
       "type": "slideshow",
       "blocks": {
-        "slide_gjxpkU": {
+        "slide_KLCUFT": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/34.webp",
+            "mobile_image": "shopify://shop_images/34.webp",
             "image_overlay_opacity": 0,
-            "heading": "NAME",
+            "heading": "Natasha O.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Honestly, I recommend this Batana oil to every mom. My little boy had thin hair that barely grew… Now his hair is soft, shiny, and growing beautifully. I can’t live without it anymore, it’s become our family’s secret. If you’re struggling with your child’s hair, go for it, you’ll see the difference.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -214,14 +216,16 @@
             "custom_colors_outline_button": "#dd1d1d"
           }
         },
-        "slide_KLCUFT": {
+        "slide_gjxpkU": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/31.webp",
+            "mobile_image": "shopify://shop_images/31.webp",
             "image_overlay_opacity": 0,
-            "heading": "NAME",
+            "heading": "Aaliyah J.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Every hairstyle reminded me of my insecurities… I didn’t even dare to tie my hair anymore. But since I started using Batana oil, new hair has grown where there was nothing. Today, I can finally tie my hair without shame. I had lost hope, but this really works.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -245,11 +249,13 @@
         "slide_krP7A4": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/32.webp",
+            "mobile_image": "shopify://shop_images/32.webp",
             "image_overlay_opacity": 0,
-            "heading": "NAME",
+            "heading": "Kwame M.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "I used to have bald spots on the sides and it really made me insecure… Since I started using Batana oil, my hair has grown back. Now my temples are full again... I never thought this could happen!",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -273,11 +279,13 @@
         "slide_YxifU6": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/33.webp",
+            "mobile_image": "shopify://shop_images/33.webp",
             "image_overlay_opacity": 0,
-            "heading": "NAME",
+            "heading": "Monique H.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Wow, this is incredible! I 100% recommend it ! I’m finally seeing real progress with my hair growth… I was so close to giving up!",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -301,11 +309,13 @@
         "slide_gwGRb6": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/35.webp",
+            "mobile_image": "shopify://shop_images/35.webp",
             "image_overlay_opacity": 0,
-            "heading": "NAME",
+            "heading": "Keisha T.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "I had almost no hair left, I had lost all hope… Then I discovered Batana oil. Since then, my hair has been growing back thicker, fuller, denser. Today, I’ve regained both my hair and my confidence. If you’re struggling with bald spots or hair loss, trust me: don’t wait. This oil truly changes everything.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -328,8 +338,8 @@
         }
       },
       "block_order": [
-        "slide_gjxpkU",
         "slide_KLCUFT",
+        "slide_gjxpkU",
         "slide_krP7A4",
         "slide_YxifU6",
         "slide_gwGRb6"
@@ -337,7 +347,7 @@
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "visibility": "always-display",
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
