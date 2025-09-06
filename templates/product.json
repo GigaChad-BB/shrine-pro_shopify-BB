@@ -369,6 +369,7 @@
         "image_iV7UFk": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PROMO-COMP.jpg",
             "width": 100,
             "Full_mobile_width": false,
             "alignment": "center",
