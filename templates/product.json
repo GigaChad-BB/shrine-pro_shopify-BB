@@ -833,12 +833,14 @@
         "image_CM7GPq": {
           "type": "image",
           "settings": {
+            "gallery_photo": "shopify://shop_images/2.webp",
             "gallery_url": ""
           }
         },
         "image_bi3Etb": {
           "type": "image",
           "settings": {
+            "gallery_photo": "shopify://shop_images/3.webp",
             "gallery_url": ""
           }
         }
@@ -854,6 +856,7 @@
         "gallery_title_font_size": 26,
         "gallery_insta_title": "",
         "gallery_insta_url": "",
+        "gallery_image": "shopify://shop_images/1.webp",
         "gallery_url": "",
         "section_bg_color": "#faf8f6",
         "type_header_font": "playfair_display_n4",
