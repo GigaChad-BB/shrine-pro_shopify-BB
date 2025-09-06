@@ -671,6 +671,16 @@
             "row_content": "<p><strong>Accepted Payment Methods</strong></p><ul><li><strong>Credit & Debit Cards:</strong> Visa, MasterCard, American Express<br/></li><li><strong>PayPal, Apple Pay & Shop Pay:</strong> Fast, simple, and secure checkout<br/></li></ul><p><strong>Security & Reliability</strong></p><ul><li><strong>256-bit SSL Encryption:</strong> All transactions are fully protected to keep your data safe and confidential.<br/></li><li><strong>Enhanced Verification:</strong> Every payment is carefully checked to prevent fraud attempts.<br/></li></ul><p><strong>Need Help?</strong><br/><br/>Our <strong>customer support team is available 24/7</strong> to assist you.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_jrnara": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Customer service 7 days a week",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our team is available <strong>7 days a week</strong>.<br/><br/>Reach out to us anytime through the <strong>“Contact” tab</strong> on our store.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -679,7 +689,8 @@
         "collapsible_row_jbDqF3",
         "collapsible_row_mVd76G",
         "collapsible_row_nnwxMc",
-        "collapsible_row_tGDB3t"
+        "collapsible_row_tGDB3t",
+        "collapsible_row_jrnara"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
