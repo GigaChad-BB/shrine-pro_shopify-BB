@@ -398,12 +398,12 @@
             "icon_scale": 120,
             "icon_spacing": 10,
             "display_price": false,
-            "enable_custom_color": false,
-            "custom_color": "#53af01",
+            "enable_custom_color": true,
+            "custom_color": "#28a745",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
-            "secondary_btn_custom_color": "#dd1d1d",
+            "secondary_btn_custom_color": "#28a745",
             "margin_top": 24,
             "margin_bottom": 24
           }
