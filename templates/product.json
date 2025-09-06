@@ -495,6 +495,7 @@
         "video_slide_hNH9q9": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/SITE-Insta2.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -512,6 +513,7 @@
         "video_slide_tBK3NM": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/COMP-Vidéo Gif 2.0.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -529,6 +531,7 @@
         "video_slide_W9TDLq": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/COMP-Video site 4.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -546,6 +549,7 @@
         "video_slide_Tka3Ny": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/COMP-Video site 2.1.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -563,6 +567,7 @@
         "video_slide_FrCUnm": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/COMP-Video site 1.0.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
