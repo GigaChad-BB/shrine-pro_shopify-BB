@@ -62,9 +62,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Une question ?",
+        "title": "Got a question?",
         "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "button_full_width": true,
         "color_scheme": "background-1",
         "padding_top": 36,
