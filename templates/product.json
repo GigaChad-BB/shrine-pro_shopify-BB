@@ -1063,14 +1063,45 @@
         "icon_TXigcx": {
           "type": "icon",
           "settings": {
+            "image": "shopify://shop_images/15.png",
             "headline": "Secure payment",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_aTqmUC": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/16.png",
+            "headline": "Free shipping",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_CBqHtP": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/17.png",
+            "headline": "Satisfaction or money back",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_i6QGpi": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/18.png",
+            "headline": "Customer service 7 days a week",
             "text": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "icon_TXigcx"
+        "icon_TXigcx",
+        "icon_aTqmUC",
+        "icon_CBqHtP",
+        "icon_i6QGpi"
       ],
       "name": "🚀SP - Image Icon Grid",
       "settings": {
@@ -1088,6 +1119,42 @@
         "padding_bottom": 0,
         "padding_left": 8,
         "padding_right": 10
+      }
+    },
+    "contact_form_xEhnqk": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Got a question?",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
+    },
+    "section_divider_QBHFYr": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "17537818817a6a7f72": {
@@ -1121,6 +1188,8 @@
     "b321ab88-2b59-4dba-bade-54885c874ca5",
     "1752867389a593260c",
     "sp_image_icon_grid_LqbPAU",
+    "contact_form_xEhnqk",
+    "section_divider_QBHFYr",
     "17537818817a6a7f72"
   ]
 }
