@@ -125,6 +125,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/6_benefices.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
