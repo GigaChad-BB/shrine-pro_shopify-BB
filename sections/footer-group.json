@@ -37,10 +37,10 @@
         "email_signup_YeCTCi": {
           "type": "email_signup",
           "settings": {
-            "heading": "Inscrivez-vous à notre newsletter",
-            "subtext": "<p>Inscrivez-vous avec votre adresse email pour recevoir des actualités et des offres exclusives.</p>",
+            "heading": "Subscribe to our newsletter",
+            "subtext": "<p>Sign up with your email address to receive news and exclusive offers.</p>",
             "button_type": "solid",
-            "button_label": "S'inscrire",
+            "button_label": "Subscribe",
             "button_style_secondary": false,
             "width_desktop": 1,
             "width_mobile": "2"
@@ -61,7 +61,7 @@
         "payment_enable": true,
         "enabled_payment_types": "",
         "show_policy": false,
-       /*"branding_text": "Powered by <a href=\"https://shrinetheme.com/\" target=\"_blank\" title=\"Shrine theme\">Shrine</a>",**/
+        "branding_text": "",
         "margin_top": 0,
         "padding_top": 32,
         "padding_bottom": 20,
