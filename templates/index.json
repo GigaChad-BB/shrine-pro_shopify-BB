@@ -11,10 +11,50 @@
   "sections": {
     "main": {
       "type": "rich-text",
-      "settings": {}
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "sp_products_vivian_PjKpRf": {
+      "type": "sp-products-vivian",
+      "name": "🚀SP - Product-Vivian-01",
+      "settings": {
+        "product": "noeva-100-pure-batana",
+        "text_color": "#262424",
+        "background_color": "#faf8f6",
+        "inner_background_color": "#faf9f8",
+        "img_position": "left",
+        "btn_label_1": "Add to cart",
+        "btn_bg_1": "#f4b400",
+        "btn_color_1": "#262424",
+        "btn_label_2": "Learn more",
+        "btn_bg_2": "#ffffff",
+        "btn_color_2": "#262424",
+        "btn_is_rounded": true,
+        "section_height": false,
+        "section_padding_top": 100,
+        "section_padding_bottom": 100,
+        "section_padding_top_mobile": 50,
+        "section_padding_bottom_mobile": 50,
+        "custom_css": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "sp_products_vivian_PjKpRf"
   ]
 }
