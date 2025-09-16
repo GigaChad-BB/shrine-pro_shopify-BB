@@ -126,7 +126,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/6_benefices.webp",
+        "image": "shopify://shop_images/6_benefices_fb641c12-8bb0-4980-b0ed-f6997ca973e4.webp",
         "height": "adapt",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -381,7 +381,7 @@
         "image_iV7UFk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PROMO-COMP.jpg",
+            "image": "shopify://shop_images/PROMO_11zon.jpg",
             "width": 100,
             "Full_mobile_width": false,
             "alignment": "center",
