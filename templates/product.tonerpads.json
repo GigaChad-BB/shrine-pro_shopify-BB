@@ -883,36 +883,100 @@
     "image_slider_aNtDFf": {
       "type": "image-slider",
       "blocks": {
-        "image_slide_rPbtFb": {
+        "image_slide_NpzMtN": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/10_10_11zon.webp",
             "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_eUC9rj": {
+        "image_slide_pqJ8ie": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/1_1_11zon.webp",
             "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_RbWxDW": {
+        "image_slide_CqfnwE": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/7_7_11zon.webp",
             "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
-        "image_slide_UbYhhF": {
+        "image_slide_7rQUak": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/6_6_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_PnLbU3": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/5_5_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_KzCDr9": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/3_3_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_CnAHnt": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/4_4_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_m7pJFk": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/2_2_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_YNe7aC": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/8_8_11zon.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_HpFXhA": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/9_9_11zon.webp",
             "link": "",
             "description": "",
             "desc_alignment": "center",
@@ -921,16 +985,22 @@
         }
       },
       "block_order": [
-        "image_slide_rPbtFb",
-        "image_slide_eUC9rj",
-        "image_slide_RbWxDW",
-        "image_slide_UbYhhF"
+        "image_slide_NpzMtN",
+        "image_slide_pqJ8ie",
+        "image_slide_CqfnwE",
+        "image_slide_7rQUak",
+        "image_slide_PnLbU3",
+        "image_slide_KzCDr9",
+        "image_slide_CnAHnt",
+        "image_slide_m7pJFk",
+        "image_slide_YNe7aC",
+        "image_slide_HpFXhA"
       ],
       "name": "Image/Video Slider",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Image/Video slider",
+        "title": "They’re already seeing results… why not you?",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "color_scheme": "background-1",
@@ -975,71 +1045,43 @@
         "text_MLXtTy": {
           "type": "text",
           "settings": {
-            "question": "Can I use it on my child?",
-            "answer": "<p>Yes, since it’s <strong>100% natural and free from additives</strong>, it can be used <strong>safely on children</strong>, even to help <strong>stimulate the growth of fine hair</strong>.</p>"
+            "question": "How long will it take to see results?",
+            "answer": "<p><strong>Within 3–5 days:</strong> your skin feels smoother, softer, and deeply hydrated.</p><p><strong>In 1–2 weeks:</strong> your complexion looks brighter, more radiant — as if awakened.</p><p><strong>After 2–3 weeks:</strong> dark spots begin to fade and fine lines visibly soften.</p><p><strong>By 4–6 weeks:</strong> a spectacular transformation — people around you will start asking for your secret.</p>"
           }
         },
         "text_gneRR9": {
           "type": "text",
           "settings": {
-            "question": "Does Batana oil really make hair grow back?",
-            "answer": "<p>Yes. <strong>Batana oil works directly on the hair follicles</strong>, nourishing the scalp and <strong>stimulating natural regrowth</strong>. Many of our customers notice <strong>thicker hair and restored density</strong>, even in thinning areas.</p>"
+            "question": "How often should I use them?",
+            "answer": "<p><strong>Week 1:</strong> start with once a day.<br/><br/>If there’s no irritation (redness, tingling, dryness), increase to twice daily.</p><p><strong>Sensitive skin:</strong> use every other day or just once in the evening.</p><p><strong>Golden rule:</strong> always listen to your skin and adjust the frequency if needed.</p>"
           }
         },
         "text_7m8Vwp": {
           "type": "text",
           "settings": {
-            "question": "How long before I see results?",
-            "answer": "<p>Some people notice a difference in as little as <strong>3 to 4 weeks</strong> like baby hairs, softer texture, and more shine.<br/><br/>For <strong>visible improvements in density and length</strong>, we recommend <strong>consistent use over several months</strong>.</p>"
+            "question": "Can I use them as part of my current skincare routine?",
+            "answer": "<p><strong>Yes!</strong> These pads can easily replace the toner step in your routine, but they also work perfectly alongside most skincare products.</p><p>Use them right after cleansing, before your serum and moisturiser.</p><p>If you’re using retinol or strong acids: start every other day to see how your skin reacts.</p><p>The formula is gentle enough for daily use with the majority of products.</p>"
           }
         },
         "text_edbP3T": {
           "type": "text",
           "settings": {
-            "question": "How is it different from other oils?",
-            "answer": "<p>Unlike diluted blends and synthetic products found on the market, <strong>our oil is authentic and 100% pure</strong>.<br/><br/>It <strong>deeply nourishes, hydrates, repairs</strong>, and <strong>stimulates natural hair growth</strong> effectively and safely.</p>"
+            "question": "How many pads are in a jar and how long do they last?",
+            "answer": "<p>Each jar contains <strong>100 pads</strong> → that’s over 3 months of daily use (or 6+ months if used every other day).</p><p>Less than <strong>£0.39 per pad</strong>: unbeatable value compared to costly serums at £2–£3 per application.</p><p><strong>Sealed packaging</strong> ensures maximum freshness and effectiveness right down to the very last pad.</p>"
           }
         },
         "text_TgzpwJ": {
           "type": "text",
           "settings": {
-            "question": "What benefits can I get?",
-            "answer": "<p>With <strong>regular use</strong>, you can expect:</p><ul><li><strong>Less breakage</strong> and fewer split ends.<br/></li><li><strong>Softer, shinier, and more manageable hair</strong>.<br/></li><li>A <strong>hydrated, soothed scalp</strong>.<br/></li><li><strong>Visible regrowth</strong> in thinning areas.<br/></li><li><strong>More volume — and more confidence</strong>.</li></ul>"
+            "question": "Can I use this product if I have sensitive or acne-prone skin?",
+            "answer": "<p>A <strong>gentle, non-comedogenic formula</strong>: enriched with soothing centella and madecassoside, combined with barrier-strengthening actives.</p><p>Always perform a patch test on a small area before first use.</p><p>⚠️ If you are on prescription acne treatments or using retinol, space out applications or seek advice from your dermatologist.</p>"
           }
         },
         "text_jgwFJV": {
           "type": "text",
           "settings": {
-            "question": "How should Batana oil be applied to maximize its benefits?",
-            "answer": "<p>You can apply it:</p><ul><li><strong>As a pre-shampoo mask</strong> 15-30 minutes on dry hair.<br/></li><li><strong>As a quick treatment</strong> 30 minutes on scalp and lengths.<br/></li><li><strong>As an overnight treatment</strong> leave it on while you sleep.<br/></li></ul><p>Use <strong>2 to 3 times per week</strong> for optimal results.</p>"
-          }
-        },
-        "text_Mj6abY": {
-          "type": "text",
-          "settings": {
-            "question": "Is it really suitable for all hair types?",
-            "answer": "<p>Yes. <strong>Batana oil is suitable for all hair types : </strong>straight, wavy, curly, or coily.<br/><br/>Its <strong>lightweight texture absorbs quickly</strong>, deeply nourishing the scalp and <strong>strengthening the hair fiber</strong> without leaving a greasy residue.</p><p>A <strong>universal treatment</strong> for hair that’s <strong>stronger, softer, and visibly healthier</strong>.</p>"
-          }
-        },
-        "text_GNfXkL": {
-          "type": "text",
-          "settings": {
-            "question": "Is it natural?",
-            "answer": "<p>Absolutely. <strong>Batana oil is 100% natural and free from harsh chemicals</strong>, making it perfectly safe even for <strong>the most sensitive scalps</strong>.</p><p>Thanks to its <strong>soothing properties</strong>, it helps <strong>calm irritation</strong>, <strong>reduce redness</strong>, and promote a <strong>healthy, comfortable scalp</strong>.</p>"
-          }
-        },
-        "text_A4whQg": {
-          "type": "text",
-          "settings": {
-            "question": "Does Batana oil stop hair loss?",
-            "answer": "<p>Yes, thanks to its <strong>natural nutrients</strong>, it <strong>strengthens the hair fiber</strong> and helps <strong>block DHT</strong> : he hormone responsible for hair loss effectively <strong>reducing shedding</strong>.</p>"
-          }
-        },
-        "text_zdKtBH": {
-          "type": "text",
-          "settings": {
-            "question": "Can it be used in combination with other hair products?",
-            "answer": "<p>Yes. <strong>Batana oil can be safely used</strong> alongside your shampoos, conditioners, and other hair care products.</p><p>For <strong>best results</strong>, apply it <strong>directly to the scalp</strong> as a leave-in treatment, or <strong>leave it on overnight</strong> as a nourishing mask before following your regular routine.</p>"
+            "question": "Can I use this product if I have sensitive or acne-prone skin?",
+            "answer": "<p>A <strong>gentle, non-comedogenic formula</strong>: enriched with soothing centella and madecassoside, combined with actives that strengthen the skin barrier.</p><p>Always perform a patch test on a small area before first use.</p><p>If you are on acne medication or using retinol, space out applications or consult your dermatologist.</p>"
           }
         }
       },
@@ -1049,11 +1091,7 @@
         "text_7m8Vwp",
         "text_edbP3T",
         "text_TgzpwJ",
-        "text_jgwFJV",
-        "text_Mj6abY",
-        "text_GNfXkL",
-        "text_A4whQg",
-        "text_zdKtBH"
+        "text_jgwFJV"
       ],
       "name": "Faq",
       "settings": {
