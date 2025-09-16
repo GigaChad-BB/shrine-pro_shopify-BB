@@ -81,7 +81,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 0px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/GIF_US_1.gif?v=1757182037\"\n    alt=\"Video_gif\" \n    style=\"max-width: 75%; height: auto; border-radius: 10px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 0px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/HOOK1.0.gif?v=1757964690\"\n    alt=\"Video_gif\" \n    style=\"max-width: 75%; height: auto; border-radius: 10px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
@@ -93,7 +93,7 @@
         "heading_3gVR7X": {
           "type": "heading",
           "settings": {
-            "title": "Boost your hair growth naturally!",
+            "title": "Effortless Perfect Skin",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
@@ -157,7 +157,7 @@
         "heading_ErzU6M": {
           "type": "heading",
           "settings": {
-            "title": "True hair transformations",
+            "title": "See the Real Change with Noeva",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
@@ -190,13 +190,13 @@
         "slide_KLCUFT": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/34.webp",
-            "mobile_image": "shopify://shop_images/34.webp",
+            "image": "shopify://shop_images/36_7_11zon.jpg",
+            "mobile_image": "shopify://shop_images/36_7_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Natasha O.",
+            "heading": "Sophie T.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Honestly, I recommend this Batana oil to every mom. My little boy had thin hair that barely grew… Now his hair is soft, shiny, and growing beautifully. I can’t live without it anymore, it’s become our family’s secret. If you’re struggling with your child’s hair, go for it, you’ll see the difference.",
+            "subheading": "I’ve had acne-prone skin since my teenage years and was always dealing with new breakouts. After a month using these pads, my spots have reduced noticeably and my recent scars are fading. For the first time, I finally feel like I’m taking back control of my skin",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -220,13 +220,13 @@
         "slide_gjxpkU": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/31.webp",
-            "mobile_image": "shopify://shop_images/31.webp",
+            "image": "shopify://shop_images/34_5_11zon.jpg",
+            "mobile_image": "shopify://shop_images/34_5_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Aaliyah J.",
+            "heading": "Emily C.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Every hairstyle reminded me of my insecurities… I didn’t even dare to tie my hair anymore. But since I started using Batana oil, new hair has grown where there was nothing. Today, I can finally tie my hair without shame. I had lost hope, but this really works.",
+            "subheading": "I always struggled with inflamed spots on my forehead and cheeks despite using cleansers. After just one week of regular use, my breakouts have calmed down, my pores feel less clogged, and my skin can finally breathe. Even my dermatologist noticed the difference!",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -250,13 +250,13 @@
         "slide_krP7A4": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/32.webp",
-            "mobile_image": "shopify://shop_images/32.webp",
+            "image": "shopify://shop_images/30_1_11zon.jpg",
+            "mobile_image": "shopify://shop_images/30_1_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Kwame M.",
+            "heading": "Chloe W.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "I used to have bald spots on the sides and it really made me insecure… Since I started using Batana oil, my hair has grown back. Now my temples are full again... I never thought this could happen!",
+            "subheading": "From the very first days, my skin felt smoother to the touch. After two weeks, my pores looked visibly tighter and my makeup lasted better throughout the day. Even my partner told me I looked ‘radiant’ without any makeup.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -280,13 +280,13 @@
         "slide_YxifU6": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/33.webp",
-            "mobile_image": "shopify://shop_images/33.webp",
+            "image": "shopify://shop_images/32_3_11zon.jpg",
+            "mobile_image": "shopify://shop_images/32_3_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Monique H.",
+            "heading": "Amelia J.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Wow, this is incredible! I 100% recommend it ! I’m finally seeing real progress with my hair growth… I was so close to giving up!",
+            "subheading": "At 58, my pores had become very noticeable and my complexion looked dull despite all the creams I tried. These pads have truly made a difference: my skin is brighter, smoother, and even my fine lines look less visible. I feel rejuvenated with every use",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -310,13 +310,13 @@
         "slide_gwGRb6": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/35.webp",
-            "mobile_image": "shopify://shop_images/35.webp",
+            "image": "shopify://shop_images/33_4_11zon.jpg",
+            "mobile_image": "shopify://shop_images/33_4_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Keisha T.",
+            "heading": "Grace M.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "I had almost no hair left, I had lost all hope… Then I discovered Batana oil. Since then, my hair has been growing back thicker, fuller, denser. Today, I’ve regained both my hair and my confidence. If you’re struggling with bald spots or hair loss, trust me: don’t wait. This oil truly changes everything.",
+            "subheading": "Between work and the kids, I never have time for complicated routines. These pads are a real game-changer: I swipe one on in 30 seconds in the morning and my skin feels fresh, glowing, and ready for my moisturiser and SPF. Super practical and clean.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -488,6 +488,18 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
+      }
+    },
+    "custom_liquid_MkgAeL": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n            <style>\n    #freetrialtemplate--21113719390540__main {\n        padding: 10px !important;\n        background: #f8f8f8;\n        margin-top: 25px !important;\n        margin-bottom: 10px !important;\n        margin: 25px auto;\n        border-radius: 8px;\n        text-align: left;\n        border: 1px solid #f2f2f7 !important;\n        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;\n        max-width: 600px; /* Limite la largeur du bloc */\n    }\n  \n    #freetrialtemplate--21113719390540__main .wrap {\n        display: flex;\n        align-items: center;\n    }\n  \n    #freetrialtemplate--21113719390540__main .box1 {\n        margin-right: 15px; /* Ajoute un espace entre l’icône et le texte */\n        flex-shrink: 0; /* Empêche l'image de rétrécir */\n    }\n  \n    #freetrialtemplate--21113719390540__main .box1 img {\n        width: 80px; /* Ajuste la taille de l’icône */\n        height: auto;\n    }\n  \n    #freetrialtemplate--21113719390540__main .box2 h6 {\n        font-size: 18px;\n        font-weight: bold;\n        margin: 0;\n    }\n  \n    #freetrialtemplate--21113719390540__main .box2 p {\n        font-size: 14px;\n        margin: 5px 0 0;\n        color: #333;\n    }\n  \n    /* Style responsive pour mobile */\n    @media screen and (max-width: 767px) {\n        #freetrialtemplate--21113719390540__main {\n            padding: 5px !important;\n            margin: 5px 0 !important;\n        }\n        #freetrialtemplate--21113719390540__main .wrap {\n            flex-direction: row;\n            align-items: center;\n        }\n        #freetrialtemplate--21113719390540__main .box1 img {\n            width: 40px; /* Légère réduction pour mobile */\n        }\n        #freetrialtemplate--21113719390540__main .box2 h6 {\n            font-size: 16px;\n        }\n        #freetrialtemplate--21113719390540__main .box2 p {\n            font-size: 13px;\n        }\n    }\n  </style>\n  \n  <div class=\"hidetrialdesktop\" id=\"freetrialtemplate--21113719390540__main\">\n    <div class=\"wrap\">\n      <div class=\"box1\" style=\"position: relative;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0572/8367/4154/files/winner.png?v=1740695965\" alt=\"Meilleur traitement\" data-madspy-processed=\"true\">\n     \n      <path d=\"M12 15L12 3M12 15L8 11M12 15L16 11\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      <path d=\"M3 15L3 17C3 18.6569 4.34315 20 6 20L18 20C19.6569 20 21 18.6569 21 17L21 15\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n    </svg>\n  </button></div>\n      <div class=\"box2\">\n        <h6><h6><h6>Voted #1 Korean Pads in the UK!</h6>\n<p>Noeva Toner Pads smooth skin texture, visibly tighten pores and revive your natural glow. The result? Clearer, brighter, and perfectly hydrated skin from the very first uses.</p>\n\n<br><b>100% of users</b> reported softer, fresher skin and a visibly brighter complexion <b>from the very first use</b><i> (test conducted on 25 women aged 21 to 65).</i>\n</i></p>            \n            \n      </div>\n    </div>\n  </div>\n          </div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_slider_9EqfJP": {
@@ -1061,22 +1073,6 @@
         "padding_bottom": 24
       }
     },
-    "b321ab88-2b59-4dba-bade-54885c874ca5": {
-      "type": "section-divider",
-      "disabled": true,
-      "settings": {
-        "visibility": "always-display",
-        "shape": "waves_3",
-        "flip_horizontal": false,
-        "flip_vertical": false,
-        "shape_color": "accent-1",
-        "custom_shape_color": "#dd1d1d",
-        "background_color": "background-1",
-        "custom_background_color": "#ffffff",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "1752867389a593260c": {
       "type": "apps",
       "disabled": true,
@@ -1227,6 +1223,7 @@
     "rich_text_AtD3yg",
     "slideshow_qxrqGF",
     "main",
+    "custom_liquid_MkgAeL",
     "image_slider_9EqfJP",
     "collapsible_content_LneXzr",
     "insta_stories_Xid98m",
@@ -1236,7 +1233,6 @@
     "ss_simple_faq_3K6j3e",
     "rich_text_J7c6xd",
     "related-products",
-    "b321ab88-2b59-4dba-bade-54885c874ca5",
     "1752867389a593260c",
     "sp_image_icon_grid_LqbPAU",
     "175717509901fb24d3",
