@@ -502,150 +502,6 @@
         "padding_bottom": 52
       }
     },
-    "image_slider_9EqfJP": {
-      "type": "image-slider",
-      "blocks": {
-        "video_slide_hNH9q9": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/SITE-Insta2.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_tBK3NM": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/COMP-Vidéo Gif 2.0.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_W9TDLq": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/COMP-Video site 4.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_Tka3Ny": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/COMP-Video site 2.1.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_FrCUnm": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/COMP-Video site 1.0.mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "video_slide_hNH9q9",
-        "video_slide_tBK3NM",
-        "video_slide_W9TDLq",
-        "video_slide_Tka3Ny",
-        "video_slide_FrCUnm"
-      ],
-      "name": "Image/Video Slider",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "They use it every day… and can’t live without it!",
-        "title_highlight_color": "#121212",
-        "heading_size": "h2",
-        "color_scheme": "background-1",
-        "type": "loop",
-        "drag": "enabled",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "center_mode": false,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": false,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "desktop_border_radius": 0,
-        "slides_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 0,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "hidden",
-        "mobile_full_page": false,
-        "mobile_border_radius": 16,
-        "slides_mobile": 2,
-        "per_move_mobile": 1,
-        "mobile_spacing": 16,
-        "mobile_side_padding": 0,
-        "mobile_padding_calc": true,
-        "mobile_adaptive_height": true,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "sides",
-        "padding_top": 12,
-        "padding_bottom": 24,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
-      }
-    },
     "collapsible_content_LneXzr": {
       "type": "collapsible-content",
       "blocks": {
@@ -655,7 +511,7 @@
             "heading": "Ingredients",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p><strong>100% Pure & Unrefined Batana Oil (Elaeis oleifera) </strong><br/><br/>Handcrafted extraction, free from additives or preservatives, to preserve all its natural benefits.</p>",
+            "row_content": "<p><strong>Niacinamide – The Pore Minimiser</strong><br/><br/>Visibly tightens pores, regulates excess sebum, and evens out skin tone. The must-have ingredient for a smoother, more refined complexion.</p><p><strong>Alpha-Arbutin – The Spot Eraser</strong><br/><br/>A powerful brightening agent that gently fades dark spots, acne marks, and hyperpigmentation without irritation.</p><p><strong>Snail Mucin – The Restorative Hydrator</strong><br/><br/>Nature’s secret to skin renewal. Deeply hydrates, speeds up healing, and soothes inflammation.</p><p><strong>Madecassoside – The Barrier Protector</strong><br/><br/>An advanced derivative of Centella Asiatica that strengthens the skin barrier, reduces redness, and promotes rapid recovery.</p><p><strong>Licorice Root Extract – The Natural Brightener</strong><br/><br/>A gentle yet effective brightener that calms inflammation and naturally evens out skin tone.</p><p><strong>3-O-Ethyl Ascorbic Acid (Stabilised Vitamin C) – The Untouchable Vitamin C</strong><br/><br/>The most stable form of Vitamin C: boosts collagen production, brightens the complexion, and protects the skin with powerful antioxidant action.</p><p><strong>Centella Asiatica – The Ultimate Soother</strong><br/><br/>The K-Beauty star ingredient for sensitive skin. Instantly calms irritation, reduces redness, and stimulates skin regeneration.</p><p><strong>Peptide Complex – The Youth Activator</strong><br/><br/>Advanced chains of amino acids that stimulate collagen production, smooth fine lines, and restore skin firmness.</p>",
             "page": ""
           }
         },
@@ -665,17 +521,17 @@
             "heading": "Usage and tips",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p><strong>Unleash the Power of Pure Batana Oil</strong></p><p>Discover <strong>3 essential rituals</strong> to fully experience the benefits of our <strong>100% pure, handcrafted Batana oil</strong> for stronger, shinier, and healthier hair.</p><p><strong>1. Deep Pre-Shampoo Treatment</strong></p><p>Apply a generous amount of Batana oil to <strong>dry hair</strong> before shampooing.<br/><br/>Leave on for <strong>15 to 30 minutes</strong> to deeply nourish, protect the hair fiber, and reduce breakage and dryness.<br/><br/>Rinse thoroughly, then follow with your usual shampoo and conditioner.</p><p><strong>2. Instant Shine Boost</strong></p><p>For a quick refresh, apply the oil directly to your <strong>scalp and lengths</strong>.<br/><br/>Leave on for <strong>30 minutes</strong> to hydrate, soften, and give your hair a silky, manageable shine.</p><p><strong>3. Overnight Repair Ritual</strong></p><p>Before bedtime, apply generously to <strong>clean hair and scalp</strong>.<br/><br/>Wake up to <strong>fuller, softer, and more manageable hair</strong>.</p><p><strong>For Best Results</strong></p><ul><li>Distribute evenly on <strong>clean, dry hair</strong>.<br/></li><li>Use <strong>2 to 3 times per week</strong>.<br/></li><li><strong>Consistency is key</strong> to achieving visible, long-lasting results.</li></ul>",
+            "row_content": "<p><strong>1. Cleanse & Dry</strong><br/><br/>Start with a perfectly cleansed and dry face.</p><p><strong>2. Swipe a Pad</strong><br/><br/>Gently glide a pad over your face and neck, using soft outward motions.<br/><br/>Avoid the eye area and any irritated skin.</p><p><strong>3. Let It Absorb (30–60s)</strong><br/><br/>Allow the essence to fully absorb before applying your serum and moisturiser.<br/><br/>In the morning, always finish with SPF 30+.</p><p><strong>Pro Tip:</strong> On areas with dark spots, redness, or rough texture, leave the pad on for 5 minutes as a targeted mini-mask, then discard. No rinsing needed.</p>",
             "page": ""
           }
         },
         "collapsible_row_jbDqF3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Description and benefits",
+            "heading": "When will I see results?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p><strong>Rich in nutrients and 100% pure</strong>, this precious oil <strong>revitalizes both hair and skin</strong>, making it an essential ally for any beauty and wellness routine.</p><ul><li><strong>Deeply nourishes and revitalizes</strong> the scalp, boosting natural vitality and promoting healthy hair growth.<br/></li><li><strong>Visibly improves texture and strength</strong>, while reducing the appearance of split ends.<br/></li><li>Provides <strong>intense hydration</strong>, soothing and restoring comfort to dry or irritated skin.<br/></li><li><strong>Protects, nourishes, and enhances elasticity</strong>, leaving the skin soft, supple, and radiant.</li></ul>",
+            "row_content": "<p><strong>From the very first use:</strong> skin feels fresher and intensely hydrated.</p><p><strong>In 1–2 weeks:</strong> skin becomes smoother to the touch and visibly more balanced.</p><p><strong>In 4–8 weeks and beyond:</strong> dark spots fade, the complexion looks more even and brighter — with consistent use (and daily SPF).</p><p>⚠️ <em>Results may vary from person to person, but consistency is the key.</em></p>",
             "page": ""
           }
         },
@@ -692,7 +548,7 @@
         "collapsible_row_nnwxMc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Beware of counterfeits",
+            "heading": "Beware of fakes",
             "icon": "",
             "filled_icon": false,
             "row_content": "<p>Our products are <strong>available exclusively on our official website</strong>.<br/><br/>Any sales through third-party platforms involve <strong>unauthorized copies</strong>, often of inferior quality.</p><p>To ensure <strong>authenticity, safety, and effectiveness</strong>, please order <strong>only from our official site</strong>.<br/><br/>We cannot be held responsible for products purchased elsewhere.</p>",
@@ -757,84 +613,183 @@
         "custom_contaner_colors_text": "#2e2a39"
       }
     },
-    "insta_stories_Xid98m": {
-      "type": "insta-stories",
+    "image_slider_9EqfJP": {
+      "type": "image-slider",
       "blocks": {
-        "user_DCwdJG": {
-          "type": "user",
+        "video_slide_hNH9q9": {
+          "type": "video_slide",
           "settings": {
-            "username": "lonnielynn55",
-            "verified": false,
-            "profile_picture": "shopify://shop_images/model3.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/SITE-Insta1 comp.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
+            "video": "shopify://files/videos/Copier1COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         },
-        "user_zq8MjG": {
-          "type": "user",
+        "video_slide_tBK3NM": {
+          "type": "video_slide",
           "settings": {
-            "username": "chyrkina_vl",
-            "verified": false,
-            "profile_picture": "shopify://shop_images/model2.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/SITE-Insta3.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
+            "video": "shopify://files/videos/Copier2COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         },
-        "user_3qcRgB": {
-          "type": "user",
+        "video_slide_W9TDLq": {
+          "type": "video_slide",
           "settings": {
-            "username": "brianna.m",
-            "verified": false,
-            "profile_picture": "shopify://shop_images/model1.jpg",
-            "close_friends": false,
-            "story_1_video": "shopify://files/videos/SITE-Insta2.mp4",
-            "story_1_media_fit": "contain",
-            "story_1_time_posted": "10m",
-            "story_1_bg": "#282828",
-            "story_2_media_fit": "contain",
-            "story_2_time_posted": "1h",
-            "story_2_bg": "#282828",
-            "story_3_media_fit": "contain",
-            "story_3_time_posted": "4h",
-            "story_3_bg": "#282828"
+            "video": "shopify://files/videos/Copier3COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_Tka3Ny": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Copier4COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_FrCUnm": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Copier5COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_fYQ94t": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Copier6COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_ezgYci": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/Copier7COMP.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
           }
         }
       },
       "block_order": [
-        "user_DCwdJG",
-        "user_zq8MjG",
-        "user_3qcRgB"
+        "video_slide_hNH9q9",
+        "video_slide_tBK3NM",
+        "video_slide_W9TDLq",
+        "video_slide_Tka3Ny",
+        "video_slide_FrCUnm",
+        "video_slide_fYQ94t",
+        "video_slide_ezgYci"
       ],
-      "name": "Instagram stories",
+      "name": "Image/Video Slider",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Viral on Instagram",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "",
+        "title": "They use it every day… and can’t live without it!",
+        "title_highlight_color": "#121212",
+        "heading_size": "h2",
         "color_scheme": "background-1",
-        "autoplay_speed": 10,
-        "padding_top": 8,
-        "padding_bottom": 40,
+        "type": "loop",
+        "drag": "enabled",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 0,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 16,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 16,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 12,
+        "padding_bottom": 24,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
@@ -862,6 +817,7 @@
         "image_CM7GPq",
         "image_bi3Etb"
       ],
+      "disabled": true,
       "name": "SS - Image Gallery",
       "settings": {
         "show_all_mobile": true,
@@ -918,10 +874,99 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/GIF_2_-_US.gif?v=1757182725\"\n    alt=\"Video_gif\" \n    style=\"max-width: 80%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 0px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/Gif_2.gif?v=1757871468\"\n    alt=\"Video_gif\" \n    style=\"max-width: 80%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "image_slider_aNtDFf": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_rPbtFb": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_eUC9rj": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_RbWxDW": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_UbYhhF": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_rPbtFb",
+        "image_slide_eUC9rj",
+        "image_slide_RbWxDW",
+        "image_slide_UbYhhF"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Image/Video slider",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 4,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 12,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
       }
     },
     "ss_simple_faq_3K6j3e": {
@@ -1224,12 +1269,12 @@
     "slideshow_qxrqGF",
     "main",
     "custom_liquid_MkgAeL",
-    "image_slider_9EqfJP",
     "collapsible_content_LneXzr",
-    "insta_stories_Xid98m",
+    "image_slider_9EqfJP",
     "ss_gallery_1_MzWe39",
     "rich_text_UaCRjL",
     "custom_liquid_gHXmbN",
+    "image_slider_aNtDFf",
     "ss_simple_faq_3K6j3e",
     "rich_text_J7c6xd",
     "related-products",
