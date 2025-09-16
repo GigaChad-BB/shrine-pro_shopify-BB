@@ -81,7 +81,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 0px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0918/7203/5083/files/HOOK1.0.gif?v=1757964690\"\n    alt=\"Video_gif\" \n    style=\"max-width: 75%; height: auto; border-radius: 10px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 0px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/HOOK_ENG-COMP.gif?v=1758007604\"\n    alt=\"Video_gif\" \n    style=\"max-width: 75%; height: auto; border-radius: 10px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
