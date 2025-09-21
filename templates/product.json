@@ -801,6 +801,7 @@
         "user_zq8MjG",
         "user_3qcRgB"
       ],
+      "disabled": true,
       "name": "Instagram stories",
       "settings": {
         "display_id": false,
@@ -840,6 +841,7 @@
         "image_CM7GPq",
         "image_bi3Etb"
       ],
+      "disabled": true,
       "name": "SS - Image Gallery",
       "settings": {
         "show_all_mobile": true,
@@ -908,8 +910,8 @@
         "text_MLXtTy": {
           "type": "text",
           "settings": {
-            "question": "Can I use it on my child?",
-            "answer": "<p>Yes, since it’s <strong>100% natural and free from additives</strong>, it can be used <strong>safely on children</strong>, even to help <strong>stimulate the growth of fine hair</strong>.</p>"
+            "question": "Comment ça aide à arrêter les mauvaises habitudes ?",
+            "answer": "<p>Il reproduit la sensation rassurante du geste main-à-bouche, tout en offrant une alternative saine et apaisante aux anciennes habitudes. </p><p>Conçu pour des moments de pleine conscience, il t’accompagne dans ta transition en douceur sans nicotine ni toxines.</p>"
           }
         },
         "text_gneRR9": {
@@ -967,13 +969,6 @@
             "question": "Does Batana oil stop hair loss?",
             "answer": "<p>Yes, thanks to its <strong>natural nutrients</strong>, it <strong>strengthens the hair fiber</strong> and helps <strong>block DHT</strong> : he hormone responsible for hair loss effectively <strong>reducing shedding</strong>.</p>"
           }
-        },
-        "text_zdKtBH": {
-          "type": "text",
-          "settings": {
-            "question": "Can it be used in combination with other hair products?",
-            "answer": "<p>Yes. <strong>Batana oil can be safely used</strong> alongside your shampoos, conditioners, and other hair care products.</p><p>For <strong>best results</strong>, apply it <strong>directly to the scalp</strong> as a leave-in treatment, or <strong>leave it on overnight</strong> as a nourishing mask before following your regular routine.</p>"
-          }
         }
       },
       "block_order": [
@@ -985,12 +980,11 @@
         "text_jgwFJV",
         "text_Mj6abY",
         "text_GNfXkL",
-        "text_A4whQg",
-        "text_zdKtBH"
+        "text_A4whQg"
       ],
       "name": "Faq",
       "settings": {
-        "heading": "Frequently Asked Questions",
+        "heading": "Questions les plus fréquentes",
         "icon_color": "#ffffff",
         "hover_color": "#efefef",
         "question_color": "#ffffff",
