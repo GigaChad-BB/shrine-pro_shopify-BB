@@ -46,7 +46,7 @@
         "heading_xzTn3w": {
           "type": "heading",
           "settings": {
-            "title": "Passe le cap !",
+            "title": "Change ton habitude maintenant !",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
@@ -63,7 +63,7 @@
         "content_alignment": "center",
         "full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 32,
+        "padding_top": 16,
         "padding_bottom": 0,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
@@ -79,7 +79,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 0px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/copier_1_1.gif?v=1758458423\"\n    alt=\"Video_gif\" \n    style=\"max-width: 85%; height: auto; border-radius: 10px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/Gif2.gif?v=1758468964\"\n    alt=\"Video_gif\" \n    style=\"max-width: 100%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
@@ -866,7 +866,7 @@
         "heading_wXX8mA": {
           "type": "heading",
           "settings": {
-            "title": "Changez de vie maintenant !",
+            "title": "Très luxueux",
             "title_highlight_color": "#121212",
             "heading_size": "h2"
           }
@@ -899,7 +899,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/Gif2.gif?v=1758468964\"\n    alt=\"Video_gif\" \n    style=\"max-width: 100%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/copier_1_1.gif?v=1758458423\"\n    alt=\"Video_gif\" \n    style=\"max-width: 100%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 16
