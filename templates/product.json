@@ -164,6 +164,7 @@
       "block_order": [
         "heading_ErzU6M"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "display_id": false,
@@ -343,6 +344,7 @@
         "slide_YxifU6",
         "slide_gwGRb6"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "visibility": "always-display",
@@ -378,6 +380,7 @@
         },
         "image_iV7UFk": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/PROMO-COMP.jpg",
             "width": 100,
