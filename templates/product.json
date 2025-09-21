@@ -959,15 +959,8 @@
         "text_GNfXkL": {
           "type": "text",
           "settings": {
-            "question": "Is it natural?",
-            "answer": "<p>Absolutely. <strong>Batana oil is 100% natural and free from harsh chemicals</strong>, making it perfectly safe even for <strong>the most sensitive scalps</strong>.</p><p>Thanks to its <strong>soothing properties</strong>, it helps <strong>calm irritation</strong>, <strong>reduce redness</strong>, and promote a <strong>healthy, comfortable scalp</strong>.</p>"
-          }
-        },
-        "text_A4whQg": {
-          "type": "text",
-          "settings": {
-            "question": "Does Batana oil stop hair loss?",
-            "answer": "<p>Yes, thanks to its <strong>natural nutrients</strong>, it <strong>strengthens the hair fiber</strong> and helps <strong>block DHT</strong> : he hormone responsible for hair loss effectively <strong>reducing shedding</strong>.</p>"
+            "question": "Pourquoi est-ce sous forme de collier ?",
+            "answer": "<p>Le design en collier est une innovation chic qui allie style et praticité. </p><p>Porté autour du cou, il reste toujours à portée de main pour t’aider dès que l’envie se fait sentir. </p><p>Ce format pratique et élégant t’assure de ne jamais le perdre et de garder le contrôle à tout moment, en combinant style au quotidien et soutien concret.</p>"
           }
         }
       },
@@ -979,8 +972,7 @@
         "text_TgzpwJ",
         "text_jgwFJV",
         "text_Mj6abY",
-        "text_GNfXkL",
-        "text_A4whQg"
+        "text_GNfXkL"
       ],
       "name": "Faq",
       "settings": {
@@ -988,7 +980,7 @@
         "icon_color": "#ffffff",
         "hover_color": "#efefef",
         "question_color": "#ffffff",
-        "background_color": "#cfb491",
+        "background_color": "#2d5c7f",
         "answer_color": "#000000",
         "answer_bg_color": "#ffffff",
         "questions-font-size": 1.3
