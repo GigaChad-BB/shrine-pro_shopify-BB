@@ -1068,7 +1068,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/15.png",
-            "headline": "Secure payment",
+            "headline": "Paiement sécurisé",
             "text": "",
             "link": ""
           }
@@ -1077,7 +1077,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/16.png",
-            "headline": "Free shipping",
+            "headline": "Livraison gratuite",
             "text": "",
             "link": ""
           }
@@ -1086,7 +1086,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/17.png",
-            "headline": "Satisfaction or money back",
+            "headline": "Satisfait ou remboursé",
             "text": "",
             "link": ""
           }
@@ -1095,7 +1095,7 @@
           "type": "icon",
           "settings": {
             "image": "shopify://shop_images/18.png",
-            "headline": "Customer service 7 days a week",
+            "headline": "Service client 7/7",
             "text": "",
             "link": ""
           }
