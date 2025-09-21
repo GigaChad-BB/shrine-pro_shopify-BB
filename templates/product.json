@@ -651,10 +651,10 @@
         "collapsible_row_TJrLhi": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Est-ce que ça aide vraiment contre les envies ?",
+            "heading": "Est-ce vraiment efficace pour arrêter de fumer ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Oui. Le collier imite parfaitement le geste main-à-bouche et offre une résistance douce à l’inhalation, ce qui trompe ton cerveau en lui donnant l’impression que rien n’a changé.</p>",
+            "row_content": "<p>Oui, 95 % des utilisateurs ont constaté une réduction significative des envies dès les premiers jours, grâce à la simulation réaliste de l'inhalation.</p>",
             "page": ""
           }
         },
