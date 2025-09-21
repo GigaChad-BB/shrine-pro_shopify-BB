@@ -189,13 +189,13 @@
         "slide_KLCUFT": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/34.webp",
-            "mobile_image": "shopify://shop_images/34.webp",
+            "image": "shopify://shop_images/image_2_2_11zon.jpg",
+            "mobile_image": "shopify://shop_images/image_2_2_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Natasha O.",
+            "heading": "Sophie M.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Honestly, I recommend this Batana oil to every mom. My little boy had thin hair that barely grew… Now his hair is soft, shiny, and growing beautifully. I can’t live without it anymore, it’s become our family’s secret. If you’re struggling with your child’s hair, go for it, you’ll see the difference.",
+            "subheading": "Ça faisait 15 ans que je fumais un paquet par jour… J’avais déjà essayé les patchs, les gommes, même la vape, mais rien n’a marché. Avec ce collier, j’ai enfin trouvé quelque chose qui m’aide VRAIMENT : le geste est là, l’envie passe, et je me sens enfin libre. Je n’ai pas touché une cigarette depuis 3 semaines. C’est fou comme ça change la vie de se réveiller sans ce besoin.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -219,13 +219,13 @@
         "slide_gjxpkU": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/31.webp",
-            "mobile_image": "shopify://shop_images/31.webp",
+            "image": "shopify://shop_images/image_3_3_11zon.jpg",
+            "mobile_image": "shopify://shop_images/image_3_3_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Aaliyah J.",
+            "heading": "Julien B.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "Every hairstyle reminded me of my insecurities… I didn’t even dare to tie my hair anymore. But since I started using Batana oil, new hair has grown where there was nothing. Today, I can finally tie my hair without shame. I had lost hope, but this really works.",
+            "subheading": "Je voulais arrêter pour mes enfants, mais j’avais peur d’échouer encore une fois. Ce collier m’a aidé à franchir le cap : plus besoin de me cacher, plus d’odeur de tabac, juste la satisfaction de tenir bon. Aujourd’hui, ça fait 2 mois que je n’ai pas fumé, je respire mieux, j’ai plus d’énergie et je suis tellement fier de montrer l’exemple. C’est la meilleure décision que j’ai prise pour moi et pour eux.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -249,13 +249,13 @@
         "slide_krP7A4": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/32.webp",
-            "mobile_image": "shopify://shop_images/32.webp",
+            "image": "shopify://shop_images/image_1_1_11zon.jpg",
+            "mobile_image": "shopify://shop_images/image_1_1_11zon.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Kwame M.",
+            "heading": "Thomas D.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h2",
-            "subheading": "I used to have bald spots on the sides and it really made me insecure… Since I started using Batana oil, my hair has grown back. Now my temples are full again... I never thought this could happen!",
+            "subheading": "Je stressais beaucoup au travail et la cigarette était mon refuge. Depuis que j’utilise ce collier, j’ai toujours quelque chose sous la main quand l’envie monte. Ça m’a évité tellement de rechutes… et je me sens beaucoup plus confiant dans mon arrêt. Même mes collègues m’ont dit que j’ai l’air plus détendu. Franchement, je ne pensais pas qu’un simple geste pouvait avoir autant d’impact.",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -344,7 +344,6 @@
         "slide_YxifU6",
         "slide_gwGRb6"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "visibility": "always-display",
