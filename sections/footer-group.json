@@ -17,7 +17,7 @@
         "fc645871-d789-4cfa-8584-4f8a29b6ce92": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NoevaBeauty.png",
+            "image": "shopify://shop_images/Logo_Comp.png",
             "image_width": 230,
             "alignment": "center",
             "url": "",
@@ -37,10 +37,10 @@
         "email_signup_YeCTCi": {
           "type": "email_signup",
           "settings": {
-            "heading": "Subscribe to our newsletter",
-            "subtext": "<p>Sign up with your email address to receive news and exclusive offers.</p>",
+            "heading": "Inscrivez-vous à notre newsletter",
+            "subtext": "<p>Inscrivez-vous avec votre adresse email pour recevoir des actualités et des offres exclusives.</p>",
             "button_type": "solid",
-            "button_label": "Subscribe",
+            "button_label": "S'inscrire",
             "button_style_secondary": false,
             "width_desktop": 1,
             "width_mobile": "2"
