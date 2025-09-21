@@ -641,10 +641,10 @@
         "collapsible_row_HYByze": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Ingredients",
+            "heading": "Combien de filtres aromatisés dans un paquet ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p><strong>100% Pure & Unrefined Batana Oil (Elaeis oleifera) </strong><br/><br/>Handcrafted extraction, free from additives or preservatives, to preserve all its natural benefits.</p>",
+            "row_content": "<p>Il y a 3 filtres aromatisés dans un paquet.</p><p>Pour de meilleurs résultats, nous conseillons d’en prendre jusqu’à 3 paquets.</p><p>Comme le risque de rechute est fréquent, nous recommandons aussi de vous abonner pour recevoir automatiquement de nouveaux cœurs chaque mois, c’est la façon la plus simple de rester motivé sur le long terme. </p><p>Vous trouverez tous les détails et pourrez vous abonner facilement sur la page après avoir ajouté au panier.</p>",
             "page": ""
           }
         },
