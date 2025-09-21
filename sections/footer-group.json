@@ -18,10 +18,10 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Logo_Comp.png",
-            "image_width": 230,
+            "image_width": 245,
             "alignment": "center",
             "url": "",
-            "width_desktop": 4,
+            "width_desktop": 3,
             "width_mobile": "1"
           }
         },
