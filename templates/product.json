@@ -157,7 +157,7 @@
         "heading_ErzU6M": {
           "type": "heading",
           "settings": {
-            "title": "True hair transformations",
+            "title": "Des résultats incroyables",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
@@ -166,7 +166,6 @@
       "block_order": [
         "heading_ErzU6M"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "display_id": false,
@@ -175,7 +174,7 @@
         "content_alignment": "center",
         "full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 32,
+        "padding_top": 16,
         "padding_bottom": 16,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
