@@ -50,7 +50,7 @@
           "settings": {
             "title": "Fini la clope ! Garde le geste, Pas le poison",
             "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -95,7 +95,7 @@
           "settings": {
             "title": "Sans nicotine & Sans fumée",
             "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -157,9 +157,9 @@
         "heading_ErzU6M": {
           "type": "heading",
           "settings": {
-            "title": "Des résultats incroyables",
+            "title": "Enfin une solution qui marche vraiment",
             "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
