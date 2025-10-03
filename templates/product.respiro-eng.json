@@ -1,0 +1,1226 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sp_image_standalone_E87wzp": {
+      "type": "sp-image-standalone",
+      "name": "🚀SP - Image Standalone",
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(207, 180, 145, 1) 100%, rgba(207, 180, 145, 1) 100%)",
+        "max_width": 1000,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "image": "shopify://shop_images/Accueil_1_11zon.jpg",
+        "media_aspect_ratio": "4 / 3",
+        "desktop_image_width": 1100,
+        "mobile_image": "shopify://shop_images/Accueil_1_11zon.jpg",
+        "mobile_media_aspect_ratio": "auto",
+        "mobile_image_width": 800,
+        "link": "",
+        "media_radius": 0,
+        "media_shadow": true
+      }
+    },
+    "custom_liquid_qew8QU": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div id=\"shopify-section-template--25025789591896__brands_gaVHGJ\" class=\"shopify-section\"><style data-shopify=\"\">.section-template--25025789591896__brands_gaVHGJ-padding {\n    padding-top: 0px;\n    padding-bottom: 0px;\n    \n      }\n\n  @media screen and (min-width: 750px) {\n    .section-template--25025789591896__brands_gaVHGJ-padding {\n      padding-top: 0px;\n      padding-bottom: 0px;\n    }\n  }</style><div class=\"section-template--25025789591896__brands_gaVHGJ-padding\">\n<div class=\"annonce-bar--inner-template--25025789591896__brands_gaVHGJ direction-left t\" style=\"--marquee-speed: 90s \">\n     <div style=\"display: flex;\">\n       <div style=\"display: flex;\">\n          \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n                    \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n\n\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//kurinuka.com/cdn/shop/files/Forbes_Logo_1_450x.png?v=1742232078\"></div>\n                    \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n\n\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//kurinuka.com/cdn/shop/files/InStyle-logo-1_1_1023x.png?v=1742232105\"></div>\n                    \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n\n\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//kurinuka.com/cdn/shop/files/allure_logo_450x.png?v=1742232091\"></div>\n                    \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n\n\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\">\n\n</div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n\n            <style>\n              .annonce-bar-image_GzPQMg img {\n    width: 160px;\n    height:auto;\n  }\n               .annonce-bar-image_GzPQMg svg {\n    width: 160px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_GzPQMg\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Cosmopolitan__revista__logotipo.png?v=1745430528&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_3HDRz7 img {\n    width: 100px;\n    height:auto;\n  }\n               .annonce-bar-image_3HDRz7 svg {\n    width: 100px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_3HDRz7\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/ELLE_Magazine_Logo_svg.png?v=1745430768&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_MDGqGb img {\n    width: 110px;\n    height:auto;\n  }\n               .annonce-bar-image_MDGqGb svg {\n    width: 110px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_MDGqGb\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/Marie-Claire-Logo.png?v=1745431383&amp;width=200\"></div>\n            \n           \n        \n            <style>\n              .annonce-bar-image_bpkEV4 img {\n    width: 140px;\n    height:auto;\n  }\n               .annonce-bar-image_bpkEV4 svg {\n    width: 140px;\n    height:auto;\n  }\n            </style>\n        <div class=\"annonce-bar-template--25025789591896__brands_gaVHGJ annonce-bar-image_bpkEV4\" role=\"region\" aria-label=\"Annonce\">\n          \n              <img class=\"hs-lazyload hs-id-bf7a0c11\" loading=\"lazy\" src=\"//soeliabeauty.com/cdn/shop/files/VOGUE_revista_-_logo.png?v=1745431497&amp;width=200\"></div>\n            \n           \n        \n         \n      </div>\n     </div>\n    \n  \n\n        \n</div>\n    </div>\n        <style data-shopify=\"\">\n       .annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n  max-width:1440px;\n  margin-left:auto;\n  margin-right:auto\n}\n@media only screen and (min-width: 768px){\n  .annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n    padding: 4px 20px;\n  }\n}\n          @media only screen and (max-width: 767px){\n  .annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n    padding: 0px 20px;\n  }\n}\n.annonce-bar-section{\n  position:relative;\n  z-index:52\n}\n.annonce-bar--wrap{\n  line-height:1;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ{\n  height:100%;\n  display:flex;\n  align-items:center;\n  max-width:none;\n  white-space:nowrap;\n  overflow:hidden;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ.direction-left>div{\n  animation:marquee-left var(--marquee-speed) linear infinite;\n}\n.annonce-bar--inner.direction-right>div{\n  animation:marquee-right var(--marquee-speed) linear infinite;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ>div{\n  display:flex;\n  align-items:center;\n  flex-shrink:0;\n  will-change:transform;\n}\n.annonce-bar--inner-template--25025789591896__brands_gaVHGJ:hover>div{\n  animation-play-state:paused;\n}\n.annonce-bar-template--25025789591896__brands_gaVHGJ{\n  display:inline-flex;\n  align-items:center;\n  padding:0 36px;\n  letter-spacing:.03em;\n}\n           @media only screen and (max-width: 767px){\n  .annonce-bar{\n  padding:0 24px;\n}\n           }\n.annonce-bar-template--25025789591896__brands_gaVHGJ svg{\n  margin-right:12px;\n  height:14px;\n }\n  \n.annonce-bar-template--25025789591896__brands_gaVHGJ .annonce-bar__link;\n  display: flex;\n  padding: 0;\n}\n\n.icon-text-wrapper {\n  display: flex;\n  align-items: center;\n}\n.annonce-bar-template--25025789591896__brands_gaVHGJ--item:empty{\n  display:none\n}\n@keyframes marquee-left{\n  0%{\n    transform:translate(0)\n  }\n  to{\n    transform:translate(-100%)\n  }\n}\n@keyframes marquee-right{\n  0%{\n    transform:translate(-100%)\n  }\n  to{\n    transform:translate(0)\n  }\n}\n\n.annonce-bar-static{\n  display: block;\n}\n.annonce-bar-static>div{\n  flex-wrap: wrap;\n  justify-content: center;\n}\n        </style>\n       \n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 24
+      }
+    },
+    "rich_text_zkXgy4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xzTn3w": {
+          "type": "heading",
+          "settings": {
+            "title": "Fini la clope ! Garde le geste Pas le poison",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xzTn3w"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "custom_liquid_3xmHyG": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: 10px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/Gif2.gif?v=1758468964\"\n    alt=\"Video_gif\" \n    style=\"max-width: 100%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "rich_text_xz4Pme": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3gVR7X": {
+          "type": "heading",
+          "settings": {
+            "title": "Apaise vos envies en quelques secondes",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3gVR7X"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 32,
+        "padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_with_text_FH83Lt": {
+      "type": "image-with-text",
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/6_benefices_e16349bc-4cff-41e6-a7f3-54c769e1eb2e.webp",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": true,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 48,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "rich_text_AtD3yg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ErzU6M": {
+          "type": "heading",
+          "settings": {
+            "title": "Enfin une solution qui marche vraiment",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ErzU6M"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "slideshow_qxrqGF": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_KLCUFT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_2_2_11zon.jpg",
+            "mobile_image": "shopify://shop_images/image_2_2_11zon.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Sophie M.",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2",
+            "subheading": "Ça faisait 15 ans que je fumais un paquet par jour… J’avais déjà essayé les patchs, les gommes, même la vape, mais rien n’a marché. Avec ce collier, j’ai enfin trouvé quelque chose qui m’aide VRAIMENT : le geste est là, l’envie passe, et je me sens enfin libre. Je n’ai pas touché une cigarette depuis 3 semaines. C’est fou comme ça change la vie de se réveiller sans ce besoin.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#ffffff",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2e2a39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_gjxpkU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_3_3_11zon.jpg",
+            "mobile_image": "shopify://shop_images/image_3_3_11zon.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Julien B.",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2",
+            "subheading": "Je voulais arrêter pour mes enfants, mais j’avais peur d’échouer encore une fois. Ce collier m’a aidé à franchir le cap : plus besoin de me cacher, plus d’odeur de tabac, juste la satisfaction de tenir bon. Aujourd’hui, ça fait 2 mois que je n’ai pas fumé, je respire mieux, j’ai plus d’énergie et je suis tellement fier de montrer l’exemple. C’est la meilleure décision que j’ai prise pour moi et pour eux.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#ffffff",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2e2a39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_krP7A4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_1_1_11zon.jpg",
+            "mobile_image": "shopify://shop_images/image_1_1_11zon.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Thomas D.",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2",
+            "subheading": "Je stressais beaucoup au travail et la cigarette était mon refuge. Depuis que j’utilise ce collier, j’ai toujours quelque chose sous la main quand l’envie monte. Ça m’a évité tellement de rechutes… et je me sens beaucoup plus confiant dans mon arrêt. Même mes collègues m’ont dit que j’ai l’air plus détendu. Franchement, je ne pensais pas qu’un simple geste pouvait avoir autant d’impact.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#ffffff",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2e2a39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_YxifU6": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/33.webp",
+            "mobile_image": "shopify://shop_images/33.webp",
+            "image_overlay_opacity": 0,
+            "heading": "Monique H.",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2",
+            "subheading": "Wow, this is incredible! I 100% recommend it ! I’m finally seeing real progress with my hair growth… I was so close to giving up!",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#ffffff",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2e2a39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        },
+        "slide_gwGRb6": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/35.webp",
+            "mobile_image": "shopify://shop_images/35.webp",
+            "image_overlay_opacity": 0,
+            "heading": "Keisha T.",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2",
+            "subheading": "I had almost no hair left, I had lost all hope… Then I discovered Batana oil. Since then, my hair has been growing back thicker, fuller, denser. Today, I’ve regained both my hair and my confidence. If you’re struggling with bald spots or hair loss, trust me: don’t wait. This oil truly changes everything.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#ffffff",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2e2a39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_KLCUFT",
+        "slide_gjxpkU",
+        "slide_krP7A4",
+        "slide_YxifU6",
+        "slide_gwGRb6"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "visibility": "always-display",
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "desktop_pagination_position": "over",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "show_text_below": true,
+        "mobile_pagination_position": "under",
+        "accessibility_info": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_liquid_6zjTGq": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"trustpilot-stars\" style=\"--rating:5;--star-color:#00b67a;--bg-star-color:#c8c8c8;--font-size:1.3rem;--alignment:center;--margin-top: 0.0rem;--margin-bottom: 0.0rem;\">\n  \n    <div class=\"rating-stars-and-text font-size--desktop-auto flex-center\">\n      <div class=\"rating-stars__container rating-stars__container--underlay\">\n        <svg height=\"469\" width=\"2500\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 96\" class=\"trustpilot-stars-svg\">\n          <path fill=\"#c8c8c8\" d=\"M0 0h96v96H0zM104 0h96v96h-96zM208 0h96v96h-96zM312 0h96v96h-96zM416 0h96v96h-96z\"></path>\n          <path fill=\"#ffffff\" d=\"M48 64.7L62.6 61l6.1 18.8zm33.6-24.3H55.9L48 16.2l-7.9 24.2H14.4l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM152 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L152 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM256 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L256 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM360 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L360 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM464 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L464 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z\"></path>\n        </svg>\n        <div class=\"rating-stars__container rating-stars__container--overlay\">\n          <svg height=\"469\" width=\"2500\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 96\" class=\"trustpilot-stars-svg\">\n            <path fill=\"#00b67a\" d=\"M0 0h96v96H0zM104 0h96v96h-96zM208 0h96v96h-96zM312 0h96v96h-96zM416 0h96v96h-96z\"></path>\n            <path fill=\"#ffffff\" d=\"M48 64.7L62.6 61l6.1 18.8zm33.6-24.3H55.9L48 16.2l-7.9 24.2H14.4l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM152 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L152 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM256 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L256 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM360 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L360 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2zM464 64.7l14.6-3.7 6.1 18.8zm33.6-24.3h-25.7L464 16.2l-7.9 24.2h-25.7l20.8 15-7.9 24.2 20.8-15 12.8-9.2z\"></path>\n          </svg>\n        </div>\n      </div>\n      <span class=\"rating-stars__label\">&nbsp;<strong>4.8/5 Excellent 1300+ Reviews</strong></span>\n    </div>\n  \n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h1",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 12,
+            "margin_bottom": 0
+          }
+        },
+        "image_iV7UFk": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/PROMO-COMP.jpg",
+            "width": 100,
+            "Full_mobile_width": false,
+            "alignment": "center",
+            "border_radius": 6,
+            "margin_top": 9,
+            "margin_bottom": 15
+          }
+        },
+        "kaching_bundles_app_block_4twMtr": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "custom_liquid_yz9JWX": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing{\n      position:relative; padding-left:25px; font-size:16px; font-weight:bold;\n    }\n    #people-viewing::before{\n      content:''; position:absolute; left:0; top:50%; transform:translateY(-50%);\n      width:12px; height:12px; border-radius:50%;\n      background-color:#e63946;\n      box-shadow:0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation:glowing 2.5s infinite;\n    }\n    @keyframes glowing{\n      0%{ box-shadow:0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50%{ box-shadow:0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100%{ box-shadow:0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\" data-countdown=\"6\" data-min=\"4\" data-interval=\"5500\">\n  Plus que <span id=\"stock-count\">6</span> en stock\n  </div>\n\n  <script>\n  (function(){\n    // ---- helpers\n    function ready(fn){ if(document.readyState!=='loading'){fn();} else {document.addEventListener('DOMContentLoaded', fn);} }\n\n    function onceVisible(el, cb){\n      if(!el) return;\n\n      function inView(){\n        const r = el.getBoundingClientRect();\n        const vh = window.innerHeight || document.documentElement.clientHeight;\n        const vw = window.innerWidth  || document.documentElement.clientWidth;\n        return r.top < vh*0.9 && r.bottom > vh*0.1 && r.left < vw && r.right > 0;\n      }\n\n      if('IntersectionObserver' in window){\n        const io = new IntersectionObserver((entries)=>{\n          for(const e of entries){\n            if(e.isIntersecting){ io.disconnect(); cb(); return; }\n          }\n        }, { threshold:0.01, rootMargin:'0px 0px -20% 0px' });\n        io.observe(el);\n        // sécurité au cas où IO ne tire pas\n        if(inView()){ io.disconnect(); cb(); }\n      }else{\n        const onScroll = ()=>{ if(inView()){ window.removeEventListener('scroll', onScroll); window.removeEventListener('resize', onScroll); cb(); } };\n        window.addEventListener('scroll', onScroll, {passive:true});\n        window.addEventListener('resize', onScroll);\n        onScroll();\n      }\n    }\n\n    function start(el){\n      if(!el || el.dataset.started==='1') return;\n      el.dataset.started='1';\n\n      const span = el.querySelector('#stock-count');\n      if(!span) return;\n\n      const START = parseInt(el.dataset.countdown || span.textContent, 10) || 4;\n      const MIN   = parseInt(el.dataset.min || '1', 10);\n      const STEP  = parseInt(el.dataset.interval || '5000', 10);\n\n      let val = START;\n      span.textContent = val;\n\n      // ---- mode: compte à rebours (true) ou un seul changement (false)\n      const COUNTDOWN = true;\n\n      if(!COUNTDOWN){\n        setTimeout(()=>{ span.textContent = String(Math.max(MIN, val-1)); }, STEP);\n        return;\n      }\n\n      const tick = ()=>{\n        if(document.hidden) return; // saute le tick si l’onglet est caché\n        if(val > MIN){\n          val--; span.textContent = String(val);\n          if(val === MIN) clearInterval(timer);\n        }\n      };\n      const timer = setInterval(tick, STEP);\n      // si tu veux décrémenter une première fois après STEP, décommente:\n      // setTimeout(tick, STEP);\n    }\n\n    function boot(){\n      const el = document.getElementById('people-viewing');\n      if(!el) return;\n      onceVisible(el, ()=> start(el));\n    }\n\n    // DOM prêt + événements Shopify (sections rechargées)\n    ready(boot);\n    document.addEventListener('shopify:section:load', boot);\n    document.addEventListener('shopify:section:select', boot);\n  })();\n  </script>\n</div>"
+          }
+        },
+        "custom_liquid_GiBQEa": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"display: flex; align-items: center; justify-content: left; color: #000000;\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"50\" fill=\"#000000\" viewBox=\"0 0 20 20\">\n        <path fill=\"#000000\" d=\"M1.45831 4.16675c-.34505 0-.624997.27995-.624997.625s.279947.625.624997.625h5.41667c.34505 0 .625.27995.625.625s-.27995.625-.625.625H1.45831c-.34505 0-.624997.27995-.624997.625s.279947.625.624997.625h3.75c.34506 0 .625.27995.625.625s-.27994.625-.625.625h-3.75c-.34505 0-.624997.27995-.624997.625s.279947.62495.624997.62495h2.08334c.34505 0 .625.28.625.625 0 .3451-.27995.625-.625.625H1.45831c-.34505 0-.624997.28-.624997.625v.8334c0 1.033.842017 1.875 1.874997 1.875h.29731c.27344.9592 1.15669 1.6666 2.20269 1.6666 1.04601 0 1.92926-.7074 2.20269-1.6666h3.839V6.04175c0-1.03299-.842-1.875-1.87502-1.875H1.45831ZM12.5 5.83341v8.54169c0 1.263 1.0286 2.2916 2.2916 2.2916 1.0461 0 1.9293-.7074 2.2027-1.6666h.2973c1.0374 0 1.875-.8377 1.875-1.875v-2.6498c0-.2625-.0542-.52513-.1627-.76168L17.7756 6.9467c-.2995-.67492-.9701-1.11329-1.7123-1.11329H12.5Zm1.6666 1.25h1.8967c.2474 0 .471.1454.5708.3711l.6836 1.54297c.1237.27561-.0781.58594-.3798.58594h-2.7713c-.23 0-.4166-.18664-.4166-.41667V7.50008c0-.23003.1866-.41667.4166-.41667ZM5.20831 13.3334c.57509 0 1.04167.4666 1.04167 1.0417 0 .5751-.46658 1.0416-1.04167 1.0416-.57508 0-1.04166-.4665-1.04166-1.0416 0-.5751.46658-1.0417 1.04166-1.0417Zm9.58329 0c.5751 0 1.0417.4666 1.0417 1.0417 0 .5751-.4666 1.0416-1.0417 1.0416-.575 0-1.0416-.4665-1.0416-1.0416 0-.5751.4666-1.0417 1.0416-1.0417Z\"></path>\n    </svg>\n    <span style=\"margin-left: 6px; font-weight: bold; font-family: poppins\">Livraison Gratuite</span>\n</div>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": true,
+            "uppercase_text": true,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": true,
+            "custom_color": "#28a745",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#28a745",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "custom_liquid_b6eVwx": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"payment-badges-block\">\n                    <ul class=\"payment-badges\" role=\"list\"><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" aria-labelledby=\"pi-bancontact\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-bancontact\">Bancontact</title><path fill=\"#000\" opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M4.703 3.077h28.594c.139 0 .276.023.405.068.128.045.244.11.343.194a.9.9 0 0 1 .229.29c.053.107.08.223.08.34V20.03a.829.829 0 0 1-.31.631 1.164 1.164 0 0 1-.747.262H4.703a1.23 1.23 0 0 1-.405-.068 1.09 1.09 0 0 1-.343-.194.9.9 0 0 1-.229-.29.773.773 0 0 1-.08-.34V3.97c0-.118.027-.234.08-.342a.899.899 0 0 1 .23-.29c.098-.082.214-.148.342-.193a1.23 1.23 0 0 1 .405-.068Z\" fill=\"#fff\"></path><path d=\"M6.38 18.562v-3.077h1.125c.818 0 1.344.259 1.344.795 0 .304-.167.515-.401.638.338.132.536.387.536.734 0 .62-.536.91-1.37.91H6.38Zm.724-1.798h.537c.328 0 .468-.136.468-.387 0-.268-.255-.356-.599-.356h-.406v.743Zm0 1.262h.448c.438 0 .693-.093.693-.383 0-.286-.219-.404-.63-.404h-.51v.787Zm3.284.589c-.713 0-1.073-.295-1.073-.69 0-.436.422-.69 1.047-.695.156.002.31.014.464.035v-.105c0-.269-.183-.396-.531-.396a2.128 2.128 0 0 0-.688.105l-.13-.474a3.01 3.01 0 0 1 .9-.132c.767 0 1.147.343 1.147.936v1.222c-.214.093-.615.194-1.136.194Zm.438-.497v-.47a2.06 2.06 0 0 0-.37-.036c-.24 0-.427.08-.427.286 0 .185.156.281.432.281a.947.947 0 0 0 .365-.061Zm1.204.444v-2.106a3.699 3.699 0 0 1 1.177-.193c.76 0 1.198.316 1.198.9v1.399h-.719v-1.354c0-.303-.167-.444-.484-.444a1.267 1.267 0 0 0-.459.079v1.719h-.713Zm4.886-2.167-.135.479a1.834 1.834 0 0 0-.588-.11c-.422 0-.652.25-.652.664 0 .453.24.685.688.685.2-.004.397-.043.578-.114l.115.488a2.035 2.035 0 0 1-.75.128c-.865 0-1.365-.453-1.365-1.17 0-.712.495-1.182 1.323-1.182.27-.001.538.043.787.132Zm1.553 2.22c-.802 0-1.302-.47-1.302-1.178 0-.704.5-1.174 1.302-1.174.807 0 1.297.47 1.297 1.173 0 .708-.49 1.179-1.297 1.179Zm0-.502c.37 0 .563-.259.563-.677 0-.413-.193-.672-.563-.672-.364 0-.568.26-.568.672 0 .418.204.677.568.677Zm1.713.449v-2.106a3.699 3.699 0 0 1 1.177-.193c.76 0 1.198.316 1.198.9v1.399h-.719v-1.354c0-.303-.166-.444-.484-.444a1.268 1.268 0 0 0-.459.079v1.719h-.713Zm3.996.053c-.62 0-.938-.286-.938-.866v-.95h-.354v-.484h.355v-.488l.718-.03v.518h.578v.484h-.578v.94c0 .256.125.374.36.374.093 0 .185-.008.276-.026l.036.488c-.149.028-.3.041-.453.04Zm1.814 0c-.713 0-1.073-.295-1.073-.69 0-.436.422-.69 1.047-.695.155.002.31.014.464.035v-.105c0-.269-.183-.396-.532-.396a2.128 2.128 0 0 0-.687.105l-.13-.474a3.01 3.01 0 0 1 .9-.132c.766 0 1.146.343 1.146.936v1.222c-.213.093-.614.194-1.135.194Zm.438-.497v-.47a2.06 2.06 0 0 0-.37-.036c-.24 0-.427.08-.427.286 0 .185.156.281.432.281a.946.946 0 0 0 .365-.061Zm3.157-1.723-.136.479a1.834 1.834 0 0 0-.588-.11c-.422 0-.651.25-.651.664 0 .453.24.685.687.685.2-.004.397-.043.578-.114l.115.488a2.035 2.035 0 0 1-.75.128c-.865 0-1.365-.453-1.365-1.17 0-.712.495-1.182 1.323-1.182.27-.001.538.043.787.132Zm1.58 2.22c-.62 0-.938-.286-.938-.866v-.95h-.354v-.484h.354v-.488l.72-.03v.518h.577v.484h-.578v.94c0 .256.125.374.36.374.092 0 .185-.008.276-.026l.036.488c-.149.028-.3.041-.453.04Z\" fill=\"#1E3764\"></path><path d=\"M11.394 13.946c3.803 0 5.705-2.14 7.606-4.28H6.38v4.28h5.014Z\" fill=\"url(#pi-bancontact-a)\"></path><path d=\"M26.607 5.385c-3.804 0-5.705 2.14-7.607 4.28h12.62v-4.28h-5.013Z\" fill=\"url(#pi-bancontact-b)\"></path><defs><linearGradient id=\"pi-bancontact-a\" x1=\"8.933\" y1=\"12.003\" x2=\"17.734\" y2=\"8.13\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#005AB9\"></stop><stop offset=\"1\" stop-color=\"#1E3764\"></stop></linearGradient><linearGradient id=\"pi-bancontact-b\" x1=\"19.764\" y1=\"10.037\" x2=\"29.171\" y2=\"6.235\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#FBA900\"></stop><stop offset=\"1\" stop-color=\"#FFD800\"></stop></linearGradient></defs></svg>\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-diners_club\"><title id=\"pi-diners_club\">Diners Club</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z\" fill=\"#3086C8\"></path></svg>\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-discover\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"pi-discover\">Discover</title><path fill=\"#000\" opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z\" fill=\"#fff\"></path><path d=\"M3.57 7.16H2v5.5h1.57c.83 0 1.43-.2 1.96-.63.63-.52 1-1.3 1-2.11-.01-1.63-1.22-2.76-2.96-2.76zm1.26 4.14c-.34.3-.77.44-1.47.44h-.29V8.1h.29c.69 0 1.11.12 1.47.44.37.33.59.84.59 1.37 0 .53-.22 1.06-.59 1.39zm2.19-4.14h1.07v5.5H7.02v-5.5zm3.69 2.11c-.64-.24-.83-.4-.83-.69 0-.35.34-.61.8-.61.32 0 .59.13.86.45l.56-.73c-.46-.4-1.01-.61-1.62-.61-.97 0-1.72.68-1.72 1.58 0 .76.35 1.15 1.35 1.51.42.15.63.25.74.31.21.14.32.34.32.57 0 .45-.35.78-.83.78-.51 0-.92-.26-1.17-.73l-.69.67c.49.73 1.09 1.05 1.9 1.05 1.11 0 1.9-.74 1.9-1.81.02-.89-.35-1.29-1.57-1.74zm1.92.65c0 1.62 1.27 2.87 2.9 2.87.46 0 .86-.09 1.34-.32v-1.26c-.43.43-.81.6-1.29.6-1.08 0-1.85-.78-1.85-1.9 0-1.06.79-1.89 1.8-1.89.51 0 .9.18 1.34.62V7.38c-.47-.24-.86-.34-1.32-.34-1.61 0-2.92 1.28-2.92 2.88zm12.76.94l-1.47-3.7h-1.17l2.33 5.64h.58l2.37-5.64h-1.16l-1.48 3.7zm3.13 1.8h3.04v-.93h-1.97v-1.48h1.9v-.93h-1.9V8.1h1.97v-.94h-3.04v5.5zm7.29-3.87c0-1.03-.71-1.62-1.95-1.62h-1.59v5.5h1.07v-2.21h.14l1.48 2.21h1.32l-1.73-2.32c.81-.17 1.26-.72 1.26-1.56zm-2.16.91h-.31V8.03h.33c.67 0 1.03.28 1.03.82 0 .55-.36.85-1.05.85z\" fill=\"#231F20\"></path><path d=\"M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z\" fill=\"url(#pi-paint0_linear)\"></path><path opacity=\".65\" d=\"M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z\" fill=\"url(#pi-paint1_linear)\"></path><path d=\"M36.57 7.506c0-.1-.07-.15-.18-.15h-.16v.48h.12v-.19l.14.19h.14l-.16-.2c.06-.01.1-.06.1-.13zm-.2.07h-.02v-.13h.02c.06 0 .09.02.09.06 0 .05-.03.07-.09.07z\" fill=\"#231F20\"></path><path d=\"M36.41 7.176c-.23 0-.42.19-.42.42 0 .23.19.42.42.42.23 0 .42-.19.42-.42 0-.23-.19-.42-.42-.42zm0 .77c-.18 0-.34-.15-.34-.35 0-.19.15-.35.34-.35.18 0 .33.16.33.35 0 .19-.15.35-.33.35z\" fill=\"#231F20\"></path><path d=\"M37 12.984S27.09 19.873 8.976 23h26.023a2 2 0 002-1.984l.024-3.02L37 12.985z\" fill=\"#F48120\"></path><defs><linearGradient id=\"pi-paint0_linear\" x1=\"21.657\" y1=\"12.275\" x2=\"19.632\" y2=\"9.104\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F89F20\"></stop><stop offset=\".25\" stop-color=\"#F79A20\"></stop><stop offset=\".533\" stop-color=\"#F68D20\"></stop><stop offset=\".62\" stop-color=\"#F58720\"></stop><stop offset=\".723\" stop-color=\"#F48120\"></stop><stop offset=\"1\" stop-color=\"#F37521\"></stop></linearGradient><linearGradient id=\"pi-paint1_linear\" x1=\"21.338\" y1=\"12.232\" x2=\"18.378\" y2=\"6.446\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F58720\"></stop><stop offset=\".359\" stop-color=\"#E16F27\"></stop><stop offset=\".703\" stop-color=\"#D4602C\"></stop><stop offset=\".982\" stop-color=\"#D05B2E\"></stop></linearGradient></defs></svg>\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-ideal\"><title id=\"pi-ideal\">iDEAL</title><g clip-path=\"url(#pi-clip0_19918_2)\"><path fill=\"#000\" opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3V21C0 22.7 1.4 24 3 24H35C36.7 24 38 22.7 38 21V3C38 1.3 36.6 0 35 0Z\"></path><path fill=\"#fff\" d=\"M35 1C36.1 1 37 1.9 37 3V21C37 22.1 36.1 23 35 23H3C1.9 23 1 22.1 1 21V3C1 1.9 1.9 1 3 1H35Z\"></path><g clip-path=\"url(#pi-clip1_19918_2)\"><path d=\"M11.5286 5.35759V18.694H19.6782C25.0542 18.694 27.3855 15.8216 27.3855 12.0125C27.3855 8.21854 25.0542 5.35742 19.6782 5.35742L11.5286 5.35759Z\" fill=\"white\"></path><path d=\"M19.7305 5.06445C26.8437 5.06445 27.9055 9.4164 27.9055 12.0098C27.9055 16.5096 25.0025 18.9876 19.7305 18.9876H11.0118V5.06462L19.7305 5.06445ZM11.6983 5.71921V18.3329H19.7305C24.5809 18.3329 27.2195 16.1772 27.2195 12.0098C27.2195 7.72736 24.3592 5.71921 19.7305 5.71921H11.6983Z\" fill=\"black\"></path><path d=\"M12.7759 17.3045H15.3474V12.9372H12.7757M15.6593 10.7375C15.6593 11.5796 14.944 12.2625 14.0613 12.2625C13.179 12.2625 12.4633 11.5796 12.4633 10.7375C12.4633 10.3332 12.6316 9.94537 12.9313 9.65945C13.231 9.37352 13.6374 9.21289 14.0613 9.21289C14.4851 9.21289 14.8915 9.37352 15.1912 9.65945C15.4909 9.94537 15.6593 10.3332 15.6593 10.7375Z\" fill=\"black\"></path><path d=\"M20.7043 11.4505V12.1573H18.8719V9.32029H20.6452V10.0266H19.6127V10.3556H20.5892V11.0616H19.6127V11.4503L20.7043 11.4505ZM21.06 12.158L21.9569 9.31944H23.0109L23.9075 12.158H23.1362L22.9683 11.6089H21.9995L21.8308 12.158H21.06ZM22.216 10.9028H22.7518L22.5067 10.1007H22.4623L22.216 10.9028ZM24.2797 9.31944H25.0205V11.4505H26.1178C25.8168 7.58344 22.6283 6.74805 19.7312 6.74805H16.6418V9.32063H17.0989C17.9328 9.32063 18.4505 9.86014 18.4505 10.7275C18.4505 11.6228 17.9449 12.157 17.0989 12.157H16.6422V17.3052H19.7308C24.4416 17.3052 26.081 15.218 26.1389 12.1572H24.2797V9.31944ZM16.6415 10.0273V11.4505H17.0992C17.4165 11.4505 17.7094 11.3631 17.7094 10.7278C17.7094 10.1067 17.3834 10.0271 17.0992 10.0271L16.6415 10.0273Z\" fill=\"#CC0066\"></path></g></g><defs><clipPath id=\"pi-clip0_19918_2\"><rect width=\"38\" height=\"24\" fill=\"white\"></rect></clipPath><clipPath id=\"pi-clip1_19918_2\"><rect width=\"17\" height=\"14\" fill=\"white\" transform=\"translate(11 5)\"></rect></clipPath></defs></svg>\n\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-maestro\"><title id=\"pi-maestro\">Maestro</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#00A2E5\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#7375CF\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg>\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg>\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-paypal\"><title id=\"pi-paypal\">PayPal</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path fill=\"#003087\" d=\"M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z\"></path><path fill=\"#3086C8\" d=\"M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z\"></path><path fill=\"#012169\" d=\"M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z\"></path></svg>\n                            </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-shopify_pay\"><title id=\"pi-shopify_pay\">Shop Pay</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\"></path><path d=\"M35.889 0C37.05 0 38 .982 38 2.182v19.636c0 1.2-.95 2.182-2.111 2.182H2.11C.95 24 0 23.018 0 21.818V2.182C0 .982.95 0 2.111 0H35.89z\" fill=\"#5A31F4\"></path><path d=\"M9.35 11.368c-1.017-.223-1.47-.31-1.47-.705 0-.372.306-.558.92-.558.54 0 .934.238 1.225.704a.079.079 0 00.104.03l1.146-.584a.082.082 0 00.032-.114c-.475-.831-1.353-1.286-2.51-1.286-1.52 0-2.464.755-2.464 1.956 0 1.275 1.15 1.597 2.17 1.82 1.02.222 1.474.31 1.474.705 0 .396-.332.582-.993.582-.612 0-1.065-.282-1.34-.83a.08.08 0 00-.107-.035l-1.143.57a.083.083 0 00-.036.111c.454.92 1.384 1.437 2.627 1.437 1.583 0 2.539-.742 2.539-1.98s-1.155-1.598-2.173-1.82v-.003zM15.49 8.855c-.65 0-1.224.232-1.636.646a.04.04 0 01-.069-.03v-2.64a.08.08 0 00-.08-.081H12.27a.08.08 0 00-.08.082v8.194a.08.08 0 00.08.082h1.433a.08.08 0 00.081-.082v-3.594c0-.695.528-1.227 1.239-1.227.71 0 1.226.521 1.226 1.227v3.594a.08.08 0 00.081.082h1.433a.08.08 0 00.081-.082v-3.594c0-1.51-.981-2.577-2.355-2.577zM20.753 8.62c-.778 0-1.507.24-2.03.588a.082.082 0 00-.027.109l.632 1.088a.08.08 0 00.11.03 2.5 2.5 0 011.318-.366c1.25 0 2.17.891 2.17 2.068 0 1.003-.736 1.745-1.669 1.745-.76 0-1.288-.446-1.288-1.077 0-.361.152-.657.548-.866a.08.08 0 00.032-.113l-.596-1.018a.08.08 0 00-.098-.035c-.799.299-1.359 1.018-1.359 1.984 0 1.46 1.152 2.55 2.76 2.55 1.877 0 3.227-1.313 3.227-3.195 0-2.018-1.57-3.492-3.73-3.492zM28.675 8.843c-.724 0-1.373.27-1.845.746-.026.027-.069.007-.069-.029v-.572a.08.08 0 00-.08-.082h-1.397a.08.08 0 00-.08.082v8.182a.08.08 0 00.08.081h1.433a.08.08 0 00.081-.081v-2.683c0-.036.043-.054.069-.03a2.6 2.6 0 001.808.7c1.682 0 2.993-1.373 2.993-3.157s-1.313-3.157-2.993-3.157zm-.271 4.929c-.956 0-1.681-.768-1.681-1.783s.723-1.783 1.681-1.783c.958 0 1.68.755 1.68 1.783 0 1.027-.713 1.783-1.681 1.783h.001z\" fill=\"#fff\"></path></svg>\n\n        </li><li class=\"list-payment__item\">\n                              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg>\n                            </li></ul>\n                </div>"
+          }
+        }
+      },
+      "block_order": [
+        "custom_liquid_6zjTGq",
+        "title",
+        "image_iV7UFk",
+        "kaching_bundles_app_block_4twMtr",
+        "custom_liquid_yz9JWX",
+        "custom_liquid_GiBQEa",
+        "buy_buttons",
+        "custom_liquid_b6eVwx"
+      ],
+      "custom_css": [],
+      "settings": {
+        "display_id": false,
+        "enable_sticky_info": true,
+        "display_variant_image_first": true,
+        "disable_prepend": false,
+        "hide_variants": false,
+        "variant_image_filtering": "none",
+        "image_zoom": "lightbox",
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "video_player": "play_btn",
+        "enable_video_looping": false,
+        "autoplay_videos_pause_btn": false,
+        "video_sound_btn": false,
+        "video_timeline": false,
+        "play_btn_color_scheme": "accent-1",
+        "sound_btn_color_scheme": "inverse",
+        "timeline_color": "accent-1",
+        "media_size": "medium",
+        "media_position": "left",
+        "gallery_layout": "thumbnail",
+        "desktop_thumbnails_count": 7,
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "desktop_arrows_position": "hidden",
+        "mobile_media_corner_radius": 0,
+        "mobile_spacing_pixels": 0,
+        "mobile_arrows_position": "sides",
+        "mobile_pagination": "dots_overlay",
+        "mobile_thumbnails": "hide",
+        "mobile_thumbnails_count": 5,
+        "mobile_scroll_padding_percentage": 0,
+        "mobile_scroll_padding_pixels": 14,
+        "enable_mobile_outher_spacing": false,
+        "mobile_slides_container_width": 100,
+        "mobile_slides_inner_width": 100,
+        "trust_badge_position": "top-right",
+        "trust_badge_size": "medium",
+        "mobile_padding_top": 24,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36
+      }
+    },
+    "image_slider_9EqfJP": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_hNH9q9": {
+          "type": "video_slide",
+          "disabled": true,
+          "settings": {
+            "video": "shopify://files/videos/site 1.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_tBK3NM": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/site 2.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_W9TDLq": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/site 3.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_Tka3Ny": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/site 4.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "video_slide_FrCUnm": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/site 5.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_hNH9q9",
+        "video_slide_tBK3NM",
+        "video_slide_W9TDLq",
+        "video_slide_Tka3Ny",
+        "video_slide_FrCUnm"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Elles l’utilisent chaque jour… et ne s’en passent plus !",
+        "title_highlight_color": "#121212",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "type": "loop",
+        "drag": "enabled",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 0,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 16,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 16,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 12,
+        "padding_bottom": 24,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "collapsible_content_LneXzr": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_HYByze": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Combien de filtres aromatisés dans un paquet ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Il y a 3 filtres aromatisés dans un paquet.</p><p>Pour de meilleurs résultats, nous conseillons d’en prendre jusqu’à 3 paquets.</p><p>Comme le risque de rechute est fréquent, nous recommandons aussi de vous abonner pour recevoir automatiquement de nouveaux cœurs chaque mois, c’est la façon la plus simple de rester motivé sur le long terme. </p><p>Vous trouverez tous les détails et pourrez vous abonner facilement sur la page après avoir ajouté au panier.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TJrLhi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-ce vraiment efficace pour arrêter de fumer ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Oui, 95 % des utilisateurs ont constaté une réduction significative des envies dès les premiers jours, grâce à la simulation réaliste de l'inhalation.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jbDqF3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-ce que c’est sans danger ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Oui. C’est 100 % sans nicotine, sans produits chimiques et fabriqué à partir d’huiles essentielles naturelles. </p><p>Il n’y a ni fumée ni vapeur, donc tu peux l’utiliser librement dans l’avion, au restaurant, au bureau, etc.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mVd76G": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Comment l'utiliser ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>C’est très simple : il suffit de dévisser le collier, de placer le cœur aromatisé à l’intérieur, puis d’inspirer doucement. </p><p>Et voilà ! Chaque paquet est livré avec des instructions claires, étape par étape, pour que tu puisses l’utiliser dès sa réception.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tGDB3t": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Paiement sécurisé",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p><strong>Moyens de paiement acceptés</strong></p><ul><li>Cartes bancaires : Visa, MasterCard, American Express<br/></li><li>PayPal, Apple Pay & Shop Pay : pour un paiement rapide, simple et sécurisé<br/></li></ul><p><strong>Sécurité et fiabilité</strong></p><ul><li><strong>Cryptage SSL 256 bits</strong> : toutes vos transactions sont protégées pour garantir la confidentialité de vos données<br/></li><li><strong>Vérification renforcée</strong> : chaque paiement est contrôlé pour prévenir toute tentative de fraude<br/></li></ul><p>Une question ?</p><p>Notre service client est disponible <strong>24h/24 et 7j/7</strong> pour vous accompagner</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jrnara": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Service client 7/7j",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Notre équipe est disponible <strong>7j/7</strong></p><p>Contactez-nous via l’onglet “Contact” de la boutique.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_HYByze",
+        "collapsible_row_TJrLhi",
+        "collapsible_row_jbDqF3",
+        "collapsible_row_mVd76G",
+        "collapsible_row_tGDB3t",
+        "collapsible_row_jrnara"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 0,
+        "padding_bottom": 24,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "insta_stories_Xid98m": {
+      "type": "insta-stories",
+      "blocks": {
+        "user_DCwdJG": {
+          "type": "user",
+          "settings": {
+            "username": "lonnielynn55",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/model3.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/SITE-Insta1 comp.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_zq8MjG": {
+          "type": "user",
+          "settings": {
+            "username": "chyrkina_vl",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/model2.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/SITE-Insta3.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        },
+        "user_3qcRgB": {
+          "type": "user",
+          "settings": {
+            "username": "brianna.m",
+            "verified": false,
+            "profile_picture": "shopify://shop_images/model1.jpg",
+            "close_friends": false,
+            "story_1_video": "shopify://files/videos/SITE-Insta2.mp4",
+            "story_1_media_fit": "contain",
+            "story_1_time_posted": "10m",
+            "story_1_bg": "#282828",
+            "story_2_media_fit": "contain",
+            "story_2_time_posted": "1h",
+            "story_2_bg": "#282828",
+            "story_3_media_fit": "contain",
+            "story_3_time_posted": "4h",
+            "story_3_bg": "#282828"
+          }
+        }
+      },
+      "block_order": [
+        "user_DCwdJG",
+        "user_zq8MjG",
+        "user_3qcRgB"
+      ],
+      "disabled": true,
+      "name": "Instagram stories",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Viral on Instagram",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "autoplay_speed": 10,
+        "padding_top": 8,
+        "padding_bottom": 40,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "ss_gallery_1_MzWe39": {
+      "type": "ss-gallery-1",
+      "blocks": {
+        "image_CM7GPq": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/2.webp",
+            "gallery_url": ""
+          }
+        },
+        "image_bi3Etb": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/3.webp",
+            "gallery_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CM7GPq",
+        "image_bi3Etb"
+      ],
+      "disabled": true,
+      "name": "SS - Image Gallery",
+      "settings": {
+        "show_all_mobile": true,
+        "gallery_title": "They’re already seeing results… why not you?",
+        "gallery_title_font_size": 26,
+        "gallery_insta_title": "",
+        "gallery_insta_url": "",
+        "gallery_image": "shopify://shop_images/1.webp",
+        "gallery_url": "",
+        "section_bg_color": "#faf8f6",
+        "type_header_font": "playfair_display_n4",
+        "type_insta_font": "playfair_display_n4",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "section-width": 120
+      }
+    },
+    "rich_text_UaCRjL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wXX8mA": {
+          "type": "heading",
+          "settings": {
+            "title": "Toujours avec vous prêt à vous libérer",
+            "title_highlight_color": "#121212",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wXX8mA"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "custom_liquid_gHXmbN": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "custom_liquid": "<div class=\"gif-wrapper\" style=\"text-align: center; padding: px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0946/0835/9766/files/copier_1_1.gif?v=1758458423\"\n    alt=\"Video_gif\" \n    style=\"max-width: 100%; height: auto; border-radius: 8px;\" \n    loading=\"lazy\"\n  />\n</div>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "ss_simple_faq_3K6j3e": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_MLXtTy": {
+          "type": "text",
+          "settings": {
+            "question": "Comment ça aide à arrêter les mauvaises habitudes ?",
+            "answer": "<p>Il reproduit la sensation rassurante du geste main-à-bouche, tout en offrant une alternative saine et apaisante aux anciennes habitudes. </p><p>Conçu pour des moments de pleine conscience, il t’accompagne dans ta transition en douceur sans nicotine ni toxines.</p>"
+          }
+        },
+        "text_gneRR9": {
+          "type": "text",
+          "settings": {
+            "question": "Combien de temps dure chaque filtre ?",
+            "answer": "<p>Un filtre, parmi les trois inclus dans le set, dure environ 5 jours. Pour éviter les rechutes (ce qui est très fréquent) nous recommandons de souscrire à l’abonnement. </p><p>Rester régulier et avoir un soutien peut vraiment faire la différence dans ton parcours.</p>"
+          }
+        },
+        "text_7m8Vwp": {
+          "type": "text",
+          "settings": {
+            "question": "Combien de filtres y a-t-il dans chaque paquet de filtres aromatisés ?",
+            "answer": "<p>Il y a 3 filtres dans chaque paquet. </p><p>Pour des résultats durables, nous recommandons d’en prendre au moins 2 paquets.</p>"
+          }
+        },
+        "text_edbP3T": {
+          "type": "text",
+          "settings": {
+            "question": "Qu’y a-t-il à l’intérieur du collier ?",
+            "answer": "<p>À l’intérieur de chaque collier se trouve une capsule aromatisée conçue pour offrir une traction douce et satisfaisante.</p><p>Sans produits chimiques, sans nicotine et sans substances nocives.</p>"
+          }
+        },
+        "text_TgzpwJ": {
+          "type": "text",
+          "settings": {
+            "question": "Est-ce que je peux l’utiliser partout ?",
+            "answer": "<p>Absolument ! Discret et élégant, il ne produit aucune fumée, ce qui le rend parfait dans les lieux sociaux où fumer ou vaper est interdit. </p><p>Tu peux l’utiliser dans l’avion, au restaurant ou même au travail.</p>"
+          }
+        },
+        "text_jgwFJV": {
+          "type": "text",
+          "settings": {
+            "question": "Et si ça ne marche pas pour moi ?",
+            "answer": "<p>Si ça ne fonctionne pas pour toi, nous te remboursons. Il te suffit de nous renvoyer le produit et, dès réception, nous lançons le remboursement. </p><p>Ta satisfaction est notre priorité et nous faisons tout pour que ton expérience soit positive.</p>"
+          }
+        },
+        "text_Mj6abY": {
+          "type": "text",
+          "settings": {
+            "question": "Est-ce que ce n’est pas juste une autre addiction ?",
+            "answer": "<p>Non, ce n’est pas une addiction, puisqu’il n’y a ni nicotine ni substances nocives. </p><p>C’est simplement de l’air aromatisé, conçu pour calmer tes envies sans aucun effet néfaste. </p><p>Le collier agit en stimulant tes sens et aide ton cerveau à rediriger tes habitudes vers une alternative plus saine.</p>"
+          }
+        },
+        "text_GNfXkL": {
+          "type": "text",
+          "settings": {
+            "question": "Pourquoi est-ce sous forme de collier ?",
+            "answer": "<p>Le design en collier est une innovation chic qui allie style et praticité. </p><p>Porté autour du cou, il reste toujours à portée de main pour t’aider dès que l’envie se fait sentir. </p><p>Ce format pratique et élégant t’assure de ne jamais le perdre et de garder le contrôle à tout moment, en combinant style au quotidien et soutien concret.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MLXtTy",
+        "text_gneRR9",
+        "text_7m8Vwp",
+        "text_edbP3T",
+        "text_TgzpwJ",
+        "text_jgwFJV",
+        "text_Mj6abY",
+        "text_GNfXkL"
+      ],
+      "name": "Faq",
+      "settings": {
+        "heading": "Questions les plus fréquentes",
+        "icon_color": "#ffffff",
+        "hover_color": "#efefef",
+        "question_color": "#ffffff",
+        "background_color": "#2d5c7f",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
+        "questions-font-size": 1.3
+      }
+    },
+    "rich_text_J7c6xd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_aaHrtd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Service client disponible 7/7j, réponse garantie généralement en moins de 6h</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_aaHrtd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "title": "You may also like",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    },
+    "b321ab88-2b59-4dba-bade-54885c874ca5": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1752867389a593260c": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
+    "sp_image_icon_grid_LqbPAU": {
+      "type": "sp-image-icon-grid",
+      "blocks": {
+        "icon_TXigcx": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/2_1_11zon_1_11zon.webp",
+            "headline": "Paiement sécurisé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_aTqmUC": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/3_2_11zon_2_11zon.webp",
+            "headline": "Livraison gratuite",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_CBqHtP": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/4_3_11zon_3_11zon.webp",
+            "headline": "Satisfait ou remboursé",
+            "text": "",
+            "link": ""
+          }
+        },
+        "icon_i6QGpi": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/5_4_11zon_4_11zon.webp",
+            "headline": "Service client 7/7",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_TXigcx",
+        "icon_aTqmUC",
+        "icon_CBqHtP",
+        "icon_i6QGpi"
+      ],
+      "name": "🚀SP - Image Icon Grid",
+      "settings": {
+        "text_font": "playfair_display_n4",
+        "text_size": 13,
+        "headline_font": "playfair_display_n4",
+        "headline_size": 13,
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "text_color": "#111111",
+        "highlight_color": "#111111",
+        "mobile_columns": "1fr 1fr",
+        "max_width": 400,
+        "grid_gap": 10,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 8,
+        "padding_right": 10
+      }
+    },
+    "175717509901fb24d3": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_H4TG8D": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 6,
+            "hide_thumbnails": true,
+            "maxwidth": 1080,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_H4TG8D"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
+    "contact_form_xEhnqk": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Une question ?",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
+    },
+    "section_divider_QBHFYr": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "17537818817a6a7f72": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "sp_image_standalone_E87wzp",
+    "custom_liquid_qew8QU",
+    "rich_text_zkXgy4",
+    "custom_liquid_3xmHyG",
+    "rich_text_xz4Pme",
+    "image_with_text_FH83Lt",
+    "rich_text_AtD3yg",
+    "slideshow_qxrqGF",
+    "main",
+    "image_slider_9EqfJP",
+    "collapsible_content_LneXzr",
+    "insta_stories_Xid98m",
+    "ss_gallery_1_MzWe39",
+    "rich_text_UaCRjL",
+    "custom_liquid_gHXmbN",
+    "ss_simple_faq_3K6j3e",
+    "rich_text_J7c6xd",
+    "related-products",
+    "b321ab88-2b59-4dba-bade-54885c874ca5",
+    "1752867389a593260c",
+    "sp_image_icon_grid_LqbPAU",
+    "175717509901fb24d3",
+    "contact_form_xEhnqk",
+    "section_divider_QBHFYr",
+    "17537818817a6a7f72"
+  ]
+}
