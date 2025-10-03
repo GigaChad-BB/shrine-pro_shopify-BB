@@ -95,7 +95,8 @@
       "read_more_title": "Read more: {{ title }}",
       "comments": {
         "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "other": "{{ count }} comments",
+        "many": "{{ count }} comments"
       },
       "moderated": "Please note, comments need to be approved before they are published.",
       "comment_form_title": "Leave a comment",
@@ -189,7 +190,8 @@
       "filter_button": "Filter",
       "filters_selected": {
         "one": "{{ count }} selected",
-        "other": "{{ count }} selected"
+        "other": "{{ count }} selected",
+        "many": "{{ count }} selected"
       },
       "filter_selected_accessibility": "{{ type }} ({{ count }} filters selected)",
       "show_more": "Show more",
@@ -201,7 +203,8 @@
       },
       "product_count_simple": {
         "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "other": "{{ count }} products",
+        "many": "{{ count }} products"
       },
       "reset": "Reset",
       "sort_button": "Sort",
@@ -221,23 +224,28 @@
       "products": "Products",
       "results_pages_with_count": {
         "one": "{{ count }} page",
-        "other": "{{ count }} pages"
+        "other": "{{ count }} pages",
+        "many": "Pages {{ count }}"
       },
       "results_suggestions_with_count": {
         "one": "{{ count }} suggestion",
-        "other": "{{ count }} suggestions"
+        "other": "{{ count }} suggestions",
+        "many": "{{ count }} suggestions"
       },
       "results_products_with_count": {
         "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "other": "{{ count }} products",
+        "many": "Products {{ count }}"
       },
       "results_with_count": {
         "one": "{{ count }} result",
-        "other": "{{ count }} results"
+        "other": "{{ count }} results",
+        "many": "{{ count }} results"
       },
       "results_with_count_and_term": {
         "one": "{{ count }} result found for “{{ terms }}”",
-        "other": "{{ count }} results found for “{{ terms }}”"
+        "other": "{{ count }} results found for “{{ terms }}”",
+        "many": "{{ count }} results found for \" {{ terms }} \""
       },
       "title": "Search results",
       "search_for": "Search for “{{ terms }}”",
@@ -266,7 +274,8 @@
       "menu": "Menu",
       "cart_count": {
         "one": "{{ count }} item",
-        "other": "{{ count }} items"
+        "other": "{{ count }} items",
+        "many": "{{ count }} articles"
       }
     },
     "cart": {
@@ -535,6 +544,70 @@
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
+    }
+  },
+  "customer_accounts": {
+    "B2B": {
+      "orders": {
+        "draft_order_list": {
+          "pending_tab_accessibility_label": {
+            "pending_orders": {
+              "many": "You have {{count}} pending orders"
+            }
+          }
+        }
+      },
+      "draft_order_details": {
+        "payment_status": {
+          "pending": {
+            "banner_overdue": {
+              "many": "You are {{count}} days late with your payment."
+            },
+            "banner_due": {
+              "many": "Your payment is due in {{count}} days"
+            }
+          }
+        }
+      }
+    },
+    "errors": {
+      "banner_title": {
+        "many": "There are {{count}} errors"
+      }
+    },
+    "ui_components": {
+      "autocompleteOptionsAvailable": {
+        "many": "{{count}} items available"
+      },
+      "month": {
+        "many": "month"
+      },
+      "mapClusterTitle": {
+        "many": "Cluster of {{number}} markers"
+      }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneHourAgo": {
+          "many": "{{count}} minutes ago"
+        }
+      }
+    },
+    "subscriptions": {
+      "subscription_contracts": {
+        "more_items": {
+          "many": "and {{count}} more products"
+        },
+        "product_count": {
+          "many": "{{count}} products"
+        }
+      },
+      "updating_contracts": {
+        "many": "Updating {{count}} subscription contracts..."
+      },
+      "contracts_updated": {
+        "many": "{{count}} subscription contracts successfully updated"
+      }
     }
   }
 }
