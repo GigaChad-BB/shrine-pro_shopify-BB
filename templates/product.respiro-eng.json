@@ -382,9 +382,8 @@
         },
         "image_iV7UFk": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/PROMO-COMP.jpg",
+            "image": "shopify://shop_images/PROMO_11zon.webp",
             "width": 100,
             "Full_mobile_width": false,
             "alignment": "center",
